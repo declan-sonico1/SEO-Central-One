@@ -1,0 +1,443 @@
+URL: https://ahrefs.com/blog/online-reputation-management/
+
+# A 5-Step Online Reputation Management Guide (That ANYONE Can Follow)
+
+Have you ever Googled yourself (or your company) and seen a negative comment or review? Then you should consider proactive online reputation management.
+
+But it’s not just negative reviews you need to be aware of.
+
+For example, Google “hellofresh pricing” and you’ll see [this](https://www.google.com/search?q=hellofresh+pricing).
+
+![hellofresh pricing serp](https://ahrefs.com/blog/wp-content/uploads/2018/04/hellofresh-pricing-serp.png)
+
+I’d be willing to bet that those who type this into Google are one step away from signing up to HelloFresh (as the query has high purchase intent). Yet the first thing they see is a featured snippet introducing their competitor!
+
+_(This probably has a dire effect on conversions for HelloFresh.)_
+
+Let’s learn more about online reputation management and how it can help.
+
+Online reputation management (ORM) is the practice of using [digital marketing tactics](https://ahrefs.com/blog/digital-marketing-tactics/) and channels to help shape the public perception of a brand, organization, or individual online.
+
+But what does this actually involve?
+
+Well, it may involve using Twitter to jump in on conversations and tackle negative or defamatory comments about your company.
+
+Oxfam are great at this.
+
+![oxfam twitter conversation](https://ahrefs.com/blog/wp-content/uploads/2018/04/oxfam-twitter-conversation.png)
+
+By responding to such criticism in an open and respectful manner (notice that they weren’t even tagged in the tweet - that’s real dedication!), they are able to defend their reputation and hone customer perception.
+
+But while social media is important, I’d argue that **SEO reputation management** is even more important.
+
+To illustrate, try Googling “t mobile reviews”. You’ll see [this](https://www.google.co.uk/search?q=vodafone+reviews).
+
+![t mobile reviews](https://ahrefs.com/blog/wp-content/uploads/2018/04/t-mobile-reviews.png)
+
+the #1 result for “t mobile reviews” - a search term with an estimated 8.5K searches/month in the US!
+
+Oh dear… this is certainly not the most desirable #1 result for t-mobile.
+
+A bit of proactive reputation management—well, a lot, in this case—could potentially “fix” this.
+
+IMPORTANT!
+
+Here at Ahrefs **we only advocate [honest marketing](https://ahrefs.com/blog/ethical-marketing/)**.
+
+So if you have a bad review (like T-Mobile does), you should first and foremost try to resolve the CAUSE of this bad review.
+
+_(This may mean improving your product or service, offering better customer support, or something else—it depends on what the CAUSE of the bad review was.)_
+
+You should ONLY turn to reputation management if the review is subjective and unfairly biased.
+
+But search engine reputation management is about much more than quelling unfair reviews.
+
+It’s about making sure your brand, products and services are accurately represented in the search results. _(Remember the HelloFresh example I shared at the beginning of this guide?)_
+
+Here’s how to do this, step-by-step. 
+
+## 1\. Check the first page of results (in Google) for your company… and make sure you OWN the bulk of them
+
+OK; let’s start with the basics.
+
+It goes without saying that when someone Google’s you or your company, your website should be the first result.
+
+Not ranking in position #1 for your brand? Here’s how to solve this…
+
+This is usually caused by one of three issues:
+
+1.  your website isn’t indexed;
+2.  you have a Google penalty;
+3.  you don’t have any backlinks to your website.
+
+Read [this article](https://www.seomechanic.com/why-is-my-website-not-showing-in-google-search-results/) for more details about (and solutions for) the first two issues.
+
+If you feel that your website may not be appearing due to a lack of backlinks, then go to:
+
+_Site Explorer > enter your domain_
+
+![ahrefs site explorer overview](https://ahrefs.com/blog/wp-content/uploads/2018/04/ahrefs-site-explorer-overview.png)
+
+You will then see how many backlinks and referring domains you have. (_Read our_ _[link building guide](https://ahrefs.com/blog/link-building/)_ _if you need help in this department.)_ 
+
+But what about the rest of the results on page one?
+
+Ideally, you want these to be predominantly “owned” search results (i.e., those where you control the content). So that includes your:
+
+*   Twitter;
+*   Facebook;
+*   LinkedIn;
+*   YouTube channel;
+*   Behance;
+*   Etc.
+
+The easiest way to do this is:
+
+1.  make sure you have any appropriate profiles (and that you’re active on them)
+2.  link to them from your website (ideally using a sitewide footer link)
+3.  link to them from other third-party websites on which you’ve registered (e.g., forums, directories, etc.)
+
+This will tell Google that these are your “official” pages and increase the chance of them ranking in the SERPs.
+
+But this will only usually be the case if you keep them active, which can be quite a tedious task in itself. So I recommend using something like [Buffer](https://buffer.com/) or [Hootsuite](https://hootsuite.com/), as this will allow you to syndicate a single message to all your social platforms.
+
+Sidenote.
+
+ Keep in mind that certain types of content are better-suited to specific platforms (e.g., images for Instagram or Pinterest, etc.). I would, therefore, recommend that you don’t attempt to automate this fully. Just use these applications to take care of some of the heavy-lifting and reduce the time needed to manage your social profiles.
+
+But, what if you don’t own all these results? What then?
+
+Two options:
+
+1.  **If the unowned content is positive in nature** (e.g., a good review, or a well-written guide), don’t worry about it. Just keep your eye on the SERPs and monitor for any potentially negative changes in this department.
+2.  **If the unowned result is negative in nature**, reach out to whoever wrote it and see what you can do. If it’s unfair or overly-subjective, work with them and see if they’re willing to change it.
+
+Sidenote.
+
+There is a third option, which we’ll talk about a bit later in step #3 
+
+## 2\. Find high-traffic articles that negatively reflect your brand… then fix them!
+
+People have _probably_ mentioned your brand, products or services in their articles in the past.
+
+This may be in **reviews**, **guides**, **stories**, **competitor comparisons** (i.e., “your brand vs. competitor”), etc.
+
+But that’s a good thing, right!?
+
+**Not always.**
+
+What if these mentions unfairly portray you and your company, or are simply outdated and inaccurate?
+
+And what if such articles receive _thousands_ of visitors organic search traffic each month?
+
+That’s a lot of people reading negative, outdated or inaccurate things about your company.
+
+The solution? **Find such articles and nip them in the bud asap!**
+
+Here’s how:
+
+_[Content Explorer](https://ahrefs.com/content-explorer) > your brand name > select “everywhere” > exclude your own site_
+
+![ahrefs content explorer branded search](https://ahrefs.com/blog/wp-content/uploads/2018/04/ahrefs-content-explorer-branded-search.png)
+
+This will find all mentions of your brand on sites other than your own.
+
+Next, use the built-in filters to refine these results to show ONLY pages with a decent amount of estimated organic search traffic (e.g., 1000+/month).
+
+![ahrefs branded search content explorer](https://ahrefs.com/blog/wp-content/uploads/2018/04/ahrefs-branded-search-content-explorer.png)
+
+Sidenote.
+
+It’s also worth filtering for English results, too.
+
+Here’s [a post by Matthew Barby](https://ahrefs.com/content-explorer/overview/v4/en/1/score_desc?topic=ahrefs%20-site%3Aahrefs.com&filter-traffic=1000-0) with an estimated 1.2K visits from organic search per month (that mentions Ahrefs).
+
+![matthew barby article content explorer traffic](https://ahrefs.com/blog/wp-content/uploads/2018/04/matthew-barby-article-content-explorer-traffic.png)
+
+Matthew hasn’t updated this post since March 2016, so it still contains screenshots of the old Ahrefs UI.
+
+![matthew barby old ahrefs ui](https://ahrefs.com/blog/wp-content/uploads/2018/04/matthew-barby-old-ahrefs-ui.png)
+
+If you find any mentions like this, it’s worth reaching out and requesting that the outdated or inaccurate information be fixed.
+
+This is because such inconsistencies and inaccuracies can cost you customers and cause a lot of frustration, as they set the wrong expectations.
+
+So, reach out to the person who wrote or published the article and ask them to fix the issue(s). You can even offer to fix it for them (i.e., rewrite the inaccurate part of the post and send it to them to upload.)
+
+Editor’s Note
+
+We reached out to Matthew Barby about the outdated Ahrefs screenshots in the article on his blog.
+
+This was his response:
+
+![](https://ahrefs.com/blog/wp-content/uploads/2018/05/matt-barby-response.jpg)
+
+So I did exactly that—I sent him updated screenshots for his article.
+
+It doesn’t look like he’s had chance to update it yet, but I’m sure he’ll get round to it. _(C’mon, Matt!)_ 
+
+![Joshua Hardwick](https://ahrefs.com/blog/wp-content/uploads/2017/09/me.jpg)
+
+But what if you find something more serious? E.g., a scathingly negative review.
+
+If the review is objective, you should ALWAYS first fix the root cause before asking the author of the review to update it. But if the review is subjective and there’s no way to fix it from your end, or if the author simply refuses to revoke their unfair critique, then keep reading 
+
+## 3\. Push negative reviews (and mentions) down in the SERPs… and pull positive ones up!
+
+> _**DISCLAIMER**_: You only need to pay attention to this section if (a) you found at least one negative review using the tactics above, and (b) you’ve done everything in your power to reach a mutual agreement with the publisher of the negative review or article and resolve the issue. We don’t advise trying to bury bad reviews if they’re objective. That’s not “reputation management.” That is a SCAM. But if the review is not objective, and the author is unreasonable and unwilling to remove it, then this is the last resort.__
+
+Some negative reviews are more of a problem than others.
+
+**It all depends on if and where they rank. And if they receive a lot of traffic.**
+
+For example, let’s say that you manufacture microphones.
+
+What if a potential customer Google’s something like “blue snowball ice review” (we’re assuming this is one of the mics you produce) and see’s a negative review on the first page of results?
+
+Well, this will probably put them off ever doing business with you.
+
+![blue snowball review](https://ahrefs.com/blog/wp-content/uploads/2018/04/blue-snowball-review.png)
+
+this page ranks in position #1 for “blue snowball ice review.”
+
+Same goes for ANY negative review that gets a lot of organic search traffic.
+
+See which keywords are sending the most organic search traffic to negative reviews
+
+Did you find a negative review in step #2? (I.e., in [Content Explorer](https://ahrefs.com/content-explorer))
+
+_Details > Organic Keywords._
+
+This will show you which keywords send the most organic search traffic to that page.
+
+![details organic keywords content explorer](https://ahrefs.com/blog/wp-content/uploads/2018/04/details-organic-keywords-content-explorer.png)
+
+If you didn’t find the review in step #2, but have the URL, then do this:
+
+_[Site Explorer](https://ahrefs.com/site-explorer) > enter URL -> Organic Keywords_
+
+![site explorer organic keywords](https://ahrefs.com/blog/wp-content/uploads/2018/04/site-explorer-organic-keywords.png)
+
+But why do these negative reviews rank and attract organic search traffic in the first place?
+
+It’s usually because they have more—or perhaps stronger—backlinks than the results ranking below them.
+
+Let’s take a look at this page in Site Explorer to see the backlinks situation.
+
+_[Site Explorer](https://ahrefs.com/site-explorer) > paste URL > Overview_
+
+![blue snowball site explorer backlinks](https://ahrefs.com/blog/wp-content/uploads/2018/04/blue-snowball-site-explorer-backlinks.png)
+
+Hmm, looks like it only has one backlink from one referring domain in this case.
+
+So why is it ranking?
+
+Let’s use the **SERP overview** feature in [Keywords Explorer](https://ahrefs.com/keywords-explorer) to find out.
+
+![blue snowball ice review serp overview](https://ahrefs.com/blog/wp-content/uploads/2018/04/blue-snowball-ice-review-serp-overview.png)
+
+We can see that _all_ of the pages competing for this query have very few (if any) backlinks.
+
+So that’s why the negative review (with only a single backlink) is able to rank #1.
+
+But here’s the thing:
+
+One of the reviews that ranks below this review is much more positive.
+
+![blue snowball review techradar](https://ahrefs.com/blog/wp-content/uploads/2018/04/blue-snowball-review-techradar.png)
+
+So it would be preferable for this to rank on page 1 in place of the negative review, right?
+
+Definitely. And here’s the good news: this is pretty doable; chances are you would just need to point one or two good links to this page and it would push that negative review down.
+
+Editor’s Note
+
+Remember, you should ONLY do this if the review is unfair or inaccurate.
+
+Never try to bury a subjective review.
+
+In this case, I would personally say that the review is a little unfair.
+
+I used one of these mics a while back (before upgrading to the Blue Yeti) and I would give it higher than 3-stars.
+
+If you [check on Amazon](https://www.amazon.com/Blue-Snowball-iCE-USB-Microphone/dp/B006DIA77E/r), it would seem that the majority of people agree with me.
+
+![](https://ahrefs.com/blog/wp-content/uploads/2018/04/blue-snowball-reviews-amazon.jpg)
+
+![Joshua Hardwick](https://ahrefs.com/blog/wp-content/uploads/2017/09/me.jpg)
+
+A good starting point is to add a link to the positive review from your own site (i.e., you could quote it on your testimonials page, then add the testimonial to your homepage);
+
+But if that isn’t enough to push it up a few spots, you can also link to it from guest posts.
+
+Here’s the process for this:
+
+1.  Find a few sites in your niche that accept guest posts (learn how to do this [here](https://ahrefs.com/blog/guest-blogging/));
+2.  Write a post for them. **Note:** this should be somewhat related to the keywords you want to rank the positive review for. _(E.g., in this case, we might write a post entitled “the ultimate guide to podcasting” that featured the Blue Snowball mic)_
+3.  Link to the desirable review (i.e., the positive one) that you want to rank from your guest post
+
+For example, if I was to write “the ultimate guide to podcasting” as a guest post on, say, _smarthustle.com_, I would link to Techradar’s positive Blue Snowball review from that post.
+
+Do this a few times and that review would almost certainly push the negative review out of the SERPs.
+
+## 4\. Find popular branded search terms… then create content to address those searches
+
+People are searching for all kinds of things related to your brand—it’s not just reviews.
+
+If you’re not there (i.e., in the SERPs) when they search for these things, they’re going to end up getting their information from a third-party.
+
+**This** **may** **not be desirable.**
+
+For example, if someone searches for “ahrefs vs. moz”, well, it’s important to us that the first result (which gets the most traffic) is objective and accurate.
+
+This doesn’t necessarily mean that we need to own this result, but this is one way to ensure that details relating to our product are accurate.
+
+But how do you find popular branded search terms?
+
+Simple; use [Keywords Explorer](https://ahrefs.com/keywords-explorer).
+
+_Keywords Explorer > your brand name > phrase match_
+
+![ahrefs phrase match keywords explorer](https://ahrefs.com/blog/wp-content/uploads/2018/04/ahrefs-phrase-match-keywords-explorer.png)
+
+Sidenote.
+
+You can also filter for queries with a high search volumes if you wish to narrow these results down further.
+
+You can see that “ahrefs vs moz” has an estimated search volume of 80 searches/month.
+
+So what ranks in the top spot for this query?
+
+It looks like it’s [this post](https://www.process.st/ahrefs-vs-moz/) from Process Street, which hasn’t been updated since 2016.
+
+As such, some of the facts and screenshots in this article are out of date and inaccurate—like pricing, for example:
+
+![out of date ahrefs prices reputation management](https://ahrefs.com/blog/wp-content/uploads/2018/04/out-of-date-ahrefs-prices-reputation-management.png)
+
+This is an issue.
+
+We want to make sure that potential customers’ expectations are accurately set.
+
+So we have two options:
+
+1.  Reach out to the author and ask that he update the post with accurate and up-to-date information. _(This is what we covered in point #2, remember?)_;
+2.  Create our own piece of content around this term… and try to outrank him.
+
+In all likeliness, the first option will be quicker and easier. So it’s usually worth giving that a shot before moving onto the second option.
+
+Editor’s Note
+
+We reached out to Benjamin Brandall—the author of this post—to see what we could do.
+
+This was his response:
+
+![](https://ahrefs.com/blog/wp-content/uploads/2018/05/process-street-benjamin.jpg)
+
+So this is exactly what I did—I sent over a Google Doc highlighting inaccuracies, and also added updated screenshots.
+
+We’re hoping this post will be updated soon. 
+
+![](https://ahrefs.com/blog/wp-content/uploads/2018/05/ben-process-street-response.jpg)
+
+![Joshua Hardwick](https://ahrefs.com/blog/wp-content/uploads/2017/09/me.jpg)
+
+But the second option is a good call in some cases… especially as you can often quite easily rank for branded terms.
+
+Just remember that if you do create your own content around such terms, the aim is to rank #1 and ensure that your brand is accurately represented. You shouldn’t write a sales pitch. Keep it as fair and unbiased as you possibly can.
+
+Want to take this a step further? Find newly discovered branded terms and create content before anyone else!
+
+For most brands, new branded search queries pop up all the time.
+
+So while you may already have created content around such popular terms (e.g., “you vs. bigger competitor”), how do you keep up with new branded searches your potential customers are making?
+
+Simple; use the “newly discovered” feature in Keywords Explorer.
+
+_Keywords Explorer > enter your brand name (e.g., Ahrefs) > Newly discovered_
+
+![keywords explorer newly discovered](https://ahrefs.com/blog/wp-content/uploads/2018/04/keywords-explorer-newly-discovered.png)
+
+This shows you the queries (containing your brand name) that have recently been added to Ahrefs’ database. Thus, they’re things potential customers have been searching for very recently.
+
+You can often find some real gems in here, including issues your customers are experiencing with your product or service.
+
+For example, here’s a newly-discovered query for [Cloudapp](https://www.getcloudapp.com/)—you can see that their Windows-based customers are clearly having trouble with their Windows app.
+
+![cloudapp crashes on windows](https://ahrefs.com/blog/wp-content/uploads/2018/04/cloudapp-crashes-on-windows.png)
+
+As software updates occur all the time, this is probably a new issue that Cloudapp may or may not already be aware of.
+
+But awareness aside, the SERPs for this query are _definitely_ a problem, as the top two results are totally unrelated to Cloudapp.
+
+![cloudapp crashes on windows serps](https://ahrefs.com/blog/wp-content/uploads/2018/04/cloudapp-crashes-on-windows-serps.png)
+
+This means that their frustrated customers aren’t able to find a solution to their problem, because Cloudapp hasn’t created an content (i.e., a “help” article) around this term.
+
+The bottomline? Ranking for and carefully addressing the queries your customers have in relation to your brand will ensure that they aren’t left feeling stuck and frustrated—a feeling that very rarely leads to long-term conversions.
+
+So, once you identify worthwhile queries, you can then create content around them in order to rank.
+
+## 5\. Set up alerts for your company name… then tackle any potentially reputation-damaging reviews and mentions in real-time
+
+You should now have solved most existing negative reviews and mentions.
+
+But your work isn’t done yet, as people are likely talking about you or your company all the time.
+
+**This means that NEW negative reviews and mentions will pop up in the future.**
+
+Unless you’re actively monitoring for mentions of your brand, you won’t have a clue what people are saying about you. This means you can’t possibly react in a timely manner and potentially lessen the blow of any new negative reviews or comments.
+
+Even worse, unless you’re quick to nip such negatively in the bud, who’s to say that such articles won’t be ranking in Google in a few weeks?
+
+That’s why you should actively monitor brand mentions using an alerts service, such as:
+
+*   **[Ahrefs Alerts](https://ahrefs.com/alerts)**;
+*   [Mention.com](https://mention.com/en/);
+*   [Brand24](https://brand24.com/);
+*   [Google Alerts](https://www.google.com/alerts);
+
+Here’s how to set this up in Ahrefs Alerts:
+
+_Ahrefs Alerts > Mentions_
+
+Create an alert for your company name (e.g., “ahrefs.”)
+
+To prevent Ahrefs sending alerts for mentions on your own domain, add your website as an excluded domain. I also recommend adding sites like _youtube.com_, _sites.google.com_, and any other sites you prefer not to monitor.
+
+![ahrefs alert exclusions](https://ahrefs.com/blog/wp-content/uploads/2018/04/ahrefs-alert-exclusions.png)
+
+Sidenote.
+
+There are many dedicated tools for “social listening” (i.e., monitoring brand mentions on Twitter, Facebook, etc.). But it’s important to remember that social posts usually aren’t as important as article mentions; that’s why we don’t crawl LinkedIn or Twitter for the Content Explorer database. I would also say that so-called social listening is more a job for your SMM and customer care teams.
+
+Leave the mode as “everywhere” and set the language to “English” (unless you wish to monitor mentions in multiple languages.)
+
+Now, whenever you’re mentioned on the web, you’ll get an email telling you about it.
+
+You can then dig deeper and tackle any negativity head on by:
+
+*   Requesting the removal of any inaccurate reviews or comments;
+*   Tracking rankings of “negative” pages and making sure they don’t rank for terms that may hurt sales;
+*   Etc.
+
+And if the negative review or comments were caused by an issue with your product or service, you can fix said issue to make sure it’s not a problem for anyone else in future.
+
+## Final Thoughts
+
+Like I said earlier, online reputation management is NOT about quashing negative reviews—especially not if they’re objective and fair.
+
+_(That’s dishonest and something we absolutely do not advocate.)_
+
+It’s about making sure your brand is accurately represented wherever your customers (and potential customers) are looking for you… I.e., on Google.
+
+Because [Google rankings](https://ahrefs.com/blog/check-your-ranking-on-google/) change all the time, reputation management is an ongoing process.
+
+You should, therefore, proactively monitor for new mentions of your brand and deal with any potential issues in a timely manner.
+
+Don’t have time to do this yourself?
+
+Hire an online reputation management company to do it for you.
+
+Just ask them about the details of their service and ask if they’re able to do any of the things mentioned above—any worthwhile companies will be familiar with these issues.
+
+Let me know in the comments if you have any other cool reputation management tips! 

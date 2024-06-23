@@ -1,0 +1,230 @@
+URL: https://ahrefs.com/blog/seo-pricing/
+
+# SEO Pricing: How Much Does SEO Cost? 439 People Polled
+
+Most businesses paying a monthly retainer for SEO will pay between $500 to $1,500 per month. For those paying by the hour, $75 to $100 is the most popular hourly rate. For one-off SEO projects, $2,501 to $5,000 per-project is most common.
+
+How do we know? We surveyed 400+ members of the SEO industry. Here are few more top takeaways:
+
+1.  Monthly retainers range from $500 to $1,500.
+2.  Hourly rates for SEO services are often priced at $75 to $100 per hour.
+3.  Project-based fees are usually between $2,501 to $5,000.
+4.  Agencies and consultants usually charge more than freelancers
+5.  78.2% of SEOs charge monthly retainers for some or all of their services.
+6.  54.5% of SEOs only offer one pricing model (i.e., hourly, retainer, or per-project).
+7.  $501–$1,000 is the most popular monthly retainer.
+8.  $75–$100 is the most popular hourly rate. 
+9.  $2,501–$5,000 is the most popular per-project rate. 
+10.  Fewer than 1 in 10 SEOs (9.9%) charge more than $150/hour.
+11.  Agencies and consultants charge significantly more than freelancers.
+12.  There’s a clear positive correlation between experience and rates. (Surprising, right?)
+13.  Local SEOs charge less than those with global clients.
+14.  SEOs based in India, Central America, and South America charge the least.
+
+Let’s take a look at each pricing model in more detail.
+
+Sidenote.
+
+We had 439 submissions in total. However, after reviewing them, we removed 89, as they were either duplicates or spam. For example, many respondents supplied a website they clearly didn’t own (e.g., google.com) or had nothing to do with SEO. If a respondent’s site didn’t clearly offer SEO services, we removed them from our sample.
+
+## Hourly rates
+
+34.8% of respondents price some or all of their work by the hour.
+
+We found that $75–$100 per hour is the most popular hourly rate for SEOs, with 24% of respondents charging this rate.
+
+![Survey results: SEO hourly pricing](https://ahrefs.com/blog/wp-content/uploads/2023/01/seo-hourly-pricing.png)
+
+47% of respondents charge between $75 and $200 per hour.
+
+90% charge $150/hour or less, and only 4.1% command an hourly rate of $201+.
+
+Here’s a breakdown of hourly rates by region:
+
+![Survey results: SEO hourly pricing (by region)](https://ahrefs.com/blog/wp-content/uploads/2023/01/seo-hourly-rates-by-region.png)
+
+There is one clear outlier here: India.
+
+We found 85.7% of India-based SEOs charge an hourly rate of $30 or less. The remaining 14.3% are in the $51–$60 range.
+
+Sidenote.
+
+We didn’t have much data for some regions, so take the results with a pinch of salt. Also, the reason for grouping Germany, France, Italy, Netherlands, and Spain together is that they’re the only European countries (besides the U.K.) with [a GDP of 1 trillion or more](https://en.wikipedia.org/wiki/List_of_sovereign_states_in_Europe_by_GDP_(nominal)). I thought it would be interesting to see if the numbers for those countries were different from the rest of Europe.
+
+Looking at U.S. and Canada data in isolation, 66.7% charge $75–200/hour—over two-thirds!
+
+### Do SEO agencies charge more per hour than freelancers?
+
+Yes. 
+
+![Survey results: SEO hourly pricing (by business type)](https://ahrefs.com/blog/wp-content/uploads/2023/01/seo-hourly-rates-by-business-type.png)
+
+58.7% and 58.8% of SEO agencies and consultants respectively command $75+/hour, compared to only 36.6% of freelancers.
+
+However, the most common hourly rate for SEO agencies and freelancers is the same: $75–100/hour. 
+
+For SEO consultants, it’s $100–150/hour.
+
+If we assume all surveyed SEOs charge the upper end of their pricing tier (e.g., $150, from $100–$150), then take the average hourly rate for each subset (Agency, Freelance, Consultancy), here’s what we get:
+
+*   **Consultancies:** $171.18/hour, on average.
+*   **Agencies:** $98.90/hour, on average.
+*   **Freelancers:** $71.59/hour, on average.
+
+By these stats, the hourly rate charged by SEO consultants is more than double that of SEO freelancers.
+
+### Do more experienced SEOs earn a lot more per hour?
+
+Yes, they do.
+
+![Survey results: SEO hourly pricing (by time in business)](https://ahrefs.com/blog/wp-content/uploads/2023/01/seo-hourly-rates-by-time-in-business.png)
+
+$73.05 is the average hourly rate for SEOs who have been in business for two years or less.
+
+This jumps to $97.11 for those who’ve been in business for 2–4 years, $102.03 for 5–10 years, and $118.35 for 10+ years.
+
+So it seems that experience and track record play a vital role when it comes to hourly earnings.
+
+### Do those offering services worldwide charge more per hour than those serving local markets?
+
+Yes, slightly.
+
+![Survey results: SEO hourly pricing (local vs. worldwide)](https://ahrefs.com/blog/wp-content/uploads/2023/01/seo-hourly-rates-local-vs-worldwide.png)
+
+On average, those offering their services locally earn $93.89/hour, whereas those serving the worldwide market earn $106.69/hour. 
+
+That’s a difference of 13.6%. 
+
+## Monthly retainer rates
+
+78.2% of respondents charge a monthly retainer for some or all of their work.
+
+We found that $501–$1,000 per month is the most popular monthly retainer rate for SEOs, with 20.4% of respondents charging this rate.
+
+![Survey results: SEO monthly retainer pricing](https://ahrefs.com/blog/wp-content/uploads/2023/01/seo-monthly-retainer-pricing.png)
+
+42.8% of respondents charge between $501 and $2,000 per month.
+
+68.8% charge $2,000/month or less, meaning only 31.2% command retainers of $2,001+.
+
+Here’s a breakdown of monthly retainer rates by region:
+
+![Survey results: SEO monthly retainer pricing (by region)](https://ahrefs.com/blog/wp-content/uploads/2023/01/seo-monthly-retainer-rates-by-region.png)
+
+Once again, India is a clear outlier here.
+
+76% of India-based SEOs charge $1,000 or less per month. The remaining 24% charge between $2,001 and $10,000.
+
+Looking at U.S. and Canada data in isolation, 79.1% charge at least $1,001 per month—some command as much as $25,001–$50,000 per month!
+
+### Do SEO agencies charge more per month than freelancers?
+
+Yes. 
+
+![Survey results: SEO monthly retainer pricing (by business type)](https://ahrefs.com/blog/wp-content/uploads/2023/01/seo-monthly-retainer-pricing-by-business-type.png)
+
+57.4% of SEO agencies command $1,001+/month, compared to only 32.2% of freelancers.
+
+However, consultants earn the most, with 70.6% commanding $1,001+/month.
+
+The most common monthly retainer range for SEO agencies is $500–$1,000/month. For consultants, it’s $2,501–$5,000.
+
+For freelancers, it’s $251–$500/month and $101–$500/month.
+
+If we assume all surveyed SEOs charge the upper end of their pricing tier (e.g., $1,500, from $1,001–$1,500), and then take the average monthly retainer rate for each subset (Agency, Freelance, Consultancy), here’s what we get:
+
+*   **Agencies:** $3,209/month, on average.
+*   **Consultancies:** $3,250/month, on average.
+*   **Freelancers:** $1,348.63/month, on average.
+
+By these stats, the monthly retainer range charged by SEO agencies and consultants is almost double that of SEO freelancers.
+
+### Do more experienced SEOs charge a lot more per month?
+
+Yes, they do.
+
+![Survey results: SEO monthly retainer pricing (by time in business)](https://ahrefs.com/blog/wp-content/uploads/2023/01/seo-monthly-retainer-rates-by-time-in-business.png)
+
+$1,540.52 is the average retainer rate for SEOs who have been in business for two years or less.
+
+This jumps to $2,023.13 for those who’ve been in business for 2+ years. That’s around 33% more than those who’ve been in business for two years or less.
+
+But the big jump comes after five years in business. The average retainer for those in business for 5–10 years is $3,648.28—more than double the rate of those in business for two years or less. 
+
+After this, things level off somewhat. In fact, we saw a decline in earnings for those who’ve been in business for 10+ years. However, this is probably due to us not having a lot of data for this subset.
+
+### Do those offering services worldwide charge more per month than those serving local markets?
+
+Yes.
+
+![Survey results: SEO monthly retainer pricing (local vs. worldwide)](https://ahrefs.com/blog/wp-content/uploads/2023/01/seo-monthly-retainer-rates-local-vs-worldwide.png)
+
+Those offering their services locally charge $1,557.08/month, on average. Whereas those serving the worldwide market earn $3,473.74/month. 
+
+That’s a significant difference of 123.1%. 
+
+## Per-project rates
+
+48.9% of respondents charge a per-project fee for some or all of their work.
+
+We found that $2,501–$5,000 is the most popular per-project fee, with 21.2% of respondents charging this rate.
+
+![Survey results: SEO per-project rates](https://ahrefs.com/blog/wp-content/uploads/2023/01/seo-per-project-pricing.png)
+
+60.6% of respondents charge $1,001 or more.
+
+50.6% charge $2,000 or less, meaning that fewer than half of respondents command per-project fees of $2,001+.
+
+Here’s a breakdown of per-project rates by region:
+
+![Survey results: SEO per-project rates (by region)](https://ahrefs.com/blog/wp-content/uploads/2023/01/seo-per-project-pricing-rates-by-region.png)
+
+Yep, you guessed it—India is the outlier.
+
+93.75% of India-based SEOs charge $1,500 or less. The remaining 6.25% charge between $2,001 and $2,500.
+
+Looking at the U.S. and Canada in isolation, 83.3% charge at least $1,001. Some even charge as much as $50,001–$75,000 per project.
+
+### Do SEO agencies charge more per project than freelancers?
+
+Yes. 
+
+![Survey results: SEO per-project rates (by business type)](https://ahrefs.com/blog/wp-content/uploads/2023/01/seo-per-project-pricing-rates-by-business-type.png)
+
+73.3% of SEO agencies command $1,001+ per project, compared to only 64% of consultants and 40.68% of freelancers.
+
+The most common per-project fee for freelancers is $101–$250. For SEO agencies, it’s $2,501–$5,000. And for consultants, it’s $5,001–$10,000.
+
+If we assume all surveyed SEOs charge the upper end of their pricing tier (e.g., $1,500, from $1,001–1,500), and then take the average per-project rate for each subset (Agency, Freelance, Consultancy), here’s what we get:
+
+*   **Agencies:** $9,507.84/month, on average.
+*   **Consultancies:** $8,685.53/month, on average.
+*   **Freelancers:** $2,348.63/month, on average.
+
+By these stats, the per-project fee charged by SEO agencies is more than 4X that of SEO freelancers, on average.
+
+### Do more experienced SEOs charge a lot more per project?
+
+Yes, they do.
+
+![Survey results: SEO per-project rates (by time in business)](https://ahrefs.com/blog/wp-content/uploads/2023/01/seo-per-project-pricing-rates-by-time-in-business.png)
+
+$1,881.73 is the average per-project fee charged by those who’ve been in business for two years or less.
+
+This jumps to $2,242.71 for those who’ve been in business for 2+ years and then to $9,087.31 for those who’ve been in business 5–10 years.
+
+### Do those offering services worldwide charge more per project than those serving local markets?
+
+Yes—significantly more!
+
+![Survey results: SEO per-project rates (local vs. worldwide)](https://ahrefs.com/blog/wp-content/uploads/2023/01/seo-per-project-pricing-rates-local-vs-worldwide.png)
+
+On average, those offering their services locally charge $5,723.53 per project, whereas those serving the worldwide market charge $8,056.56.
+
+That’s a significant difference of 40.80%. 
+
+## Final thoughts
+
+My hope is that this data will help SEOs to stop undercharging for their services. Yes, the economic outlook may look bleak right now, but know that SEO is a valuable skill. Don’t be afraid to charge what you’re worth.
+
+Got questions? Ping me [on Twitter](https://twitter.com/joshuachardwick).

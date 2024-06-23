@@ -1,0 +1,186 @@
+URL: https://ahrefs.com/blog/how-long-does-seo-take/
+
+# How Long Does SEO Take to Show Results?
+
+It typically takes three to six months for SEO to show results. That’s according to the 3,680 people who responded to our polls on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7155544706909671424/) and [X](https://twitter.com/ahrefs/status/1749722980685681028).
+
+![Pie chart showing how long SEO takes, according to a poll of 3,680 people](https://ahrefs.com/blog/wp-content/uploads/2024/01/pie-chart-showing-how-long-seo-takes-according-to.png)
+
+But the reality is that there’s no definitive time frame. _It depends_.
+
+SEO isn’t advertising. You can’t pay your way into Google’s organic results.
+
+![Google has two types of results: organic and paid](https://ahrefs.com/blog/wp-content/uploads/2024/01/google-has-two-types-of-results-organic-and-paid.png)
+
+To rank #1 for a keyword, you need to demonstrate to Google that you’re the best, most relevant, and most helpful result. This means surpassing the other pages on multiple fronts:
+
+*   **Relevance**: Is your page aligned with what searchers are looking for?
+*   **User experience**: Is your page user-friendly and readable?
+*   **Quality**: Is your content helpful, interesting, insightful, or entertaining?
+*   **Originality**: Is your content unique and provides original information, reporting, research, or analysis?
+*   **Expertise**: Is your content created by someone who is knowledgeable or at least have experience in the thing they’re writing about?
+
+Doing all of this well takes a lot of time and resources.
+
+## Factors that affect how long SEO takes
+
+How long SEO takes depends on multiple factors. Here are some to consider:
+
+### 1\. Your website’s history
+
+By virtue of their age, older websites tend to have more pages, content, backlinks, and [website authority](https://ahrefs.com/seo/glossary/website-authority). As a result, they rank for more keywords.
+
+On the other hand, newer websites need more effort and resources to get off the ground. Google’s John Mueller [has even said](https://www.searchenginejournal.com/google-rankings-for-new-sites-could-fluctuate-for-up-to-a-year/372109/) that it could take up to a year for Google to figure out where to rank new sites. (This is likely what SEOs believe to be the [“Google sandbox”](https://ahrefs.com/blog/google-sandbox/).)
+
+### 2\. Your resources
+
+It’s true for anything in life, and it’s true for SEO too. The more resources (time, effort, money) you can invest in SEO, the faster your results will be.
+
+For example, you could hire more content writers to create high-quality content for you. Or you could invest in SEO tools and make your work easier, faster, and more efficient. You could also create a link building team to actively [build links](https://ahrefs.com/blog/link-building/) for you. The possibilities are endless.
+
+### 3\. Your competition
+
+SEO doesn’t exist in a bubble. Your competitors are probably doing SEO too. If the keywords you’re targeting are highly competitive, then it’s going to take you a longer time to rank.
+
+For example, we would love to rank for the keyword “seo.” But the top-ranking pages have tens of thousands of links (which are a ranking factor):
+
+![The SERP Overview for the keyword "SEO"](https://ahrefs.com/blog/wp-content/uploads/2024/01/the-serp-overview-for-the-keyword-seo.png)
+
+In fact, the [Keyword Difficulty (KD)](https://ahrefs.com/keyword-difficulty) score for this keyword is a whopping 97:
+
+![KD score for "seo"](https://ahrefs.com/blog/wp-content/uploads/2024/01/kd-score-for-seo.png)
+
+If we want to compete, it’ll take us lots of time. On the other hand, it’s much easier to rank for “seo vs sem.” It has a lower KD of 37:
+
+![Keyword difficulty for "seo vs sem"](https://ahrefs.com/blog/wp-content/uploads/2024/01/keyword-difficulty-for-seo-vs-sem.png)
+
+So, we targeted the keyword and now rank #1:
+
+![SERP Overview for "seo vs sem"](https://ahrefs.com/blog/wp-content/uploads/2024/01/serp-overview-for-seo-vs-sem.png)
+
+### 4\. Your goals
+
+If your goal is to rank #1 for a KD0 keyword, it could be achieved fast. However, if your goal is to compete with big brands and rank for a hyper-competitive keyword, then it may take months or even years.
+
+### 5\. Your strategy
+
+A good strategy is half the battle won.
+
+If you have a goal, and you have a concrete plan on how to achieve it, you’ll have a higher chance of achieving faster results.
+
+For example, if your goal is to rank for important (but ultra-competitive) keywords, there are other ways to get there besides tackling those keywords head-on. You could build up slowly to your crucial keywords by first targeting low-competition topics that have business value. That way, you can still generate organic traffic to your site while accumulating links and more for the future.
+
+### 6\. Your execution
+
+There’s no point in dreaming up the greatest [SEO strategy](https://ahrefs.com/blog/orchard-seo-strategy/) in the world if nothing gets done.
+
+So, to win the other half of the battle, you have to execute. The more consistently you can do it, the faster you’ll likely see results.
+
+## How to get SEO results faster
+
+Good news: there’s no need to resign yourself to the fate of “slow SEO results.” There are [quick wins](https://ahrefs.com/blog/seo-wins/) that can help you rank higher and get more organic traffic.
+
+### 1\. Target low-competition keywords
+
+Not all keywords are equally competitive. So, you can likely get results faster if you focus on the ones that are low competition.
+
+Here’s how to find low-competition keywords:
+
+1.  Enter your target keyword in [Keywords Explorer](https://ahrefs.com/keywords-explorer)
+2.  Go to the **Matching terms** report
+3.  Set the **Keyword Difficulty (KD)** filter to a maximum of 20
+
+![](https://ahrefs.com/blog/wp-content/uploads/2024/01/word-image-171574-7.png)
+
+Eyeball the list and pick out those that are relevant for your site.
+
+Alternatively, you can also look for keywords where a website with a low DR ranks in the top 10. Domain Rating (DR) is our website authority metric. So, even if a keyword is competitive, a website ranking with a low DR signals that it’s a potentially challegeable keyword.
+
+To do this, set the **Lowest DR** filter to 20 (or a number you’re comfortable with) and choose **in top 5** (to make it even more fail-safe).
+
+![Lowest DR filter in Keywords Explorer](https://ahrefs.com/blog/wp-content/uploads/2024/01/lowest-dr-filter-in-keywords-explorer.png)
+
+This will show you all the keywords that have a website ranking in the top 5 with a maximum DR of 20. For example, even though this keyword has a KD of 85, a website with DR12 still managed to rank in position #3:
+
+![A website with DR12 is ranking for a keyword with a KD of 85](https://ahrefs.com/blog/wp-content/uploads/2024/01/a-website-with-dr12-is-ranking-for-a-keyword-with.png)
+
+It’s impressive, but also means you could potentially rank for this keyword, too.
+
+### 2\. Optimize for featured snippets
+
+Featured snippets are quick answers in Google search results pulled from a page ranking in the top 10. If you ‘win’ them, you can jump right to the top of Google search results.
+
+Here’s how to find featured snippet opportunities:
+
+1.  Enter your domain into [Site Explorer](https://app.ahrefs.com/site-explorer)
+2.  Go to the **Organic keywords** report
+3.  Set the **Position** filter to 2-10
+4.  Use the **SERP features** filter to find keywords that trigger featured snippets “where target doesn’t rank”
+
+![Positions filter 2-10, SERP features filter for featured snippets where target doesn't rank in Ahrefs' Site Explorer](https://ahrefs.com/blog/wp-content/uploads/2024/01/positions-filter-2-10-serp-features-filter-for-fe.png)
+
+Look through the list to see if there are opportunities where you can grab the snippet.
+
+For example, the featured snippet for the keyword “relevant content” is a definition:
+
+![Featured snippet for the keyword "relevant content"](https://ahrefs.com/blog/wp-content/uploads/2024/01/featured-snippet-for-the-keyword-relevant-content.png)
+
+[Our blog post](https://ahrefs.com/blog/relevant-content/) targeting this keyword doesn’t have a definition, so we could include it and hopefully win the snippet for ourselves.
+
+### 3\. Boost pages with internal links
+
+Internal links are links from one page on the same domain to another. Since they pass [PageRank,](https://ahrefs.com/blog/google-pagerank/) they can help boost a page’s rankings.
+
+To find internal link opportunities, sign up for a free [Ahrefs Webmaster Tools (AWT)](https://ahrefs.com/webmaster-tools) account and run a crawl of your site using [Site Audit](https://ahrefs.com/site-audit). Then, go to the **Internal link opportunities** report.
+
+![Internal link opportunities report in Ahrefs' Site Audit](https://ahrefs.com/blog/wp-content/uploads/2024/01/internal-link-opportunities-report-in-ahrefs-site-1.jpg)
+
+This report shows you relevant internal link opportunities on your own site. If there are specific pages you’d like to boost, like important product pages, then set the filter to **Target page** and enter a relevant URL:
+
+![Target page filter in the Internal link opportunities report](https://ahrefs.com/blog/wp-content/uploads/2024/01/target-page-filter-in-the-internal-link-opportunit.png)
+
+Look through the recommended suggestions. Where relevant, add your internal links.
+
+### 4\. Make sure your pages are indexable
+
+If Google can’t index your page, the page can’t appear in the SERPs. So, you want to make sure you did not accidentally add a [noindex tag](https://ahrefs.com/seo/glossary/noindex-tag) to any of your important pages.
+
+Run a crawl of your site using [Site Audit](https://ahrefs.com/site-audit) (free with [AWT](https://ahrefs.com/webmaster-tools)). If there are any pages with noindex tags, they’ll appear as issues:
+
+![Noindex pages appearing as issue in Site Audit](https://ahrefs.com/blog/wp-content/uploads/2024/01/noindex-pages-appearing-as-issue-in-site-audit.png)
+
+Unless they’re inserted deliberately, you’ll want to remove those tags.
+
+### 5\. Refresh outdated content
+
+If your page doesn’t rank, is diminishing in search traffic, or is outdated, give it a refresh. Many times, this will give you a boost in search traffic, like what happened every time I updated my [post on free SEO tools](https://ahrefs.com/blog/free-seo-tools/):
+
+![Search traffic boost whenever I updated the post on free SEO tools](https://ahrefs.com/blog/wp-content/uploads/2024/01/search-traffic-boost-whenever-i-updated-the-post-o.png)
+
+To find outdated content, go to the **Opportunities** report and click on **Content with declining traffic**.
+
+![Opportunities report in Site Explorer](https://ahrefs.com/blog/wp-content/uploads/2024/01/opportunities-report-in-site-explorer.png)
+
+This will show you pages that have declining traffic in the past six months.
+
+![Pages with declining traffic in Top pages](https://ahrefs.com/blog/wp-content/uploads/2024/01/pages-with-declining-traffic-in-top-pages.png)
+
+Eyeball the list and look for pages where searchers would likely want fresh information. For example, our post on the top YouTube searches has been declining in search traffic:
+
+![Our post on the top YouTube searches is declining in traffic](https://ahrefs.com/blog/wp-content/uploads/2024/01/our-post-on-the-top-youtube-searches-is-declining.png)
+
+It has also not been updated for three years:
+
+![The last updated date for top YouTube searches was January 2021](https://ahrefs.com/blog/wp-content/uploads/2024/01/the-last-updated-date-for-top-youtube-searches-was.png)
+
+So, we probably need to freshen up the post with new data.
+
+## Learn more
+
+Want to find out more about SEO? Check out these resources:
+
+*   [SEO: The Complete Guide for Beginners](https://ahrefs.com/seo)
+*   [SEO Training Course by Ahrefs](https://app.ahrefs.com/academy/seo-training-course/lesson-0-1)
+*   [SEO Basics: Beginner’s Guide to SEO Success](https://ahrefs.com/blog/seo-basics/) 
+*   [How to Learn SEO (Complete Roadmap)](https://ahrefs.com/blog/learn-seo/)
+*   [How To Become an SEO Expert in 4 Steps](https://ahrefs.com/blog/seo-expert/)

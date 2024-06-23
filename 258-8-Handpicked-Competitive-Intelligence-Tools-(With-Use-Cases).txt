@@ -1,0 +1,276 @@
+URL: https://ahrefs.com/blog/competitor-analysis-tools/
+
+# 8 Handpicked Competitive Intelligence Tools (With Use Cases)
+
+Ok, so you’re here because you want to
+
+~spy on your competitors’ ideas~
+
+look for inspiration in what your competitors do. Good call—you’re going to need special tools for that.
+
+These eight competitive intelligence tools will allow you to do things like: 
+
+*   Steal traffic from your competitors’ most successful content.
+*   Copy what works for them in email marketing. 
+*   See what people like and dislike about your competitors. 
+*   Snoop on your competitors’ campaigns to make your ads stand out. 
+
+And more! 
+
+## 8 best competitor analysis tools & their use cases
+
+1.  [Ahrefs—SEO competitor analysis tool](https://ahrefs.com/blog/competitor-analysis-tools/#ahrefs)
+2.  [Visualping—UX, CRO and website competitor analysis tool](https://ahrefs.com/blog/competitor-analysis-tools/#visualping)
+3.  [Brand24—social media competitive analysis tool](https://ahrefs.com/blog/competitor-analysis-tools/#brand24)
+4.  [SparkToro—audience analysis tool](https://ahrefs.com/blog/competitor-analysis-tools/#sparktoro)
+5.  [Mailcharts—Email and SMS competitor monitoring tool](https://ahrefs.com/blog/competitor-analysis-tools/#mailcharts)
+6.  [vidIQ—YouTube competitor analysis tool](https://ahrefs.com/blog/competitor-analysis-tools/#vidiq)
+7.  [Official ad libraries—PPC competitor intelligence tool](https://ahrefs.com/blog/competitor-analysis-tools/#official-ad-libraries)
+8.  [BuiltWith—Website tech stack analysis tool](https://ahrefs.com/blog/competitor-analysis-tools/#builtwith)
+
+## 1\. [Ahrefs](https://ahrefs.com/)—for SEO, search ads, and content marketing
+
+Ahrefs is an all-in-one SEO toolset that provides [best-in-class data](https://ahrefs.com/big-data) about your competitors’ content, [backlinks](https://ahrefs.com/blog/what-are-backlinks/), [keywords](https://ahrefs.com/blog/what-are-keywords/), PPC ads, and much more. 
+
+Some of the key use cases of this competitive intelligence tool include: 
+
+*   **Competitor keyword research**: Find content gaps between you and your competitors to get new content ideas.
+*   [**Competitor link analysis**](https://ahrefs.com/blog/competitor-backlink-analysis/): See where your competitors get their backlinks from to replicate their tactics or go after their links. 
+*   **Competitor SERP monitoring**: Monitor your organic [share of voice](https://ahrefs.com/blog/share-of-voice/) to increase it relative to your competitors.
+
+### My favorite functionality: Finding content gaps between you and your competitors
+
+This feature shows keywords for which your competitors rank but you don’t. These are called content gaps and can give you proven content ideas for your [content planning](https://ahrefs.com/blog/content-planning/). 
+
+With Ahrefs, you can compare entire domains and get new topic ideas. Or, you can compare pages and see what subtopics your content may be missing—a potential reason for lower [rankings](https://ahrefs.com/blog/how-to-rank-higher-on-google/). 
+
+Go to the Competitive Analysis tool and enter your domain and competitors. 
+
+![SEO Competitive analysis tool in Ahrefs.](https://ahrefs.com/blog/wp-content/uploads/2023/10/image9-2.png)
+
+The more competitors you enter, the more keywords you will get. 
+
+![Example results in Ahrefs' Content gap for keyword competitive analysis.](https://ahrefs.com/blog/wp-content/uploads/2023/10/image3-4.png)
+
+If, at some point, the list gets too big to manage, you can narrow it down using filters. For example, you can focus on keywords where at least two of your competitors rank in the top 10. 
+
+![Refining results of content gap analysis for competitive keyword research.](https://ahrefs.com/blog/wp-content/uploads/2023/10/image8-3.png)
+
+For example, here are a few interesting keywords Mailchimp could use to fill the content gap: 
+
+![Example keywords found through content gap analysis.](https://ahrefs.com/blog/wp-content/uploads/2023/10/image10-2.png)
+
+### Pricing 
+
+Ahrefs equipped with the Competitive Analysis tool (along with other keyword, backlink and SERP analysis tools for competitive analysis) starts at $129 per month, or $108 if you pay annually—see [pricing](https://ahrefs.com/pricing). 
+
+You can also try out some of our [free SEO competitor intelligence tools](https://ahrefs.com/free-seo-tools). They’re great for quick spot checks like checking your competitor’s organic traffic or checking top backlinks of the content you’re competing with on Google. Find out more in [10 Things You Can Do in Ahrefs for Free](https://ahrefs.com/blog/ahrefs-free-tools/).  
+
+![Ahrefs' Traffic Checker free tool.](https://ahrefs.com/blog/wp-content/uploads/2023/10/image13-2.png)
+
+## 2\. [Visualping](https://visualping.io/)—for monitoring webpage changes
+
+Visualping is a website competitor analysis tool that notifies you anytime your competitors change something on their sites. 
+
+Some of the key use cases: 
+
+*   Get inspired by UX and CRO tweaks on competitors’ websites.
+*   Monitor competitor’s pricing to inform your pricing strategy.
+*   Keep tabs on new job openings to see where your competitors are investing their budget. 
+
+### My favorite functionality: Getting inspired by UX and CRO tweaks on competitors’ websites
+
+Visualping is great for observing how your competitors try to squeeze more out of every visitor to their website. In other words, you can look for user experience (UX) and conversion rate optimization (CRO) tweaks that you can adopt without having to do all the research and A/B testing. 
+
+All you need to do is to set up the tracking of your competitor’s websites, and you’ll get an alert whenever there is any noteworthy change. For this use, it’s enough to set up the checking frequency to occur daily or even weekly.
+
+You can also opt in for “any change” or “tiny changes,” as those tweaks can range from small changes in copy to just changing CTA button positions and colors.
+
+![Setting up a project in Visualping for competitor website monitoring.](https://ahrefs.com/blog/wp-content/uploads/2023/10/image6-2.png)
+
+Keep in mind that you shouldn’t blindly copy whatever your competitors do. Ideally, the change has to make sense for you, and you should know that the competitor does A/B testing (checking with BuiltWith is a good start—more on this below).
+
+### Pricing
+
+Visualping offers a free plan with up to 150 checks a month, which would probably be enough to cover the homepage, pricing page, trial page, and other important pages of your competitors on a weekly basis.
+
+If you’re more serious about keeping track of your competitors’ websites, then try out the paid plans. Those start at $10 a month for 1000 checks—see [pricing](https://visualping.io/pricing/). 
+
+## 3\. [Brand24](https://brand24.com/)—for social media and brand monitoring
+
+Brand24 tracks mentions of keywords that you want to monitor across the whole web. They’re most known for social media monitoring features. With this competitive intelligence tool, you can track mentions of competitors in news or online publications to reverse engineer their backlink strategies. 
+
+Some of the key use cases: 
+
+*   See how effective your competitors’ messaging is in terms of reach, engagement and sentiment. 
+*   Monitor brand mentions to see what people like and dislike about your competitors. 
+
+### My favorite functionality: Monitoring competitors’ brand mentions
+
+Set up a separate project (or projects) with the name of competitor brands and products. You can go broad or be as specific as you like. For example, if your competitor’s brand name has multiple meanings, you can filter out irrelevant keywords with the Excluded keywords field. To illustrate: 
+
+![Setting up a project in Brand24 to track brand mentions and competitor link building strategies.](https://ahrefs.com/blog/wp-content/uploads/2023/10/image1-3.png)
+
+Here’s an interesting mention of the project management tool Asana. This could mean that if you were to compete with them, you could include time tracking in one of your less expensive plans to get an edge over your competitor.
+
+![Actionable brand mention in Brand24.](https://ahrefs.com/blog/wp-content/uploads/2023/10/image5-2.png)
+
+ This kind of competitor monitoring allows you to:
+
+*   Adjust your communication by adopting the most engaging formats and the phrasing your competitors use to promote similar features. 
+*   Get product insights based on the most popular and well-received releases.
+*   Assess how people perceive your brand and your competitors via sentiment analysis.
+*   Benchmark your social media reach and [share of voice](https://ahrefs.com/blog/share-of-voice/) against your competitors.
+
+### Pricing
+
+Plans start at $99 a month for tracking three keywords. Tracking your brand and your competitors will require a higher plan for $179 a month that offers seven keywords. You can get two months free off any plan if you pay annually—[see pricing](https://brand24.com/prices/). 
+
+Brand24 also offers a 14-day free trial.
+
+## 4\. [SparkToro](https://sparktoro.com/)—for audience insights
+
+SparkToro is an audience research tool that provides information about what any audience reads, watches, listens to, and follows. As a competitive analysis tool, it is invaluable for new or establishing brands that want to better understand the audience they’d like to reach through their marketing efforts.
+
+Some of the key use cases:
+
+*   See where to advertise or which channels to sponsor by discovering sites and social media profiles your competitor’s audience engages with. 
+*   Enhance your customer personas with insights from the social media profiles of your competition’s followers. 
+*   Get ideas for content by seeing which topics your competitor’s audience frequently talks about. 
+
+### My favorite functionality: Discovering where a competitor’s audience hangs out online
+
+Let’s find new sponsorship opportunities by looking for popular influencers among SparkToro’s X followers. 
+
+![Running an audience research in Sparktoro.](https://ahrefs.com/blog/wp-content/uploads/2023/10/image14-2.png)
+
+Here’s an example report. You can also set up filters to refine your data. In this example I capped the follower count at 50k to get a more manageable list. 
+
+![Sample results in SparkToro.](https://ahrefs.com/blog/wp-content/uploads/2023/10/image15-2.png)
+
+With data like this, you can easily spot new advertising and sponsorship opportunities across many different channels. Just put together all the insights by plugging in your competitors’ social profiles, websites, keywords, and any “owned” hashtags.
+
+### Price
+
+SparkToro is free for twenty searches a month with limited report capabilities. Paid plans start at $50 a month (3 months free if you pay annually) - see [pricing](https://sparktoro.com/pricing). 
+
+## 5\. [Mailcharts](https://www.mailcharts.com/)—for email and SMS marketing 
+
+Mailcharts holds a vast collection of email and SMS campaigns, helping you to study tactics of brands similar to yours. It’s a rather interesting competitive intelligence tool as it allows you to monitor the hidden automations and flows competitors use as part of their customer experience journey.
+
+Some of the key use cases:
+
+*   Discover email and SMS campaigns by types or competing brands and get inspired by the copy and (in the case of emails) visual design they use. 
+*   Understand the sending behavior of your competitors (cadence, subject lines, discounts, etc.). Copy what you like, or do something completely different to make your brand stand out.
+*   Study email marketing automation techniques in your industry. See what features competitors focus on to onboard their users, or how other brands try to make customers come back to their shopping carts. 
+
+### My favorite functionality: Studying email marketing automation techniques
+
+Thanks to Mailchart’s Journeys feature, you can study the automated emails that brands send whenever their subscribers trigger a certain action, such as abandoning the cart or creating a project inside an app. 
+
+It’s a great feature because it really takes the manual labor out of analyzing one of the most important types of email marketing; imagine trying to find an email trigger manually. 
+
+Here’s an example: Mailchart captured a subscription abandonment journey from Masterclass. 
+
+![Mailcharts Journeys feature for monitoring competitor email sequences, workflows and triggers.](https://ahrefs.com/blog/wp-content/uploads/2023/10/image7-1.png)
+
+Based on the copy of the emails, you can use the same persuasion techniques to make the user reconsider or use the same time interval between the emails. 
+
+### Pricing 
+
+Mailcharts offers a free plan with 1,000 email samples and a handful of other helpful features. Premium plans start at $149—see [pricing](https://www.mailcharts.com/pricing).
+
+## 6\. [vidIQ](https://vidiq.com/)—for video marketing on YouTube
+
+vidIQ is a YouTube competitor analysis tool. It’s designed to help you grow your YouTube channel by reverse-engineering your competitors’ success.
+
+Some of the key use cases:
+
+*   Benchmark against competitors to better understand how publishing frequency, topic selection, and editing styles impact performance. 
+*   Get ideas for new content based on keywords other channels target and vidIQ’s views per hour metric.
+
+### My favorite functionality: Analyzing performance data right inside YouTube
+
+vidIQ offers an extension to the Chrome web browser that allows you to get data right inside YouTube. In my opinion, some of the most valuable data points provided here are:
+
+*   Video tags: You can see which keywords your competitor is trying to target and where they rank. You can use the same ones for your channel or get similar keyword ideas. 
+*   Views Per Hour (VPH) metric: If you spot a video older than a year but still gets a high VPH, this could be an evergreen topic. 
+
+![YouTube competitor analysis tool, VidIQ, has a Chrome extension that lets you see competitive data right inside YouTube.](https://ahrefs.com/blog/wp-content/uploads/2023/10/image11-1.png)
+
+### Pricing
+
+The above functionality comes with the free vidIQ plan. But if you’re serious about video marketing and monitoring your competitor’s YouTube channels ongoing, definitely consider paid plans that start from $10 ($7.50 if paid annually)—see [pricing](https://vidiq.com/plans/). 
+
+## 7\. Official ad libraries—for free insights into social media and search ad campaigns 
+
+Some ad networks allow you to see all ads currently running on their platforms (and sometimes even archived ads). You can simply look up your competitor and study their ads at no cost. Such libraries are the best PPC competitor tools you can add to your toolkit.
+
+At the time of writing, this type of service is officially supported on:
+
+*   [Meta](https://www.facebook.com/ads/library/) (Facebook, Messenger, and Instagram)
+*   [TikTok](https://library.tiktok.com/)
+*   [Google Ads](https://adstransparency.google.com/) 
+*   [X](https://ads.twitter.com/ads-repository) 
+*   LinkedIn (no separate library: you need to find your competitor’s profile and then go to Posts/Ads). 
+
+Some of the key use cases of using ad libraries as PPC competitor research tools include: 
+
+*   See if your competitor is running any ads in the first place. Establishing that can help you negotiate your marketing budget. 
+*   Look for the features or deals they promote the most to inspire your own deals. 
+*   Study the language and visual design of the ads and landing pages. Aim for something completely different to stand out or emulate them if you need a quick way to lauch your campaign. 
+
+### My favorite functionality: Studying competitors’ campaigns to stand out 
+
+Let’s say you’re trying to promote your project management software and Asana is one of your competitors. 
+
+A quick search for this advertiser on the Meta ad library reveals a clear pattern: they’re currently using minimalistic visual design to promote their content. Using similar imagery in your ads may not be the best idea because your brand might get confused with theirs or even seen as a copycat . 
+
+![Meta ad library revealing a pattern among Asana's ads when used as a PPC competitor tool.](https://ahrefs.com/blog/wp-content/uploads/2023/10/image12-2.png)
+
+Recommendation
+
+To get extra data on your competitors, look for ads shown in the EU. Due to transparency laws in the EU, the platforms are required to provide additional information such as age, gender and location. 
+
+![Ad libraries are required by law to reveal more data about ads in the EU.](https://ahrefs.com/blog/wp-content/uploads/2023/10/image4-2.png)
+
+### Pricing 
+
+All official ad libraries are free. 
+
+## 8\. [BuiltWith](https://builtwith.com/)—for checking tech stacks
+
+BuiltWith is a tool that helps identify the technologies any website is using, like advertising platforms, payment systems, web servers, and CDNs. 
+
+Some of the key use cases: 
+
+*   Find niche advertising platforms your competitors use and see if you can advertise there too. 
+*   Discover companies that use your competitors’ products—potentially a good source of prospects for your sales team to pursue.
+*   Monitor your competitor’s market share to understand how their strategy may be impacting their business. 
+
+### My favorite functionality: Finding niche advertising platforms
+
+Since most advertising platforms use tracking codes and pixels for retargeting, analytics, and attribution purposes, you’ll see which platforms your competitors are present on.
+
+Finding out that your competitors use Google, Facebook, and Twitter ads isn’t a surprise for anyone, though. But you can find some niche platforms or display networks that may be worth looking into. Here’s an example of what BuiltWith can reveal in its “Analytics and Tracking” section. This company advertises on Reddit:
+
+![BuiltWith revealing a brand's advertising platforms.](https://ahrefs.com/blog/wp-content/uploads/2023/10/image2-3.png)
+
+### Pricing
+
+BuiltWith is free for the use case I depicted above. Paid plans start from $295/mo and may be worth it for businesses that need a deeper dive into tech stacks—see [pricing](https://builtwith.com/plans).
+
+## Final thoughts on the best competitive intelligence tools to consider
+
+The competitor research tools I listed here are the ones I have experience with and like the most. Almost every tool has a solid alternative that you may like more.
+
+I also want to highlight a few more competitive analysis resources (not necessarily tools) that are super helpful and mainly free:
+
+*   IPO reports (aka S-1 reports) and financial reports of publicly traded companies. Two tips here: try to see if someone already analyzed the paper ([example](https://tomtunguz.com/dropbox-s-1/)) and see if AI tools like Documind or PDF.ai can help you go through the documents. 
+*   Surveys and focus groups to get quantitative and qualitative data about your market and competitors.
+*   Ghost shopping to get direct customer experiences from your competitors and possibly uncover their sales tactics.
+*   Review platforms like G2, TrustPilot, Yelp, or Google My Business to check what your competitors’ customers say.
+
+So that’s it. If you’re just finding out about competitive intelligence tools but are unsure what’s the right way to conduct a competitive analysis, we also have a [simple guide (including a template)](https://ahrefs.com/blog/competitor-analysis/).
+
+Got questions or comments? Ping me on [X](https://twitter.com/m_makosiewicz).

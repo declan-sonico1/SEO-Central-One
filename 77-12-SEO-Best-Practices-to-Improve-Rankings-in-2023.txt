@@ -1,0 +1,431 @@
+URL: https://ahrefs.com/blog/seo-best-practices/
+
+# 12 SEO Best Practices to Improve Rankings in 2023
+
+If you want to increase the SEO performance of your website, the best place to start is by implementing SEO best practices.
+
+Here are 12 essential SEO best practices to help you level up your website’s performance in search engines.
+
+| SEO Best Practices: Impact vs. Difficulty |     |     |
+| --- | --- | --- |
+|     | **Impact** | **Difficulty** |
+| Match content with search intent | ⭐⭐⭐⭐ | ⭐⭐  |
+| Create click-worthy title tags and meta descriptions | ⭐⭐⭐ | ⭐⭐  |
+| Improve your site’s user experience | ⭐⭐⭐ | ⭐⭐  |
+| Target topics with search traffic potential | ⭐⭐⭐⭐ | ⭐   |
+| Use your target keyword in three places | ⭐⭐⭐ | ⭐⭐  |
+| Use a short and descriptive URL | ⭐⭐⭐ | ⭐   |
+| Optimize images for SEO to get additional traffic | ⭐⭐⭐ | ⭐⭐  |
+| Add internal links from other relevant pages | ⭐⭐⭐⭐ | ⭐⭐  |
+| Cover everything searchers want to know | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+| Get more backlinks to build authority | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| Get good scores to pass Core Web Vitals | ⭐⭐  | ⭐⭐⭐⭐ |
+| Use HTTPS to secure your site | ⭐⭐  | ⭐   |
+
+## 1\. Match your content with search intent
+
+Search intent is the underlying reason for a user’s search in Google. It’s important because Google’s main job is to provide the best result for its user’s search queries. 
+
+You’ll stand the best chance of ranking in Google if you align your page with searchers’ intent. Therefore, aligning your pages to the user’s search intent is crucial.
+
+For example, look at the search results for “how to make a protein shake.” 
+
+![Google SERP for "how to make a protein shake"](https://ahrefs.com/blog/wp-content/uploads/2023/09/image3-1-1.jpg)
+
+There are no products to purchase in this search result. That’s because searchers are looking to learn, not to buy.
+
+The opposite is true for a query like “buy protein powder.”
+
+People aren’t looking for a protein shake recipe; they want to buy some powder. This is why most of the top 10 results are ecommerce category pages, not blog posts.
+
+![Google SERP for "buy protein powder"](https://ahrefs.com/blog/wp-content/uploads/2023/09/image11-2.jpg)
+
+Looking at Google’s top results like this can tell you a lot about the intent behind a query, which helps you understand what kind of content to create if you want to rank a particular page.
+
+Let’s look at a less obvious keyword like “best eye cream,” which gets an estimated 31K monthly searches in the U.S.
+
+![Search volume for "best eye cream," via Ahrefs' Keywords Explorer
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image8-2.png)
+
+For an eye cream retailer, it may seem perfectly logical to try to rank a product page for this keyword. However, the search results tell a different story: 
+
+![Google SERP for "best eye cream"](https://ahrefs.com/blog/wp-content/uploads/2023/09/image19-1.jpg)
+
+Almost all of the search results are blog posts listing top recommendations, not product pages.
+
+To stand any chance of ranking for this keyword, you should follow suit. 
+
+Catering to search intent goes way beyond creating a certain type of content. You also need to consider the content format and angle. 
+
+Learn more about these in [our guide to optimizing for search intent](https://ahrefs.com/blog/search-intent/). 
+
+## 2\. Create click-worthy title tags and meta descriptions
+
+Your title tags and meta descriptions act as your virtual shop front on Google’s search results. 
+
+They usually look like this:
+
+![Components of a typical Google search result
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image13-3.png)
+
+Users will be less likely to click on your search result if they’re unenticing.
+
+Sidenote.
+
+Google doesn’t always show the defined title and description in the search results. Sometimes, it rewrites the title and chooses a more appropriate description from the page for the snippet.
+
+How can you improve your click-through rate (CTR)?
+
+First, keep your title tag under 60 characters and your descriptions under 150 characters. This helps to avoid truncation.
+
+Second, align your title and description with the search intent.
+
+For instance, almost all of the “best headphones” results specify the year in their titles and descriptions.
+
+![Google SERP for "best headphones"](https://ahrefs.com/blog/wp-content/uploads/2023/09/image33.jpg)
+
+This is because people want lists of up-to-date recommendations, as new headphones are constantly released.
+
+Third, use [power words](https://sumo.com/stories/power-words) to entice the click—without being “clickbaity.”
+
+![Power words in a Google SERP result
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image22.png)
+
+Read more about [how to craft the perfect title tag](https://ahrefs.com/blog/title-tag-seo/), or watch this video:
+
+https://www.youtube.com/watch?v=jqEoZsIOrYw
+
+## 3\. Improve your site’s user experience
+
+User experience (UX) focuses on your site’s usability and how visitors interact and experience it.
+
+UX is important for SEO because if your website is not pleasant to use, visitors will leave your website. 
+
+If users do this consistently from your homepage, it’ll develop a high [bounce rate](https://ahrefs.com/blog/bounce-rate/).
+
+To improve your UX and stop users from leaving your website quickly, try testing the following:
+
+*   **Visual appeal** – Can your website’s visual appeal be improved?
+*   **Easy to navigate** – Is the [website’s structure](https://ahrefs.com/blog/website-structure/) well designed and easy to navigate?
+*   **Intrusive pop-ups** – Are there any intrusive pop-ups that may harm the user experience?
+*   **Too many ads** – Are the ads distracting from the main content?
+*   **Mobile friendly** – Is your website easy to use on a mobile device?
+
+The key to improving your UX is to focus on your visitors’ expectations. Ask yourself what they expect from your website. 
+
+## 4\. Target topics with search traffic potential
+
+Trying to rank for keywords nobody’s searching for is a fool’s errand. You won’t get traffic even if you rank number one. 
+
+For example, say you sell software tutorials. It won’t make sense to target “how do I make font larger in coffee cup html editor” because it has no search volume: 
+
+![Easy Keyword Difficulty example, via Ahrefs' Keywords Explorer
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image30.png)
+
+And the top-ranking page gets zero organic traffic:
+
+![Top-ranking page getting zero traffic example, via Ahrefs' Keywords Explorer
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image9-2.png)
+
+To find topics people are searching for, you need a keyword research tool like Ahrefs’ [Keywords Explorer](https://ahrefs.com/keywords-explorer). Enter a broad topic as your “seed” keyword and go to the **Matching terms** report. 
+
+For example, if you have a coffee affiliate site, you may enter “coffee” as your seed. 
+
+![Matching terms report for "coffee," via Ahrefs' Keywords Explorer
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image27.png)
+
+You’ll notice that the keyword ideas are sorted by their estimated monthly search volumes, so it’s easy to find the ones people are searching for.
+
+That said, there are a lot of ideas here (over 3.7M), and not all will make sense for your site.
+
+For example, there’s no point in trying to rank for “coffee cake recipe” with a coffee affiliate site, as there’s no way to monetize the content. It doesn’t matter that it gets an estimated 60K monthly searches:
+
+![KD and volume of "coffee cake recipe," via Ahrefs' Keywords Explorer
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image34.png)
+
+This is where the filters come in handy.
+
+For example, if you wanted to find classic “best \[whatever\]” affiliate keywords, you could just add the word “best” to the “Include” filter:
+
+![Matching terms report results with filters applied, via Ahrefs' Keywords Explorer
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image12-2.jpg)
+
+You could then filter for keywords with low Keyword Difficulty (KD) scores to hone in on easy-to-rank-for keywords:
+
+![Matching terms report results with filters applied, via Ahrefs' Keywords Explorer
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image25.jpg)
+
+Basically, relevant keywords with Traffic Potential that you can actually rank for are what you’re looking for.
+
+If you want to identify low-KD keywords in bulk, you can also use [Keywords Explorer](https://ahrefs.com/keywords-explorer). 
+
+Here’s how you do it:
+
+*   Enter a broad topic into Keywords Explorer’s search bar
+*   Head to the **Matching terms** report 
+*   Select **Phrase match** on the toggle
+*   Filter for keywords with a [Keyword Difficulty](https://ahrefs.com/blog/keyword-difficulty/) score under 20
+
+![Matching terms report results with filters applied, via Ahrefs' Keywords Explorer
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image35.png)
+
+If the suggestions aren’t that relevant, use an “Include” filter to narrow things down. For example, let’s filter our list to include only keywords with the word “best.”
+
+![Matching terms report results with filters applied, via Ahrefs' Keywords Explorer
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image20-1.png)
+
+You can then check the SERP to [assess difficulty](https://ahrefs.com/blog/keyword-difficulty/) and competitiveness further.
+
+https://www.youtube.com/watch?v=jSOq3ysvBk8
+
+## 5\. Use your target keyword in three places 
+
+A target keyword is the main keyword that describes the focus or topic of your page. 
+
+You should use this keyword in three places:
+
+### A. Title tag
+
+Google [says](https://support.google.com/webmasters/answer/7451184?hl=en) to write title tags that accurately describe the page’s content. If you’re targeting a specific keyword or phrase, this should do precisely that.
+
+It also demonstrates to searchers that your page offers what they want, as it aligns with their query.
+
+Is this a hugely important ranking factor? Probably not, but it’s still worth including.
+
+That’s why we do it with almost all our blog posts:
+
+![Target keyword in title of an Ahrefs post, via Google](https://ahrefs.com/blog/wp-content/uploads/2023/09/image5-3.png)
+
+Just don’t shoehorn the keyword in if it doesn’t make sense. Readability always comes first.
+
+For example, if your target keyword is “kitchen cabinets cheap,” that doesn’t make sense as a title tag. Don’t be afraid to rearrange things or add in stop words so it makes sense—Google is smart enough to understand what you mean. 
+
+![Example of a title tag, via google.com
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image15-2.png)
+
+### B. Heading (H1)
+
+Every page should be wrapped in an [H1 tag](https://ahrefs.com/blog/h1-tag/) and include your target keyword where it makes sense. 
+
+![Example of an H1 heading, via Ahrefs Blog
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image14-2.png)
+
+### C. URL
+
+Google says to use words in URLs relevant to your page’s content.
+
+Unless the keyword you’re targeting is unusually long, using that as the slug is the best way to do this.
+
+![Target keyword in slug, via Google](https://ahrefs.com/blog/wp-content/uploads/2023/09/image23.png)
+
+## 6\. Use a short and descriptive URL
+
+URLs in SEO play a crucial role in informing users and search engines about the content and structure of a webpage.
+
+Google says to avoid using long URLs because they may intimidate searchers.
+
+Therefore, using the exact target query as the URL isn’t always best practice.
+
+Just imagine your target keyword is “how to get rid of a tooth abscess without going to the dentist.” Not only is that a mouthful (no pun intended), but it’s also going to get truncated in the search results:
+
+![Truncated keywords example, via google.com
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image21.png)
+
+Removing stop words and unnecessary details will give you something shorter and sweeter while keeping the important words.
+
+![Removing unnecessary stop words, via google.com
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image18.png)
+
+That said, don’t be afraid to describe your page more succinctly where needed.
+
+![Descriptive URL example, via google.com
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image7-2.png)
+
+Note that if your CMS already has a predefined, ugly URL structure, it’s not a huge deal. And it’s certainly not worth jumping through countless hoops to fix. Google is showing the full URL for fewer and fewer results these days anyway.
+
+## 7\. Optimize images for SEO to get additional traffic
+
+[Image optimization for SEO](https://ahrefs.com/blog/image-seo/) is the process of ensuring your images are optimized for search. 
+
+It’s important to optimize images because they can show in Google Images and drive additional search traffic to your site.
+
+> Alt text is extremely helpful for Google Images -- if you want your images to rank there. Even if you use lazy-loading, you know which image will be loaded, so get that information in there as early as possible & test what it renders as.
+> 
+> — John  …  (@JohnMu) [September 4, 2018](https://twitter.com/JohnMu/status/1036901608880254976?ref_src=twsrc%5Etfw)
+
+Don’t overlook the importance of Google Images. It’s sent us over 5.5K clicks in the past three months:
+
+![Total clicks for Ahrefs' images, via GSC](https://ahrefs.com/blog/wp-content/uploads/2023/09/image29.png)
+
+Optimizing file names is simple. Just describe your image in words and separate those words with hyphens. 
+
+Here’s an example:
+
+![Joshua Hardwick's photograph, via ahrefs.com
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image6-2.jpg)
+
+**Filename:** `number-one-handsome-man.jpg`
+
+For alt tags, do the same—but use spaces, not hyphens.
+
+`<img src=".../number-one-handsome-man.jpg" alt="the world's most handsome man">`
+
+Alt text isn’t only important for Google but also for visitors. 
+
+If an image fails to load, the browser shows the alt tag to explain what the image should have been:
+
+![Alt tag replacing image that failed to load](https://ahrefs.com/blog/wp-content/uploads/2023/09/image2-1.png)
+
+Plus, around [8.1M Americans](https://www.interactiveaccessibility.com/accessibility-statistics) have vision impairments and may use a screen reader. These devices read alt tags out loud.
+
+## 8\. Add internal links from other relevant pages
+
+[Internal links](https://ahrefs.com/blog/internal-links-for-seo/) are links from one page to another within your website. They’re used for internal navigation, allowing visitors to move from A to B.
+
+They’re important because they have a special role in SEO. Generally speaking, the more links a page has—from external and internal sources—the higher its [PageRank](https://ahrefs.com/blog/google-pagerank/). This is the foundation of Google’s ranking algorithm and remains important today.
+
+> — Gary 鯨理경리 Illyes (so official, trust me) (@methode) [February 9, 2017](https://twitter.com/methode/status/829755916895535104?ref_src=twsrc%5Etfw)
+
+![Line graph showing URL Rating vs. search traffic
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image1-3.png)
+
+Internal links also help Google understand what a page is about.
+
+![John Mueller says anchor text gives additional context](https://ahrefs.com/blog/wp-content/uploads/2020/06/Screenshot-2024-03-18-at-12.18.30.png)
+
+Luckily, most CMSes add internal links to new webpages from at least one other page by default. This may be on the menu bar, on the blog homepage, or somewhere else.
+
+However, it’s good practice to add internal links from other relevant pages whenever you publish something new.
+
+To do this, search [Site Audit’s](https://ahrefs.com/site-audit) **Page Explorer** for the topic you are searching for.
+
+In this example, I’ve entered the keyword “lsi” into the search box and set the dropdown to “Page text.”
+
+![Page Explorer results with filters applied, via Ahrefs' Site Audit
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image24.png)
+
+This will find mentions of a keyword or topic on your site in the same way that a Google `site:` search would do. These are relevant places to add internal links.
+
+## 9\. Cover everything searchers want to know
+
+Google wants to rank the best content for searchers, and that’s the content that covers everything they want to know. 
+
+Here are a couple of ways to find out what those things might be: 
+
+### A. Look for common subtopics on the top-ranking pages
+
+You can identify common subtopics by opening two or three top-ranking pages, opening up Ahrefs’ [SEO Toolbar](https://ahrefs.com/seo-toolbar), and clicking on the “Content” tab.
+
+I’ve run a search for “things to do in london,” and I can see that both the Tripadvisor page and Lonely Planet page mention the Tower of London as the top attraction to visit. 
+
+Here’s the content structure of the Tripadvisor page:
+
+![Tower of London in Tripadvisor's content, via Ahrefs' SEO Toolbar
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image10-2.png)
+
+And here’s the same for the Lonely Planet page:
+
+![Tower of London in Lonely Planet's content, via Ahrefs' SEO Toolbar
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image28.png)
+
+We can see that the common subtopic between the two is the “Tower of London.”
+
+This is likely something searchers expect and want to see on a list of things to do in London because multiple top-ranking pages talk about it.
+
+### B. Run a content gap analysis
+
+You can run a content gap analysis if you want to take things further.
+
+To do this:
+
+Paste the URLs of three top-ranking pages into Ahrefs’ [Content Gap tool](https://ahrefs.com/content-gap). Leave the bottom field blank and hit “Show keywords.” 
+
+![Ahrefs' Content Gap tool](https://ahrefs.com/blog/wp-content/uploads/2023/09/image31.png)
+
+Then, if you set the “Intersect” to “2,” this shows queries that at least two of the targets rank for. These are probably important subtopics if more than one page is already ranking for them.
+
+![Content Gap report results, via Ahrefs' Site Explorer
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image32.png)
+
+There are 222 interesting variations here of “things to do in london,” such as “things to see in london,” “what to see in london,” and “must see in london.”
+
+This shows that sightseeing is one of the things searchers are interested in doing in London, and they want recommendations.
+
+These are just a few subtopics you can cover to make your content more thorough.
+
+## 10\. Get more backlinks to build authority
+
+[Backlinks](https://ahrefs.com/blog/what-are-backlinks/) are votes of confidence in your website. They are the foundation of Google’s algorithm and remain one of the most important [Google ranking factors](https://ahrefs.com/blog/google-ranking-factors/). 
+
+Google confirms this on [its “How Search Works” page](https://www.google.com/search/howsearchworks/), where it says this:
+
+> If other prominent websites on the subject link to the page, that’s a good sign that the information is high quality.
+
+But don’t take Google’s word for it…
+
+[Our study](https://ahrefs.com/blog/search-traffic-study/) of over 1 billion webpages shows a clear correlation between organic traffic and the number of websites linking to a page:
+
+![Line graph showing referring domains vs. search traffic
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image26.png)
+
+Just remember that this is about quality, not just quantity.
+
+You should aim to build backlinks from authoritative and relevant pages and websites. 
+
+Watch this video to see what makes a high-quality backlink:
+
+https://www.youtube.com/watch?v=E3mDlVutW\_o
+
+## 11\. Get good scores to pass Core Web Vitals
+
+[Core Web Vitals](https://ahrefs.com/blog/core-web-vitals/) are website performance metrics introduced by Google to measure and evaluate user experience.
+
+These are the core metrics that you should benchmark against:
+
+*   [Largest Contentful Paint](https://ahrefs.com/blog/largest-contentful-paint-lcp/) (LCP)
+*   [First Input Delay](https://ahrefs.com/blog/first-input-delay-fid/) (will be replaced by [Interaction to Next Paint](https://web.dev/inp/#what-is-a-good-inp-score) in March 2024)
+*   [Cumulative Layout Shift](https://ahrefs.com/blog/cumulative-layout-shift-cls/) (CLS)
+
+When monitoring these metrics, start by using Google Search Console’s **Core Web Vitals** report.
+
+![Core Web Vitals report, via GSC
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image16-2.png)
+
+ If you need more data, check out the **Performance** report in Ahrefs’ [Site Audit](https://ahrefs.com/site-audit).
+
+![Performance report, via Ahrefs' Site Audit
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image17-1.jpg)
+
+Fixing these issues can be complicated, so your best bet is usually to ask a developer (or an [SEO expert](https://ahrefs.com/blog/seo-expert/)) to fix them.
+
+Here are some general tips to help keep your pages optimized for speed and usability:
+
+*   **Use a CDN** – Most sites live on one server in one location. So, for some visitors, data has to travel long distances before it appears in their browsers. This is slow. CDNs solve this by copying critical resources like images to a network of servers around the globe so that resources are always loaded locally.
+*   **Compress images** – Image files are big, which makes them load slowly. Compressing images decreases the file size, which makes them faster to load. You just need to balance size with quality.
+*   **Use lazy-loading** – Lazy-loading defers the loading of offscreen resources until you need them. This means that the browser doesn’t need to load all of the images on a page before it’s usable.
+*   **Use an optimized theme** – Choose a well-optimized website theme with efficient code. Run the theme demo through [Google’s Pagespeed Insights tool](https://developers.google.com/speed/pagespeed/insights/) to check.
+
+## 12\. Use HTTPS to secure your site
+
+[HTTPS](https://ahrefs.com/blog/what-is-https/) (Hypertext Transfer Protocol Secure) indicates that the site is using an SSL certificate. It means your data is encrypted as it passes from your browser to the website’s server.
+
+[It’s been a Google ranking factor since 2014](https://ahrefs.com/blog/google-ranking-factors/), so it’s still important. 
+
+You can tell if your site is already using HTTPS by checking the loading bar in your browser. If there’s a “lock” icon before the URL, then you’re good.
+
+!["Lock" icon, via Google Chrome Browser
+](https://ahrefs.com/blog/wp-content/uploads/2023/09/image4-2.png)
+
+If not, you need to install an SSL certificate. 
+
+Lots of web hosts offer these in their packages. If yours doesn’t, you can pick one up for free from [Let’s Encrypt](https://letsencrypt.org/).
+
+The good news is that switching to HTTPS is a one-time job. Once installed, every page on your site should be secure—including those you publish in the future.
+
+## Next steps
+
+Implementing these 12 SEO best practices is a great starting point to ranking higher on Google, but you’ll need to monitor your progress, be consistent in your delivery and, most importantly, be patient.
+
+Results don’t always come immediately—but if you trust the process and consistently try to improve your SEO, you should see incremental results in time.
+
+https://www.youtube.com/watch?v=Rm1MbJneLSI

@@ -1,0 +1,552 @@
+URL: https://ahrefs.com/blog/link-building-strategies/
+
+# 9 Easy Link Building Strategies (That Anyone Can Use)
+
+Link building isn’t easy. It’s freakin’ hard. Which is why most people struggle to build needle-moving links to their site, regardless of the tactic they use.
+
+Sound like you? You’re in the right place.
+
+This article DOESN’T list out a bazillion link building strategies.
+
+What I’ll show you instead is a handful of tactics that WORK. Tactics that are EASY to replicate for YOUR website. Tactics that bring needle-moving links, which, in turn, [drive traffic](https://ahrefs.com/blog/how-to-drive-traffic-to-your-website/) to and increase revenue for your business.
+
+Don’t believe me? Here are some of the links we’ve built to Ahrefs using these tactics:
+
+![ahrefs link](https://ahrefs.com/blog/wp-content/uploads/2018/10/ahrefs-link.png)
+
+Link to [Ahrefs](https://ahrefs.com/) from a DR 65 site
+
+But before I share what these tactics are and how to use them, let’s clear something up.
+
+![Beginner's guide to link building](https://ahrefs.com/blog/wp-content/uploads/2021/05/backlinks.png)
+
+New to link building? Check out our
+
+## Link building strategies VS. tactics
+
+There’s a BIG difference between tactics and strategies.
+
+**Strategy** = overall plan.
+
+**Tactic** = the actual means used to gain an objective.
+
+You need only ONE link building strategy: Create something “[link-worthy](https://ahrefs.com/blog/linkable-assets/).” I know that sounds like the same advice you’ve heard a million times, but **it’s true**.
+
+That doesn’t mean you need to publish monstrous blog posts or interactive guides as others would have you believe. For some businesses, the product or service is “link-able” in itself.
+
+For example, we get lots of links because of the tools we create, not the articles we publish.
+
+Just look at the number of links we have to our [Keywords Explorer](https://ahrefs.com/keywords-explorer) tool:
+
+![keywords explorer links](https://ahrefs.com/blog/wp-content/uploads/2018/10/keywords-explorer-links.png)
+
+So think of your strategy as the engine driving your link building endeavors, and the tactics as the pistons that keep it running.
+
+Now, let’s get to the tactics. (Yes, TACTICs, not STRATEGIES.)
+
+## 1\. Outreach
+
+Almost every good link building tactic revolves around outreach.
+
+What is outreach?
+
+It’s where you reach out to people in your niche and introduce them to your content.
+
+But here’s the critical thing: You don’t necessarily need any “content” at all. You just need to have something worthy of a link—it might be your product, service, business, brand, or even personality.
+
+I already mentioned that many folks link to _ahrefs.com_ because they’re fans of our tools and find them useful. Here’s one such link that came about because of that:
+
+Ahrefs is listed as one of 300 awesome things for entrepreneurs and startups.
+
+This is AMAZING information for forming an outreach strategy. It tells us that our tools are useful to this demographic of people (entrepreneurs) because they help them with a specific problem (SEO).
+
+So why not reach out to entrepreneurs and startups to let them know about Ahrefs? If they find our tools useful, they may reference us in their future articles. If not, they’ll most likely tell us, and we can refine our future targeting based on that feedback.
+
+But I’ll level with you: outreach almost always works best with [linkable assets](https://ahrefs.com/blog/linkable-assets/).
+
+That means reaching out and telling people in your niche about content that is likely to be useful to them—big blog posts, tools, infographics, etc.
+
+To whom should you reach out to?
+
+1.  People who’ve mentioned your target keyword in their articles;
+2.  People who’ve linked to similar articles on the topic.
+
+[Content Explorer](https://ahrefs.com/content-explorer) is the best way to find folks who meet the first criterion. Just type in a word or phrase, and it’ll search almost 1 BILLION web pages for matching results.
+
+Let’s try it for “guest blogging.”
+
+![guest blogging](https://ahrefs.com/blog/wp-content/uploads/2018/10/guest-blogging.png)
+
+37,726 results. Tick the “one article per domain” checkbox, and you effectively have a list of unique sites that you can reach out to.
+
+You just need to find their contact information and [shoot them an email](https://ahrefs.com/blog/find-email-address/).
+
+As for people who’ve linked to similar articles on a topic, this is easy to do too. Use the inbuilt filter in Content Explorer to filter for pages with at least say, 50 referring domains.
+
+![guest blogging content explorer ref domains](https://ahrefs.com/blog/wp-content/uploads/2018/10/guest-blogging-content-explorer-ref-domains.png)
+
+Find a relevant page, then hit the caret and select the **Referring domains** report to see all the sites linking to that page.
+
+![caret content explorer](https://ahrefs.com/blog/wp-content/uploads/2018/10/caret-content-explorer.png)
+
+These are your prospects.
+
+pro tip
+
+Do you want to land links on high-profile sites? Sign up for [HARO](https://www.helpareporter.com/) and [Muck Rack](https://muckrack.com/) to become a source for journalists.
+
+How it works is simple: They send you source requests a few times a day, then you pitch the relevant ones. Should the journalist choose to use you as a source, they’ll link back to you in their article.
+
+Here’s one source request I received in my inbox earlier today:
+
+![haro query](https://ahrefs.com/blog/wp-content/uploads/2018/10/haro-query.png)
+
+This request comes from a very high-profile site (DR 92). As you can see, all you need to do is reach out and suggest a cool gift idea for Halloween.
+
+These sites effectively deliver relevant, high-quality outreach prospects to your inbox daily.
+
+## 2\. Guest blogging… with a twist
+
+Guest blogging is one of the oldest link building tactics in the book.
+
+How does it work? You write an article for another website in your niche. They publish it. You link to yourself from that article. It’s as simple as that.
+
+Here’s a guest post I wrote a couple years ago for _Convince and Convert_:
+
+![convince and convert guest post](https://ahrefs.com/blog/wp-content/uploads/2018/10/convince-and-convert-guest-post.jpg)
+
+You can see the link to my website in the author bio.
+
+How do you find good guest post prospects? Well, you can use the same method everyone else uses, which is to find sites actively appealing for guest bloggers using [Google search operators](https://ahrefs.com/blog/google-advanced-search-operators/). Here’s one such query that fits the bill:
+
+`topic + intitle:"write for us"`
+
+This uncovers so-called “write for us” pages, which site owners create to attract guest bloggers.
+
+![write for us result](https://ahrefs.com/blog/wp-content/uploads/2018/10/write-for-us-result.png)
+
+But EVERYONE is doing that. Those prospects gets tons of guest post pitches daily.
+
+So here’s the twist:
+
+Don’t look for sites advertising the fact that they accept guest posts. Just look for relevant sites, then pitch them anyway. Most sites are open to taking guest posts even if they don’t explicitly state it.
+
+Think about it like this: why on earth would a site turn down a well-written, free piece of content that has the potential to attract visitors to their site? _They wouldn’t._
+
+Want proof? Take the [Ahrefs blog](https://ahrefs.com/blog/). We don’t advertise the fact that we accept guest posts anywhere on our site. However, should someone reach out to us with a cool idea, we’ll almost always accept it.
+
+![guest blogger](https://ahrefs.com/blog/wp-content/uploads/2018/10/guest-blogger.png)
+
+So how do you find topically-relevant sites? Use [Ahrefs’ Content Explorer](https://ahrefs.com/content-explorer).
+
+Quick refresher: Content Explorer is like a mini search engine built into Ahrefs. Enter anything, and we’ll search [our database of almost 1 BILLION web pages](https://ahrefs.com/big-data) to find mentions of that word or phrase.
+
+Let’s try it for “link building.”
+
+![link building content explorer](https://ahrefs.com/blog/wp-content/uploads/2018/10/link-building-content-explorer.png)
+
+121K+ results. Pretty cool, right?
+
+But what we have right now is a list of web pages. This isn’t good, because we don’t want to contact the same sites multiple times. What we want is a list of unique websites, which we can get by hitting the “one article per domain” checkbox.
+
+Lastly, filter out any unwanted sites with the inbuilt filters, then hit “export” to download your prospects to a CSV.
+
+![one article per domain filters](https://ahrefs.com/blog/wp-content/uploads/2018/10/one-article-per-domain-filters.png)
+
+You should now have a list of hundreds of sites to potentially guest post for. All that’s left to do is to reach out to them, pitch your topics, and get your first guest post published.
+
+Learn how to do that at scale in [our full guide to guest posting](https://ahrefs.com/blog/guest-blogging/).
+
+## 3\. Broken link building
+
+Broken link building involves three simple steps:
+
+1.  Find a relevant broken link on a website;
+2.  Create something similar to the broken resource;
+3.  Ask anyone linking to the dead resource to instead link to your working resource.
+
+Let’s take a look at an example of how this process may work.
+
+Here’s a dead link I found in [a post](https://www.quicksprout.com/2015/09/07/5-ways-to-build-links-without-being-penalized/) on Quicksprout:
+
+![dead link quicksprout](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20816%20231%22%3E%3C/svg%3E)
+
+Before the page died, it looked like this:
+
+![backlinko broken link 2016 wayback machine](https://ahrefs.com/blog/wp-content/uploads/2018/10/backlinko-broken-link-2016-wayback-machine.png)
+
+If you happened to have a website in the SEO niche, you could take advantage of this by:
+
+*   Publishing your own guide to avoiding Google penalties
+*   Reaching out to Neil and suggesting that he swap out the dead link with yours.
+
+I know what you’re thinking:
+
+_“That seems like a LOT of work for ONE backlink”_
+
+True. But here’s a neat hack:
+
+If you paste the URL of the broken page into [Ahrefs’ Site Explorer](https://ahrefs.com/site-explorer) (or [Ahrefs’ Broken Link Checker](https://ahrefs.com/broken-link-checker)), you’ll see EVERYONE that links to that page. In this case, there are 39 links pointing to the dead resource.
+
+![backlinks to broken page](https://ahrefs.com/blog/wp-content/uploads/2018/10/backlinks-to-broken-page.png)
+
+That’s 38 more people who might be willing to swap out their dead link in favor of a working one.
+
+The question is: how do you find relevant broken link building opportunities in the first place?
+
+There are a few ways to do this, but the easiest way by far is to look for broken pages on competitors’ websites. You can do this using the **Best by links** report in [Ahrefs’ Site Explorer](https://ahrefs.com/site-explorer).
+
+_[Site Explorer](https://ahrefs.com/site-explorer) > enter a competing domain > Best by links > add a “404 not found” filter_
+
+![404 not found best by links](https://ahrefs.com/blog/wp-content/uploads/2018/10/404-not-found-best-by-links.png)
+
+Because this report shows the number of referring domains pointing to each broken page, you can quickly and easily find a goldmine of opportunities.
+
+Here’s a CRAZY example I found a while back in the travel niche:
+
+![broken link opportunity](https://ahrefs.com/blog/wp-content/uploads/2018/10/broken-link-opportunity.png)
+
+No, your eyes don’t deceive you; that broken page has 900+ referring domains.
+
+This is an INSANE opportunity for someone in this niche.
+
+Read [our full guide to broken link building](https://ahrefs.com/blog/broken-link-building/) to learn about three other ways to find broken link building opportunities.
+
+## 4\. Unlinked mentions
+
+Sometimes people will mention you or your business without linking to you. Case in point:
+
+![ahrefs unlinked](https://ahrefs.com/blog/wp-content/uploads/2018/10/ahrefs-unlinked.png)
+
+You can see that this website mentions Ahrefs, but they don’t link to us (i.e., the word “Ahrefs” isn’t a clickable link.)
+
+This happens more often than you might imagine. Here’s another one:
+
+![ahrefs content explorer unlinked](https://ahrefs.com/blog/wp-content/uploads/2018/10/ahrefs-content-explorer-unlinked.jpg)
+
+This time it’s a mention of [Ahrefs’ Content Explorer](https://ahrefs.com/content-explorer) that’s gone unlinked.
+
+What has this got to do with link building?
+
+With such mentions, you’re already halfway towards earning a link.
+
+Think about it: You know that the author is familiar with your business because they’ve already mentioned you. So you have the perfect excuse to reach out and, hopefully, convince them to convert that mention into a link.
+
+But how do you find relevant unlinked mentions in the first place?
+
+There are a few different ways, but the easiest way is to use [Ahrefs’ Content Explorer](https://ahrefs.com/content-explorer).
+
+Remember that Content Explorer searches almost ONE BILLION web pages for mentions of any word or phrase. This is super-useful for finding web pages related to a particular topic, but you can also use it to find mentions of your brand across the web, like so:
+
+![ahrefs brand search content explorer](https://ahrefs.com/blog/wp-content/uploads/2018/10/ahrefs-brand-search-content-explorer.png)
+
+Right off the bat, we’ve found over 17 THOUSAND web pages mentioning “Ahrefs.”
+
+But there’s a problem: We have no clue whether these are linked or unlinked mentions.
+
+To find that out, we’d have to export all these web pages and somehow check that each of them link to _ahrefs.com_. That can be a time-consuming process, so I’m not going to go into that here.
+
+Instead, I’m going to show you a hack for finding high-priority unlinked mentions in seconds.
+
+First, select the “one article per domain” filter in [Content Explorer](https://ahrefs.com/content-explorer).
+
+![one article per domain](https://ahrefs.com/blog/wp-content/uploads/2018/10/one-article-per-domain.png)
+
+That restricts the search results so that you only see one web page from each website.
+
+Next, use the “highlight unlinked domains” feature to highlight all websites that have never linked to you, like so:
+
+![highlight unlinked domains](https://ahrefs.com/blog/wp-content/uploads/2018/10/highlight-unlinked-domains.png)
+
+Finally, export ONLY the highlighted web pages by hitting “export” and checking the “only highlight unlinked domains” box.
+
+![only highlight unlinked domains](https://ahrefs.com/blog/wp-content/uploads/2018/10/only-highlight-unlinked-domains.png)
+
+You now have a neat list of web pages containing unlinked mentions to pursue at your leisure.
+
+Read [our full guide to finding and pursuing unlinked mentions](https://ahrefs.com/blog/unlinked-mentions/) to learn about five other ways to find such opportunities.
+
+pro tip
+
+Do you want to [build links to your ecommerce product or category pages](https://ahrefs.com/blog/ecommerce-link-building/)?
+
+These are notoriously difficult to get.
+
+Most people tend to link to your homepage because it’s easier for them to do so.
+
+But what if, say, you’re Airbnb, and someone links to your homepage in a blog post where they talk about their trip to London. Well, it’d make much more sense for them to link to your category page for London-based homes to rent, right? _Definitely._
+
+With that in mind, here’s a twist on the unlinked mentions strategy for getting links to these pages: **link moves.**
+
+You can use [Ahrefs’ Site Explorer](https://ahrefs.com/site-explorer) to find existing linked mentions to your homepage that would be better suited to another page. Here’s one such example:
+
+![airbnb link](https://ahrefs.com/blog/wp-content/uploads/2018/10/airbnb-link.png)
+
+This link to the Airbnb homepage comes from a blog post about moving to London. Furthermore, the context of the link is all about finding accommodation in London via Airbnb.
+
+Because it would make more sense for this link to point to the London category page, it may be worth reaching out and requesting a link move. By that, I mean asking very kindly if they’d be willing to swap out that homepage link in favor of a link to the category page.
+
+Why should they do this? **Relevance.**
+
+Those who are likely to click that link will almost certainly prefer to go to the London properties page over the homepage.
+
+## 5. Link reclamation
+
+Links are difficult to build. There are no two ways about it.
+
+But did you know that you’re probably losing backlinks all the time? Here are all the lost backlinks to _ahrefs.com_ (from unique referring domains) over the past seven days alone:
+
+![lost referring domains](https://ahrefs.com/blog/wp-content/uploads/2018/10/lost-referring-domains.png)
+
+Wow. It looks like we’re down by 180 links.
+
+Of course, you can counteract this natural process by building a consistent stream of new links. However, reclaiming lost links is often much easier than building new ones from scratch.
+
+But why are links lost in the first place?
+
+Here are two common reasons:
+
+1.  The link was removed from the linking page;
+2.  The linking page ceased to exist.
+
+Sidenote.
+
+These are not the only two reasons that links can be lost. 
+
+If the link got removed from the linking page, it probably happened for a reason. Perhaps the author updated or revamped the content and your link got removed as a byproduct of that process?
+
+How can you find out when links are lost for this reason?
+
+Check the **Lost** backlinks report in [Ahrefs’ Site Explorer](https://ahrefs.com/site-explorer) and look for links with the “link removed” tag.
+
+_[Site Explorer](https://ahrefs.com/site-explorer) > enter your domain > Backlinks > Lost > look for instances of “link removed”_ 
+
+![thehoth link removed](https://ahrefs.com/blog/wp-content/uploads/2018/10/thehoth-link-removed.png)
+
+Sidenote.
+
+It’s also worth adding filters for followed links, and sorting the results by [URL Rating (UR)](https://help.ahrefs.com/en/articles/72658-what-is-url-rating-ur).
+
+The link in the example above was removed because the content was rewritten.
+
+Should you find this to be the reason for the link loss, see if there’s an appropriate place for your link in the new content. If so, reach out and kindly suggest that they add the link back. Just don’t be pushy.
+
+**NOTE.** Links can get removed for other reasons. It’s vital that you understand those reasons and handle things accordingly. Learn more about that in [our full guide to link reclamation](https://ahrefs.com/blog/link-reclamation/).
+
+But what about links that are lost because the linking page no longer exists?
+
+![gotch seo 404](https://ahrefs.com/blog/wp-content/uploads/2018/10/gotch-seo-404.png)
+
+Most of the time, this happens because the author chose to delete the page (and your link along with it). Unfortunately, there’s not a lot you can do about that.
+
+Sometimes, however, pages get deleted by mistake.
+
+If you suspect this to be the case, reach out to the site owner and let them know. They will usually reinstate the page (and your link) should they learn about such an issue.
+
+Furthermore, this is a helpful thing to do and can be the catalyst to a great relationship—a relationship that may lead to more links further down the line.
+
+[Learn more about the ins and outs of link reclamation in our full guide](https://ahrefs.com/blog/link-reclamation/).
+
+## 6\. Paid promotion for “linkable assets”
+
+[Linkable assets](https://ahrefs.com/blog/linkable-assets/) are pieces of content that deserve links: tools, calculators, in-depth and informative blog posts, tutorials, infographics, etc.
+
+Here’s [one of my favorite infographics](https://neomam.com/interactive/13reasons/) about, well, “infographics”:
+
+![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201275%20763%22%3E%3C/svg%3E)
+
+If you recall what I said during the outreach section, getting links to this type of content is all about letting the right people know that it exists. Do that, and they might link to it.
+
+With outreach, however, you’re cherry-picking your targets. You’re a sniper.
+
+But there’s another way to get your content in front of your target audience: Pay to promote it using Facebook ads or a similar PPC ad network (e.g., Google AdWords, Pinterest Ads, etc.)
+
+You don’t have to spend a lot. $50-$100 will often suffice. If your content resonates with your chosen audience, a small percentage of them will surely link to it. This might be from their website, a niche forum, a comment on another blog, a discussion board, or elsewhere.
+
+You may have seen us doing this for some of our blog posts on Facebook.
+
+![facebook ahrefs ad](https://ahrefs.com/blog/wp-content/uploads/2018/10/facebook-ahrefs-ad.jpg)
+
+Do we do this just for links? No. We don’t do it for links at all—we simply like to get our blog posts in front of as many people as possible.
+
+But there’s no doubt that this practice helps with our link building efforts.
+
+How do we know? Because we have TONS of links to our blog, most of which came about naturally as a result of people seeing our content.
+
+Take [our post about keyword cannibalization](https://ahrefs.com/blog/keyword-cannibalization/), for example. It has 216 backlinks from 25 referring domains.
+
+![kw cannibalization post](https://ahrefs.com/blog/wp-content/uploads/2018/10/kw-cannibalization-post.png)
+
+We did ZERO outreach for this post. We only promoted it via our newsletter and with Facebook ads, meaning that all these backlinks came about because the right audience saw this asset.
+
+## 7\. Steal links from inferior web pages
+
+Have you ever come across a piece of mediocre content, checked it out in [Ahrefs’ Site Explorer](https://ahrefs.com/site-explorer), and been blown away by the amount of links it had?
+
+I know I have. Check out this rather pointless, 200-word guide to the paleo diet, for example:
+
+![paleo diet page](https://ahrefs.com/blog/wp-content/uploads/2018/10/paleo-diet-page.png)
+
+309 backlinks from 63 referring domains. Madness.
+
+Now let’s imagine for a moment that you have a superior, 5000-word beast of a guide to the paleo diet on your site. Ask yourself: why would someone link to that 200-word guide over yours?
+
+**Answer:** Because they probably don’t know that a better piece of content exists.
+
+**Solution:** Introduce them to your content and ask them to link to you instead.
+
+But how exactly do you do this?
+
+Well, first, you need to find one or more inferior pieces of content from which you can steal links.
+
+The easiest way to do this is to search for a topic in [Content Explorer](https://ahrefs.com/content-explorer) and filter for pages that have a good number of links.
+
+_[Content Explorer](https://ahrefs.com/content-explorer) > enter topic related to your content > add a referring domains filter_
+
+![content explorer paleo](https://ahrefs.com/blog/wp-content/uploads/2018/10/content-explorer-paleo.png)
+
+Here’s one that fits the bill:
+
+![paleo diet page content explorer](https://ahrefs.com/blog/wp-content/uploads/2018/10/paleo-diet-page-content-explorer.png)
+
+You’d then need to check the links to this page by pasting it into [Ahrefs’ Site Explorer](https://ahrefs.com/site-explorer) and checking the **Backlinks** report.
+
+Look for links that might make sense to steal. By that, I mean those where a link to your page would genuinely be more valuable.
+
+Here’s an example:
+
+![paleo diet link](https://ahrefs.com/blog/wp-content/uploads/2018/10/paleo-diet-link.png)
+
+There’s no doubt in my mind that a link to an in-depth paleo diet guide would be a valuable replacement here.
+
+Pretty straightforward, right? You can also rinse and repeat this process for more inferior pages.
+
+But before I wrap this tactic up, it’s worth mentioning that you’re not limited to content or so-called “linkable assets” when doing this. Nor do you always have to “steal” links—you can replicate them.
+
+For example, if you have an ecommerce store that sells a specific thing, your goal is to get featured in relevant places, including places where similar ecommerce stores are featured. So why not look at the backlinks to other similar ecommerce stores and find replicable links?
+
+Read [our full guide to finding and replicating competitors backlinks](https://ahrefs.com/blog/find-competitors-backlinks/) to learn how to do this.
+
+## 8\. Content repurposing & syndication
+
+Not all link building tactics are outreach-based.
+
+It’s possible to build some links by merely submitting content to appropriate places such as infographic directories, video-sharing sites, and so forth.
+
+But your content needs to be in an appropriate format to be able to do that.
+
+This is where content repurposing comes in.
+
+Let’s say that you have an AMAZING interactive infographic. You’ve poured your heart and soul into creating it, and you wish it had a wider audience. Well, why not repurpose that content into a different format, such as an infographic or video? Then can submit that content to infographic or video-sharing websites.
+
+This is exactly what the smart folks at [Neomam](https://neomam.com/) did with the interactive “13 reasons why your brain craves infographics” piece that I showed you earlier.
+
+Here it is in static infographic format…
+
+![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20708%20399%22%3E%3C/svg%3E)
+
+… and in video format:
+
+[https://www.youtube.com/watch?v=c\_yVJVo1U5k](https://www.youtube.com/watch?v=c_yVJVo1U5k)
+
+This resulted in some additional links, like so:
+
+![youtube link 13 reasons](https://ahrefs.com/blog/wp-content/uploads/2018/10/youtube-link-13-reasons.png)
+
+Are these the most powerful links ever?
+
+No, but such links are still worth having, especially as repurposing content like this is often quite easy to do.
+
+Furthermore, doing so results in the exposure of your content to a broader audience. This is good because more eyeballs = more links.
+
+But content repurposing isn’t the only way to get some quick and easy links.
+
+You can also syndicate your content to other third-party websites.
+
+What does this mean? It means that when you publish a blog post, for example, other relevant sites will pick it up and post it alongside a link back to the source. Some sites republish the full thing, whereas others publish an excerpt and link to the full post on your site.
+
+Here’s a syndicated version of [our recent local SEO guide](https://ahrefs.com/blog/local-seo/) on another site:
+
+![syndication ahrefs example](https://ahrefs.com/blog/wp-content/uploads/2018/10/syndication-ahrefs-example.png)
+
+Read [our full guide to content syndication](https://ahrefs.com/blog/content-syndication/) to learn precisely how to do this.
+
+## 9\. Community site link building
+
+Most people focus on building ONLY the highest quality links.
+
+This is a good thing, on the whole. But let me ask you a question: do you think that a genuinely natural backlink profile consists of only followed, editorial links from high DR websites?
+
+_Of course not._ That’s why it’s important to build links from other sources too.
+
+Forums, message boards, Reddit, Quora, etc—these are all good places to market your website and, in the process, build some relevant links to diversify your backlink profile.
+
+This is something we do at Ahrefs.
+
+![ahrefs quora](https://ahrefs.com/blog/wp-content/uploads/2018/10/ahrefs-quora.png)
+
+Now, I know what most of you are thinking: _“Josh, aren’t such links nofollowed?”_
+
+Yes, a lot of them are, but this isn’t necessarily a bad thing. All natural backlink profiles have a mixture of followed and “nofollowed” links. Furthermore, sites like Reddit sometimes remove the “nofollow” attribute on links within popular threads.
+
+Leaving thoughtful blog comments is another good way to build a few extra links.
+
+Blog comments are almost always “nofollow” links. However, leaving comments on relevant and popular blog posts will help get your content in front of more people. This process can lead to more links, as a percentage of people who view your content will inevitably link to it.
+
+How do you find good blog posts on which to comment?
+
+Go to [Content Explorer](https://ahrefs.com/content-explorer) and search for a relevant phrase, then filter for pages that get a decent amount of traffic.
+
+![link building content explorer traffic](https://ahrefs.com/blog/wp-content/uploads/2018/10/link-building-content-explorer-traffic.png)
+
+Check out some of the results and see if they allow blog comments.
+
+If they do, consider leaving an insightful comment that will attract the attention of readers and hopefully, prompt them to check out your website.
+
+Leaving blog comments will also inevitably attract the attention of the blog owner and further your relationship with them. This increases the chance of them mentioning and linking to you in their future blog posts.
+
+You can use a similar trick with sites like [Quora](https://ahrefs.com/blog/quora-marketing/). Identify relevant threads that get lots of traffic using [Site Explorer](https://ahrefs.com/site-explorer).
+
+_[Site Explorer](https://ahrefs.com/site-explorer) > enter quora.com > Top pages > enter a relevant keyword._
+
+![quora top pages](https://ahrefs.com/blog/wp-content/uploads/2018/10/quora-top-pages.png)
+
+This will show you relevant pages with the most traffic. Check them out. If they’re still allowing new answers, get involved in the conversation.
+
+## Wait… can’t I just buy links?
+
+Like everything in life, links **can** be bought.
+
+However, Google has [made it quite clear](https://support.google.com/webmasters/answer/2604774?hl=en) that this practice is against their guidelines. Here’s an excerpt from said guidelines:
+
+> _Buying links or participating in link schemes in order to manipulate [PageRank](https://ahrefs.com/blog/google-pagerank/) is a violation of Google’s Webmaster Guidelines._
+
+So we do not recommend buying links. It’s risky, and you may receive a penalty should Google catch you.
+
+But how much do links cost anyway?
+
+That’s something we wondered ourselves, which is why [we reached out to 630 blogs and asked them to sell us a link](https://ahrefs.com/blog/buy-backlinks/).
+
+$361.44 was the average price.
+
+Do all links cost that much? Not at all. Some bloggers quoted us around $30-$50, whereas others quoted THOUSANDS. These were all quotes for links to be added to existing posts, or for paid guest posts—both of which are common ways to buy links.
+
+PBNs (Private Blog Networks) are also popular.
+
+These are essentially nothing more than networks of sites owned by the same person, which are then used to build links to a “money” site. Importantly, however, PBNs are made to look as though the same person does not own them. PBN owners work hard to fool Google into thinking that these are legitimate sites that just so happened to link to the same site.
+
+Google doesn’t like PBNs. They have been known to [target sites using them](https://searchengineland.com/google-targets-sites-using-private-blog-networks-manual-action-ranking-penalties-204000) in the past.
+
+![pbn penalty](https://ahrefs.com/blog/wp-content/uploads/2018/10/pbn-penalty.png)
+
+The bottom line? Well, I’m sure some black-hat SEOs will disagree with us here, but we believe it’s more cost effective to build links in legitimate ways (e.g., [outreach](https://ahrefs.com/blog/outreach/)) than to build a PBN or buy links.
+
+That’s what we recommend you do. 
+
+## Final Thoughts
+
+Link building isn’t rocket science. The tactics I shared above will work for all websites. You just need to execute them.
+
+Will some work tactics better for some sites than others? _Of course._ Your job is to test each tactic and see what works best for you. At which point, you can work on scaling your efforts to build more links with less effort.
+
+Do you know of any other good link building tactics that we missed? Let us know in the comments.

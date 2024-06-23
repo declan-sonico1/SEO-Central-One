@@ -1,0 +1,131 @@
+URL: https://ahrefs.com/blog/seo-manager/
+
+# SEO Manager Role & Skills (Explained by SEO Managers)
+
+SEO is one of the most multidisciplinary marketing fields. It’s intertwined with many other aspects: marketing channels, product, and development. SEO managers are here to make it all work like a well-oiled machine that aligns with the marketing strategy and business objectives.
+
+But what does an SEO manager do on a daily basis? What are the most important skills you need to become one? And how much can you expect to earn? We’ve got the answers.
+
+I reached out to some of my Twitter and LinkedIn connections with SEO manager roles in their respective bios. Huge thanks to the following SEOs who helped me put this article together:
+
+*   [Abby Reimer](https://twitter.com/abbyreimermpls) – SEO manager at [Uproer](https://uproer.com/)
+*   [Suganthan Mohanadasan](https://twitter.com/Suganthanmn) – SEO consultant and co-founder of [Snippet Digital](https://snippet.digital/) and [Keyword Insights](https://www.keywordinsights.ai/)
+*   [John Lawless](https://www.linkedin.com/in/johnlawless1/) – Content and SEO manager at [BestHeating](https://www.bestheating.com/)
+*   [Axel Jack Metayer](https://twitter.com/autoschieber) – SEO consultant and senior SEO manager at [Breuninger](https://www.breuninger.com/de/)
+
+Let’s dive in.
+
+## What does an SEO manager do on a daily basis?
+
+If you’re looking for a diverse job, you hit the jackpot. When I collated the answers from the article contributors, I got a big list of tasks and activities. I found there is an overarching sentiment that no day looks the same when you’re an SEO manager.
+
+The daily agenda depends on whether you’re an in-house employee working for one company only or in an agency managing multiple clients. For example, you can generally expect more tactical work in-house while the agency side has more meetings and strategy planning.
+
+I divided the daily tasks into four categories to make sense of it all. And we’re kicking it off with…
+
+### Management
+
+Well, duh. SEO managers manage things and people. In smaller companies, SEO managers are often in charge of the whole SEO department and directly report to a CMO. In bigger marketing teams, there can be a head of SEO in between.
+
+Management can be seen as a vague term. So here’s an example list of managerial tasks that you can expect in this role:
+
+*   Participating in meetings with clients and team members
+*   Coordinating the team’s tasks, answering questions, and addressing problems
+*   Taking care of team education, training, and motivation
+*   Working with stakeholders
+*   Creating pitch decks for new, potential clients (if you’re in an agency)
+
+### Strategy
+
+An [SEO strategy](https://ahrefs.com/blog/orchard-seo-strategy/) is a battle plan that guides all SEO-related efforts toward higher visibility in search engines. As part of the strategy, managers plan various SEO campaigns and ensure that they’re executed properly. SEO managers also make sure that all of these efforts are an integrated part of the broader [marketing plan](https://ahrefs.com/blog/marketing-plan/).
+
+### Tactics
+
+Tactics are how you execute your strategy to be successful. These are all the [SEO techniques](https://ahrefs.com/blog/seo-techniques/), hacks, efforts, activities, and all the other words you can find in the context of taking action.
+
+It comes down to the fact that you can execute thousands of different things as an SEO. But generally speaking, if an SEO manager gets involved in tactical tasks, those are usually the more advanced things that they can likely do better than others in their teams. Or they’re reviewing the work of others, e.g., content plans, outlines, drafts, or proposed technical changes.
+
+The scope of tactical work for SEO managers depends on the resources available for the planned SEO work. If the manager has a small team, they’ll likely engage in hands-on SEO work more often than someone looking after 10 SEO specialists.
+
+### Reporting
+
+When I say reporting, most of us will likely first associate it with the good old [SEO report decks](https://ahrefs.com/blog/seo-report-template/) (or Google Data Studio dashboards if you’re fancier):
+
+![Slide containing summary and key data of link building progress, as well as list of pages that had changes in referring domains ](https://ahrefs.com/blog/wp-content/uploads/2022/01/1-seo-report.png)
+
+You usually create these once a month to report what has changed, improved, or got worse. That’s far from being a daily task. But if you work in an agency with many clients, the process of creating the first report may as well be a frequent activity.
+
+Then there’s ad hoc reporting. It’s not necessarily about reporting to clients or stakeholders. Rather, it’s about reporting within your team or checking the progress for yourself. Two of the contributing SEO managers actually mentioned checking reporting tools on a daily basis.
+
+In terms of specific reports, [rank tracking](https://ahrefs.com/rank-tracker) was mentioned the most:
+
+Followed by checking branded mentions across the web:
+
+## What are the most important skills for an SEO manager?
+
+This is the second question I asked our contributors. Of course, solid SEO experience and skills are a given, so soft skills were mentioned most. I bundled together some of the answers and got the following top five skills an individual needs to become a great SEO manager:
+
+### Communication skills
+
+A unanimous winner that shouldn’t surprise anyone. Many of the daily tasks mentioned above revolve around communication.
+
+Here’s what communication skills mean in SEO:
+
+*   Having the ability to convey complex SEO concepts using simple language that even non-SEOs understand
+*   Assigning tasks in a way that everyone knows what they should be doing and what the point of doing the tasks is
+*   Being able to share feedback constructively
+*   Being empathetic toward team members
+*   Possessing negotiation skills and knowing how to “sell” the [value of SEO](https://ahrefs.com/blog/is-seo-worth-it/) to stakeholders
+
+### Data-driven mindset and critical thinking
+
+I completely agree with Abby’s thoughts:
+
+> Having an affinity or at least an interest in data is crucial for any marketing role. 
+
+This is especially true in SEO. You can’t do much without knowing what data to look at, what it means, and what to make of it. And that’s also largely related to critical thinking.
+
+Based on my own experience of interviewing many marketers, these are skills most should work on. To be a great SEO manager, you should know your way around [Google Analytics](https://ahrefs.com/blog/google-analytics-for-seo/), [Search Console](https://ahrefs.com/blog/google-search-console/), an all-in-one SEO toolset like [Ahrefs](https://ahrefs.com/), and then be able to [create great SEO reports](https://ahrefs.com/blog/seo-report-template/) using data from these tools.
+
+### Curiosity and constant learning
+
+The basic principles of SEO have stayed the same over the years. But Google keeps everyone busy with its algorithm updates and changes on [SERPs](https://ahrefs.com/blog/serps/). Meanwhile, SEO tools keep releasing new features; also, smart SEOs are always coming up with better solutions to many problems we’re facing.
+
+And if this isn’t a good enough selling point for the importance of constant learning and curiosity, we’ve got another: Your ideas will fail sometimes. There are no guarantees in SEO, and you’ll have ample opportunities to learn from your mistakes. And yes, failures in your team are part of your responsibilities as well.
+
+### Time management, prioritization, and delegation skills
+
+Even if you’re not a manager, you probably know what it’s like to be swamped with messages, deadlines, and never-ending meetings. That’s your opportunity to create efficient systems and make sense of the chaos.
+
+Not only do things get more chaotic as you step up, but you’ll also be partially responsible for other people’s chaos. However, you need to make things work for you and not against you by managing time well, prioritizing important tasks, and delegating work to others.
+
+### Technical skills
+
+As an SEO practitioner, you may get away with knowing just the [basics of technical SEO](https://ahrefs.com/blog/technical-seo/) if these are not your responsibilities. But any SEO manager should go beyond the basics, as they’re often the ones approving technical SEO changes and communicating with developers.
+
+A basic HTML orientation should not be taken for granted at all SEO levels. In addition, here’s a sample of more technical skills that can come in handy:
+
+*   At least a passive knowledge of [JavaScript SEO](https://ahrefs.com/blog/javascript-seo/)
+*   Knowing your way around the [schema markup](https://ahrefs.com/blog/schema-markup/)
+*   Being familiar with [Core Web Vitals](https://ahrefs.com/blog/core-web-vitals/) and [page speed improvements](https://ahrefs.com/blog/core-web-vitals/)
+*   Log file analysis
+
+## How much do SEO managers make?
+
+Finally—the money talk. It’s clear that you can’t become an SEO manager right after you finish [your first SEO course](https://ahrefs.com/academy/seo-training-course). It requires quite a lot of skills and experience, which are indicators of a lucrative job.
+
+In the U.S., the average salary of SEO managers based on several job and HR databases is around $75K. However, good candidates can expect at least $100K. (I came to this conclusion after discussing with U.S.-based SEOs and reviewing many job postings.) You could go even higher than that in the most popular technological hubs.
+
+In the U.K., the average compensation seems to be around £40K (~$55K). SEO salaries in the U.K. aren’t that attractive (yet), so I can only encourage you to ask for more to change that. Of course, you should expect large discrepancies between London and the rest of the country.
+
+As this is a suitable job for 100% remote work, I’ve also been keeping an eye on remote job postings. These jobs start at $40K but can go well over $100K too. The best candidates can get U.S. salaries regardless of where they are in the world.
+
+## Final thoughts
+
+Being an SEO manager is a diverse and interesting job. However, we haven’t mentioned what comes after that. In many companies, SEO roles don’t go beyond this level, but the finish line can be a manager becoming the head or director of SEO.
+
+Every SEO should broaden their horizons and focus on [marketing in genera](https://ahrefs.com/blog/category/marketing/)[l](https://ahrefs.com/blog/category/marketing/) if they want to climb the career ladder—with being a CMO as the end goal. So that’s a bonus skill you should focus on (besides the top five mentioned in the article).
+
+Again, thanks to Abby, Sugan, John, and Axel for sharing their insights and experience.
+
+Got any questions? Ping me [on Twitter](https://twitter.com/michalpecanek).

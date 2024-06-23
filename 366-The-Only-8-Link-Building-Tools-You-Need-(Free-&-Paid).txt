@@ -1,0 +1,273 @@
+URL: https://ahrefs.com/blog/link-building-tools/
+
+# The Only 8 Link-Building Tools You Need (Free & Paid)
+
+Link building has been my passion for nearly a decade. Before working for Ahrefs, I worked as a link-building consultant, helping dozens of clients build hundreds of links.
+
+What I learned during this time is that you don’t need dozens of link-building tools. You just need a few of the best ones.
+
+And in 2021, I’m convinced that there are only eight of them.
+
+Here are those eight link-building tools:
+
+1.  [Ahrefs](#1-ahrefs)
+2.  [Google](#2-google)
+3.  [Hunter.io](#3-hunter-io)
+4.  [NeverBounce](#4-neverbounce)
+5.  [Buzzstream](#5-buzzstream)
+6.  [HARO](#6-haro)
+7.  [URL Profiler](#7-url-profiler)
+8.  [SEO Toolbar](#8-seo-toolbar)
+
+![Beginner's guide to link building](https://ahrefs.com/blog/wp-content/uploads/2021/05/backlinks.png)
+
+New to link building? Check out our
+
+## 1\. Ahrefs
+
+_**The industry’s favorite link research tool**_
+
+Let’s face it: You can build links without [Ahrefs](https://ahrefs.com/), but you probably wouldn’t want to. Ahrefs’ crawler is the [second most active after Google’s](https://www.incapsula.com/blog/most-active-good-bots.html), and our backlink index contains over 3 trillion live backlinks. This makes it arguably the best tool on the planet for backlink research—a crucial everyday task for any link builder worth their salt.
+
+This is probably why SEO professionals consistently vote Ahrefs their link-building tool of choice, like in [Aira’s 2021 State of Link Building report](https://www.aira.net/state-of-link-building/):
+
+![Poll where 137 people rated Ahrefs as most trusted link-building tool](https://ahrefs.com/blog/wp-content/uploads/2021/11/1-most-trusted-link-data-vote-results.png)
+
+### My favorite unique feature: Content Explorer
+
+[Content Explorer](https://ahrefs.com/content-explorer) is a searchable database of over 9 billion pages. It’s fantastic for content research, but it’s also a great source of link prospects.
+
+For example, let’s say that you’re looking for link prospects for a blog post entitled “best routers for 2021.” One source of potential link prospects will be people linking to similar posts that haven’t been updated for years—as nobody wants to link to an outdated list of routers, half of which probably aren’t even available anymore.
+
+You can easily find posts that fit the bill in [Content Explorer](https://ahrefs.com/content-explorer):
+
+1.  Enter a search term like “best wifi routers”
+2.  Switch the search mode to “In title”
+3.  Filter for pages published before 2018
+4.  Filter for English pages
+5.  Filter for pages with 10+ referring domains
+
+Now you see similar pages to yours, with backlinks, that haven’t been updated since 2017:
+
+![Content Explorer search results showing 216 pages that haven't been updated](https://ahrefs.com/blog/wp-content/uploads/2021/11/2-content-explorer-wifi-routers-search.png)
+
+You can easily download those pages’ backlinks from [Site Explorer](https://ahrefs.com/site-explorer), then reach out and suggest that those sites link to your up-to-date list instead of the outdated one from 2017.
+
+### Pricing
+
+Free to see backlinks to the websites you own using [Ahrefs Webmaster Tools (AWT)](https://ahrefs.com/webmaster-tools). If you want to research and view other websites’ backlinks and use [Content Explorer](https://ahrefs.com/content-explorer), you’ll need a paid plan starting at $82/month.
+
+## 2\. Google
+
+_**The world’s largest source of link prospects**_
+
+Most people don’t think of [Google](https://www.google.com/) as a link-building tool, but it’s one of the best ways to find link prospects. That’s because it has the largest index of web pages on the planet and arguably the best search algorithm. So if you know how to use it effectively, you can easily find thousands of relevant link prospects for free.
+
+### My favorite unique feature: Search operators
+
+[Search operators](https://ahrefs.com/blog/google-advanced-search-operators/) are commands that help you refine and filter search engine results. Some are unique to Google, but not all of them (as you can use the same or similar ones in Bing or [Content Explorer](https://ahrefs.com/content-explorer)). But even the ones that aren’t totally unique to Google seem especially powerful there because you can combine them to pull exactly what you need from its insanely vast index.
+
+For example, you can combine the `intitle:`, `inurl:`, and `OR` operators to find relevant resource pages to pitch your link:
+
+`[keyword] (intitle:resources OR intitle:resource) (inurl:resources OR inurl:resource)`
+
+![Google search results with search operators applied](https://ahrefs.com/blog/wp-content/uploads/2021/11/3-seo-google-search.jpg)
+
+You can also combine `intitle:`, `inurl:`, and the `-` operator to find authorship pages for prolific guest bloggers in your industry and potentially write for those sites yourself:
+
+`intitle:"tim soulo” intitle:author inurl:author -ahrefs.com`
+
+![Google search results with search operators applied](https://ahrefs.com/blog/wp-content/uploads/2021/11/4-tim-soulo-google-search.jpg)
+
+The only downside of using Google for link prospecting is that there isn’t any way to download the results. You can solve this with a Chrome add-on like [Ahrefs’ SEO Toolbar](https://ahrefs.com/seo-toolbar), which has a button to download SERP data.
+
+### Pricing
+
+Free.
+
+## 3\. Hunter.io
+
+_**Powerful email address finder**_
+
+[Hunter.io](https://hunter.io/) can find all emails associated with a domain or a specific person’s email address in seconds. For example, here’s how fast it finds my @ahrefs.com email address:
+
+![Hunter quickly finding Joshua's email address](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
+
+According to [our testing](https://ahrefs.com/blog/find-email-address/), it’s not the most accurate email lookup service, but one feature more than makes up for this when it comes to link prospecting at scale: the Google Sheets add-on.
+
+### My favorite unique feature: Google Sheets add-on
+
+Let’s say that you’ve exported some link prospects from [Content Explorer](https://ahrefs.com/content-explorer) and imported them into Google Sheets. You’ll notice that the export file includes the associated author name (where we can find it).
+
+![List of link prospects with some author names](https://ahrefs.com/blog/wp-content/uploads/2021/11/6-link-prospects.png)
+
+Using [Hunter’s Sheets add-on](https://hunter.io/sheets), you can find matching emails for these prospects with one click:
+
+![Hunter finding matching emails and adding them in the list](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
+
+This won’t find a matching email address for every prospect, but it usually finds one for a decent percentage of them. You can then use these prospects as your initial “hit” list to test the viability of an outreach campaign. If successful, have someone find emails for the rest of the prospects to build more links.
+
+### Pricing
+
+Free up to 25 searches per month, then from $49 per month.
+
+## 4\. NeverBounce
+
+_**Email verification and cleaning service**_
+
+You should always verify the deliverability of your prospects’ email addresses before sending outreach emails. Fail to do so, and the deliverability of your entire campaign could be negatively affected by bounces. It’s also a waste of time to personalize outreach emails only for them to bounce.
+
+[NeverBounce](https://neverbounce.com/) makes email verification super easy. Just upload a list of prospects, and it’ll tell you whether each email is “valid,” “invalid,” “accept all,” or “disposable.”
+
+![NeverBounce page showing validation results for email addresses](https://ahrefs.com/blog/wp-content/uploads/2021/11/8-email-verification-results.png)
+
+It also automatically de-dupes the list, so you’ll only pay for each email verification once.
+
+### My favorite unique feature: Zapier integration
+
+Everything revolves around Google Sheets when I do email outreach, which is why NeverBounce’s Zapier integration is such a godsend. You can quickly set up a multi-step zap so that when you enter an email address into a Google sheet, it pings NeverBounce, verifies the email, and logs the verification status of that email in the very same Google sheet.
+
+![Email verification status logged in the Google Sheet](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
+
+Magic, right?
+
+But there’s one downside to this system: the expense. If you opt for Zapier’s $49/month plan, it’ll cost you just shy of an extra $0.025 each time the zap runs. This makes it at least 10x more expensive than doing it manually.
+
+Luckily, there’s a solution: create a JSON importer in Google Apps Script to import data from NeverBounce webhooks. That may sound hard, but it’s pretty simple. Ping me [on Twitter](https://twitter.com/joshuachardwick?lang=en) if you want instructions for doing this.
+
+### Pricing
+
+From $0.003 per email verification.
+
+## 5\. Buzzstream
+
+_**Outreach tool and prospect manager**_
+
+Gmail is great if you’re only planning to send a few outreach emails, but you need a dedicated tool to scale your [email outreach](https://ahrefs.com/blog/email-outreach/). That’s where [Buzzstream](https://www.buzzstream.com/) comes in. It lets you manage, organize, personalize, track, and send emails all in one place. You can also add multiple users to your account and assign tasks between them.
+
+It seamlessly imports Ahrefs CSV exports too:
+
+![Buzzstream page showing Ahrefs as one of the import options](https://ahrefs.com/blog/wp-content/uploads/2021/11/10-import-options.png)
+
+### My favorite unique feature: Buzzmarker
+
+[Buzzmarker](https://chrome.google.com/webstore/detail/buzzstream-buzzmarker/difjajjajoeppdgbcbbhbdblblmkcbhp?hl=en-US) is a Chrome extension that helps speed up link prospecting. You can use it to find contact information, add prospects to campaigns, and even compose emails from templates as you browse the web.
+
+Here’s an example to understand how this can be useful in practice: Let’s say that you were browsing the web and came across a resource page or other relevant prospect. Hit the Buzzmarker, and you’ll see any contact details it found for the website. You can even add the prospect to an outreach campaign in one click:
+
+![Buzzstream's list of identified contacts taken from ProPublica page](https://ahrefs.com/blog/wp-content/uploads/2021/11/11-add-prospect.jpg)
+
+You also have the option to compose and send an email using templates from your Buzzstream account right in the browser window:
+
+![Email template from Buzzstream account](https://ahrefs.com/blog/wp-content/uploads/2021/11/12-email-template.jpg)
+
+### Pricing
+
+From $24/month.
+
+## 6\. HARO
+
+_**Connects journalists with sources**_
+
+Journalists often need insights, advice, or opinions from industry experts for their articles. [HARO](https://www.helpareporter.com/) (Help A Reporter Out) solves this problem by connecting journalists with industry experts via daily emails.
+
+Here’s how it works in a nutshell:
+
+1.  Journalists submit the source requests to HARO.
+2.  HARO sends three emails per day to its 800,000+ users with these source requests.
+3.  HARO users pitch the relevant requests to gain media coverage (and usually backlinks).
+
+For example, here’s a recent request from Realtor.com (DR 91) seeking “great IKEA hacks from interior designers” for a roundup:
+
+![Email of the request from Realtor.com](https://ahrefs.com/blog/wp-content/uploads/2021/11/13-email-request-from-realtor.png)
+
+If you submit a tip and it gets chosen for inclusion, you’ll usually get a mention and backlink from the website.
+
+PRO TIP
+
+It’s worth checking the external link policy on the website in question before submitting a tip, as not all sites link to sources. You can do this by checking a few of their recent posts for external links.
+
+### My favorite unique feature: Keyword alerts
+
+HARO divides its requests into a few categories so you can subscribe only to the ones that make sense for you. The only problem is that these categories are kind of broad:
+
+![Haro categories](https://ahrefs.com/blog/wp-content/uploads/2021/11/14-haro-categories.png)
+
+For example, requests in the “Business and Finance” category cover various topics from Bitcoin to credit cards to SEO.
+
+HARO solves this problem with its paid plans, all of which allow you to filter for opportunities by keyword:
+
+![Three different Haro paid plans](https://ahrefs.com/blog/wp-content/uploads/2021/11/15-haro-paid-plan-options.jpg)
+
+But the reality is that you can achieve something similar for free using Gmail filters.
+
+Here’s how to set that up:
+
+![Various filters on Gmail ](https://ahrefs.com/blog/wp-content/uploads/2021/11/16-gmail-filters.png)
+
+### Pricing
+
+Free with paid plans from $19 per month.
+
+## 7\. URL Profiler
+
+_**Bulk SEO metric and data puller**_
+
+[URL Profiler](https://urlprofiler.com/) is a powerful tool that allows you to pull a wide array of metrics and data associated with URLs. Just paste in your URLs, tick the boxes for the data you want to pull, and hit “go.”
+
+![URL Profiler menu options with box to paste URLs](https://ahrefs.com/blog/wp-content/uploads/2021/11/17-url-profiler-menu.jpg)
+
+### My favorite unique feature: Contact scraping
+
+Earlier, I explained that [Content Explorer](https://ahrefs.com/content-explorer) pulls authors’ names where it can, which is super helpful for link prospecting when combined with Hunter and NeverBounce. But if you’re pulling link prospects from elsewhere, you won’t have this information.
+
+This is where URL Profiler comes in handy. If you tick the “readability” checkbox, it attempts to pull author names from the list of URLs:
+
+![Options under "Content Analysis"](https://ahrefs.com/blog/wp-content/uploads/2021/11/18-content-analysis-readability.png)
+
+It’s far from perfect, but it’s brilliant for enriching link prospects pulled from [Site Explorer](https://ahrefs.com/site-explorer) or Google with author names.
+
+URL Profiler is also one of [our application partners](https://app.ahrefs.com/apps), so you can use the data allowances included in your subscription to pull Ahrefs’ metrics for thousands of URLs at once. This is useful for when you have found your initial list of link prospects with Google or another tool that lacks SEO metrics and data.
+
+### Pricing
+
+Free for 14 days, then from $19.95 per month.
+
+## 8\. SEO Toolbar
+
+_**Handy SEO assistant for your browser**_
+
+The [SEO Toolbar](https://ahrefs.com/seo-toolbar) is a browser extension for Chrome and Firefox. It’s technically part of Ahrefs, but I’m mentioning it separately here as it has some completely free features that are super useful for link prospecting.
+
+### My favorite unique feature: Internal and dead link highlighter
+
+Neither of these features is independently unique. Many SEO browser extensions do both things, but I’ve yet to come across another that highlights dead and internal links _at the same time_.
+
+This combination is particularly useful when prospecting for resource page opportunities because the ideal link opportunity has two attributes:
+
+1.  **It links to external URLs.** There’s no point pitching resource pages that only link to internal resources.
+2.  **It has broken links.** This gives you an extra value proposition in your outreach email.
+
+For example, let’s say that we have [this resource page](https://www.iadcontrol.com/marketing-resources.html) on our list of potential link prospects. Using Ahrefs’ [SEO Toolbar](https://ahrefs.com/seo-toolbar), we can highlight internal and dead links in just a few clicks:
+
+![Highlighted internal and dead links on resource page using Ahrefs' SEO Toolbar](https://ahrefs.com/blog/wp-content/uploads/2021/11/19-internal-and-dead-links.png)
+
+Now we can see that the page links to many external resources (as most links aren’t highlighted) and at least one dead link. This makes it quick and easy to spot good prospects and create relevant, personalized outreach emails like this one:
+
+![Email draft containing personalized message to good prospect ](https://ahrefs.com/blog/wp-content/uploads/2021/11/20-personal-outreach-email.jpg)
+
+### Pricing
+
+Free, although it shows additional data for Ahrefs customers.
+
+## Final thoughts
+
+Link-building tools make life easier. So although it’s possible to build links without them, I wouldn’t recommend it because speed and efficiency matter. The longer it takes you to build links, the longer it’ll take to rank.
+
+If you want to learn more about scaling your link-building efforts, these resources should help:
+
+*   [Copy My Link Building System: How to Get Backlinks “At Scale” \[Video\]](https://www.youtube.com/watch?v=Ovu2ZYWgOJQ)
+*   [Link Building Case Study: How We Built Backlinks With a ‘Stats’ Page (And Ranked #1)](https://ahrefs.com/blog/link-building-case-study/)
+*   [How to Start a Link Building Campaign Fast (and Systematize Everything)](https://ahrefs.com/blog/fast-link-building/)
+
+Give me a shout [on Twitter](https://twitter.com/joshuachardwick?lang=en) if you have any questions.

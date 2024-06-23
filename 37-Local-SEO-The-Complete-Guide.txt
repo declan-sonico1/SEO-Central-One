@@ -1,0 +1,374 @@
+URL: https://ahrefs.com/blog/local-seo/
+
+# Local SEO: The Complete Guide
+
+Local SEO is the way forward if you want to get more customers to your local business from organic search.
+
+But what is local SEO, how does it work, and which ranking factors matter?
+
+In this guide, you’ll learn how to rank your business on local search to get more customers through your door.
+
+*   [Local SEO basics](#local-seo-basics)
+*   [Local SEO keyword research](#local-seo-keyword-research)
+*   [Local SEO ranking factors](#local-seo-ranking-factors)
+*   [Local SEO tools](#local-seo-tools)
+
+## Chapter 1. Local SEO basics
+
+First, let’s explore what local SEO is, why it matters, and how it differs from “regular” SEO.
+
+### What is local SEO?
+
+Local SEO is the practice of improving your online presence to get more business from local searches. These searches take place on many search engines, but local SEO focuses on optimizing for Google users.
+
+### Why is local SEO important?
+
+Local SEO is important because many people use search engines to find local businesses.
+
+In fact, [according to Google](https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/mobile-search-trends-consumers-to-stores/):
+
+*   30% of all mobile searches are related to location.
+*   78% of people who search for something nearby on their phones visit the business within a day.
+*   28% of searches for something nearby result in a purchase.
+
+In short, customers are searching for your business. If you’re not there, you’re leaving money on the table.
+
+### How does local SEO work?
+
+Local SEO is a game of two halves because Google shows two types of search results for local searches. These are “map pack” results and organic “blue link” results. You can rank on both of them.
+
+![Infographic of types of results on Google SERP](https://ahrefs.com/blog/wp-content/uploads/2022/04/1-google-serp-sections.png)
+
+#### Map pack results
+
+The map pack (aka local pack) is a Google SERP feature that shows the top local business listings and a map. It often appears at the very top of Google’s search results for local searches.
+
+#### Organic search results
+
+The “regular” organic search results are the “10 blue links” that we’re all familiar with. They usually appear below the “map pack” results.
+
+## Chapter 2. Local SEO keyword research
+
+Local keyword research is the process of understanding how people search for the local services you offer.
+
+It’s important because you want to optimize for what people search for. 
+
+Let’s go through how to do this.
+
+### 1\. Find service-based keywords
+
+Most people don’t think about the different ways that others may search for what they do.
+
+For example, if you’re a plumber, some customers will find you by typing “plumber” into Google. But others will search for queries relating to specific services like “drain unblocking.”
+
+For that reason, you should begin by brainstorming and listing the services you offer. This will help you maximize your presence for queries your customers are searching for.
+
+Here’s what that can look like for a plumber:
+
+*   Drain unblocking
+*   Boiler repair
+*   Boiler installation
+*   Boiler servicing
+*   Radiator installation
+*   Burst pipe repair
+
+To expand this list, use the service keywords as “seeds” to find more services people are searching for.
+
+For example, if we plug the services above into Ahrefs’ [Keywords Explorer](https://ahrefs.com/keywords-explorer) and check the **Matching terms** report, we see keywords like:
+
+*   gas boiler installation
+*   combi boiler installation
+*   electric boiler installation
+
+![Matching terms report results ](https://ahrefs.com/blog/wp-content/uploads/2022/04/2-matching-terms-report.png)
+
+If you offer those services, you may also want to consider targeting these keywords.
+
+Here’s another way to find “missed” keywords:
+
+Plug a competing business into Ahrefs’ [Site Explorer](https://ahrefs.com/site-explorer), go to the **Top pages** report, and look for URLs that map to services.
+
+![Top pages report results ](https://ahrefs.com/blog/wp-content/uploads/2022/04/3-local-keywords-top-pages-ahrefs.png)
+
+### 2\. Check search volumes
+
+​​Keyword research tools show you national search volumes. If you want search volumes for your state, city, or town, you’ll have to use [Google Keyword Planner](https://ahrefs.com/blog/google-keyword-planner/).
+
+![GKP results with location turned on](https://ahrefs.com/blog/wp-content/uploads/2022/04/4-google-keyword-planner-local-search-volumes.png)
+
+Unfortunately, Keyword Planner has its issues:
+
+1.  It shows broad search volume ranges (e.g., 1K-10K), not absolute numbers.
+2.  It groups keywords and shows a combined rounded search volume.
+
+For that reason, checking the relative popularity of keywords at the national level tends to be more productive. This is because what happens in one city is likely to be similar in the next.
+
+You can do this with a keyword research tool like Ahrefs’ [Keywords Explorer](https://ahrefs.com/keywords-explorer).
+
+For example, the tool tells us that more people search for “boiler repair” than “boiler installation” in the U.K.:
+
+![Keyword Explorer search results ](https://ahrefs.com/blog/wp-content/uploads/2022/04/5-relative-national-search-volumes.png)
+
+This is probably the case whichever city we’re in, so it’s an excellent way to prioritize keywords.
+
+### 3\. Check for local intent
+
+Local intent means that searchers want to shop nearby. If that isn’t the case for your services, it’s not a local SEO opportunity.
+
+To check a query for local intent, Google it and check the results.
+
+If there’s a map pack and/or some local “blue link” results, it has local intent.
+
+![Google SERP for "boiler installation"; map pack and "blue link" result can be seen ](https://ahrefs.com/blog/wp-content/uploads/2022/04/6-local-intent-serp.png)
+
+If there are no map pack and local “blue link” results, it doesn’t have local intent.
+
+![No map pack and no local "blue link" results](https://ahrefs.com/blog/wp-content/uploads/2022/04/7-not-local-intent-serp.png)
+
+You can still target keywords without local intent, but it’s not a job for local SEO.
+
+### 4\. Assign keywords to pages
+
+Your homepage is unlikely to rank for all your service keywords. So you’ll need to target some with separate pages.
+
+To assign keywords to URLs, think about which services they map to.
+
+If they map to very different services, such as “boiler installation” and “burst pipe repair,” assign them to separate pages.
+
+If they map to the same service, such as “drain unblocking” and “drain unclogging,” assign them to the same page.
+
+You can learn more about this process in our local keyword research guide below.
+
+**Learn more:** _[How to Do Local Keyword Research](https://ahrefs.com/blog/local-keyword-research/)_
+
+## Chapter 3. Local SEO ranking factors
+
+You may recall that local SEO is a game of two halves because there are two ways to rank. The first is the map pack, and the second is the “regular” organic results.
+
+Ranking factors vary depending on where you want to rank—but some are important for both.
+
+![Venn diagram showing some ranking factors "overlap," i.e., some factors are important to both "map pack" and "regular" results ](https://ahrefs.com/blog/wp-content/uploads/2022/04/8-ranking-factors.png)
+
+Below, we’ll look at what SEOs believe are the most important factors for each.
+
+### Google Business Profile (formerly Google My Business)
+
+A Google Business Profile is a local listing with information about your business. It’s free and allows your business to appear in the map pack and Google Maps.
+
+#### What SEOs say
+
+In all, 36% of SEOs think your Google Business Profile is the most important ranking factor for the map pack. And 6% believe that it’s important for the “regular” organic results. That’s according to [BrightLocal’s survey](https://www.brightlocal.com/learn/key-ranking-factors-for-local-seo/).
+
+![Bar graph showing percentage of SEOs who think GBP is most important ranking factor for "map pack" and "regular" results, respectively ](https://ahrefs.com/blog/wp-content/uploads/2022/04/9-google-business-profile-importance.png)
+
+This isn’t surprising, as you _need_ a Google Business Profile to stand any chance of ranking on the map pack.
+
+Business Profile signals are increasing in their perceived importance for the map pack over time too.
+
+![Table showing perceived importance of GBP signals over time for map pack and "regular" results, respectively](https://ahrefs.com/blog/wp-content/uploads/2022/04/10-gbr-perceived-importance-over-time.png)
+
+Beyond rankings, Google [states](https://support.google.com/business/answer/10515606?hl=en) that customers are 70% more likely to visit businesses with a complete Business Profile. They’re also 50% more likely to consider buying from them. So it’s clear that a complete and optimized Business Profile is essential if you want to attract more business.
+
+#### Best practices
+
+Many of these best practices come [from Google itself](https://support.google.com/business/answer/10515606?hl=en#zippy=%2Cadd-services-offered%2Cadd-in-store-products%2Cupload-photos-videos-regularly%2Cselect-attributes-to-describe-your-business):
+
+*   Be specific when setting your business category
+*   Set your business hours (including holiday hours)
+*   Add your address (if you have a storefront)
+*   Set your service area (if you visit or deliver to customers and clients)
+*   Add the products or services you offer
+*   Add photos
+*   Ask customers for reviews
+
+**Learn more:** _[How to Optimize Your Google My Business Listing in 30 Minutes](https://ahrefs.com/blog/google-my-business/)_
+
+### NAP citations
+
+A NAP citation mentions your business’s name, address, and phone number online. They usually appear on business directories and social media profiles.
+
+Sidenote.
+
+There are also NAPW citations that mention your website. 
+
+#### What SEOs say
+
+BrightLocal’s 2021 study shows that 7% of SEOs think citations are the most important ranking factor. That’s true for both the “map pack” and “regular” results.
+
+![Bar graph showing percentage of SEOs who think citations are most important ranking factor for "map pack" and "regular" results, respectively ](https://ahrefs.com/blog/wp-content/uploads/2022/04/11-citations-importance.png)
+
+In other words, they’re somewhat important—but not as important as they used to be.
+
+The perceived importance of citations among SEOs has been declining since 2014.
+
+![Table showing perceived importance of citation signals over time for map pack and "regular" results, respectively](https://ahrefs.com/blog/wp-content/uploads/2022/04/12-citations-perceived-importance-over-time.png)
+
+That said, citations can still help searchers discover your business online. This is because directories often rank on the search results for local queries. So if you’re in those directories, the people who click on them in the search results may find your business. 
+
+#### Best practices
+
+*   Get listed with big data aggregators (in the U.S., these are [Data Axle](https://local-listings.data-axle.com/search), [Localeze](https://www.neustarlocaleze.biz/directory/us/), and [Foursquare](http://business.foursquare.com/))
+*   Submit to other big players (in the U.S., these include Apple Maps, Yelp, Yellow Pages, Bing Places, and Facebook)
+*   Submit to other popular directories in your local area and industry
+*   Keep your citations consistent (same name, address, phone number) everywhere
+
+**Learn more:** _[How to Build Local Citations (Complete Guide)](https://ahrefs.com/blog/local-citations/)_
+
+TIP
+
+Here’s a quick way to find industry and local directories:
+
+1.  Paste your homepage into [Site Explorer](https://ahrefs.com/site-explorer)
+2.  Go to **Link Intersect**
+3.  Enter the homepages of a few competing businesses in your area
+4.  Set the search mode to “URL” for all targets
+5.  Click “Show link opportunities”
+
+This will show you sites linking to one or more of your competitors, but not you.
+
+![Link Intersect report results ](https://ahrefs.com/blog/wp-content/uploads/2022/04/13-link-intersect.png)
+
+If a website links to many competitors, it’s probably a directory where you can also add a listing.
+
+### Reviews 
+
+Reviews refer to the quantity and quality of reviews on your Google Business Profile and elsewhere online.
+
+#### What SEOs say
+
+BrightLocal’s 2021 study shows that 17% of SEOs deem reviews the most important ranking factor for map pack rankings. But only 5% see them as most important for regular organic rankings.
+
+![Bar graph showing percentage of SEOs who think reviews are most important ranking factor for "map pack" and "regular" results, respectively ](https://ahrefs.com/blog/wp-content/uploads/2022/04/14-reviews-importance.png)
+
+Reviews have also grown in their perceived importance for map pack rankings over the past few years.
+
+![Table showing perceived importance of reviews over time for map pack and "regular" results, respectively ](https://ahrefs.com/blog/wp-content/uploads/2022/04/15-reviews-perceived-importance-over-time.png)
+
+But reviews aren’t only about rankings. Getting reviews on your Google Business Profile and elsewhere builds trust with Google and customers.
+
+#### Best practices
+
+Many of these best practices for getting more reviews [come from Google itself](https://support.google.com/business/answer/3474122?hl=en-GB):
+
+*   Remind customers to leave reviews (you can create and share a review link in Google Business Manager)
+*   Focus on getting reviews on your Google Business Profile
+*   Respond to reviews to build trust (you’ll need a verified Google Business Profile to do this)
+*   Don’t offer or accept money in exchange for reviews (it’s against [Google’s terms](https://support.google.com/contributionpolicy/answer/7411351?hl=en&ref_topic=7422769))
+*   Don’t discourage bad reviews or request good reviews from customers (it’s against Google’s terms)
+
+### Links
+
+Links act like votes for your site from other websites.
+
+#### What SEOs say
+
+BrightLocal’s study shows that 31% of SEOs deem links the most important signal for ranking on regular organic search. And 13% think the same for map pack rankings.
+
+![Bar graph showing percentage of SEOs who think links are most important ranking factor for "map pack" and "regular" results, respectively ](https://ahrefs.com/blog/wp-content/uploads/2022/04/16-links-importance.png)
+
+For many, this won’t come as much of a surprise. In 2016, Google [said](https://searchengineland.com/now-know-googles-top-three-search-ranking-factors-245882) that backlinks are one of their top three ranking factors. Plus, many studies have found [a strong correlation between links and organic traffic](https://ahrefs.com/blog/search-traffic-study/).
+
+![Line graph showing the more referring domains, the higher the search traffic ](https://ahrefs.com/blog/wp-content/uploads/2022/04/17-referring-domains-vs-search-traffic.png)
+
+Links are increasing in their perceived importance for “regular” local rankings over time too. But their perceived importance for “map pack” rankings has stayed roughly the same.
+
+![Table showing perceived importance of links over time for map pack and "regular" results, respectively](https://ahrefs.com/blog/wp-content/uploads/2022/04/18-links-perceived-importance-over-time.png)
+
+#### Best practices
+
+*   Get links from other top-ranking sites
+*   Get links your competitors have (use Ahrefs’ [Link Intersect tool](https://ahrefs.com/link-intersect) for this)
+*   Get local citations (these often have links)
+*   Claim [unlinked mentions](https://ahrefs.com/blog/unlinked-mentions/)
+*   Reclaim lost links by redirecting old versions of your pages to new versions
+
+**Learn more:** _[9 Easy Local Link Building Tactics](https://ahrefs.com/blog/local-link-building/)_
+
+### On-page
+
+On-page SEO is where you make changes to the content of a page to help it rank higher on organic search results.
+
+#### What SEOs say
+
+BrightLocal’s study shows that 34% of SEOs think on-page signals are the most important factor for regular organic search. And 16% believe they’re the most important factor for map pack rankings.
+
+![Bar graph showing percentage of SEOs who think on-page SEO is most important ranking factor for "map pack" and "regular" results, respectively ](https://ahrefs.com/blog/wp-content/uploads/2022/04/19-onpage-seo-importance.png)
+
+On-page signals are also growing in their perceived importance for local SEO. You can see this from the results of BrightLocal’s previous surveys.
+
+![Table showing perceived importance of on-page SEO over time for map pack and "regular" results, respectively](https://ahrefs.com/blog/wp-content/uploads/2022/04/20-onpage-seo-perceived-importance-over-time.png)
+
+#### Best practices
+
+*   Tailor your pages for search intent
+*   Include your NAP information on your website
+*   Write compelling [meta titles](https://ahrefs.com/blog/title-tag-seo/) and [descriptions](https://ahrefs.com/blog/meta-description/)
+*   Use descriptive, [SEO-friendly URLs](https://ahrefs.com/blog/seo-friendly-urls/)
+*   [Optimize your images](https://ahrefs.com/blog/image-seo/)
+*   [Internally link](https://ahrefs.com/blog/internal-links-for-seo/) to and from pages where relevant 
+*   Include details that matter to searchers
+
+TIP
+
+One way to find details that matter to searchers is to check what top-ranking pages in your area talk about. You can do this by looking at the pages. Or you can use [Keywords Explorer](https://ahrefs.com/keywords-explorer) to find keywords mentioned on the top-ranking pages.
+
+Here’s how to do that:
+
+1.  Enter \[service keyword\] \[location\] (e.g., “boiler repair london”)
+2.  Go to the **Related terms** report
+3.  Hit the toggles for “Also talk about” and “Top 10”
+
+![Related terms report results ](https://ahrefs.com/blog/wp-content/uploads/2022/04/21-related-terms-report.jpg)
+
+Here are some of the frequently mentioned keywords on the top-ranking pages for “boiler repair london” and what they likely infer:
+
+*   **“gas safe”** – Searchers probably want an engineer who’s on the Gas Safe Register, the official gas safety body in the U.K.
+*   **“greater london”** – Searchers probably want to know whether the business supplies this service in their area.
+*   **“gas boiler”** – Searchers probably want to know whether the business can repair their type of boiler.
+*   **“emergency call”** – Searchers probably want to know whether the business does emergency callouts.
+
+It would be worth mentioning these things on your page.
+
+**Recommended reading:** _[On-Page SEO: Complete Beginner’s Guide](https://ahrefs.com/blog/on-page-seo/)_
+
+## Chapter 4. Local SEO tools
+
+Let’s bring things to a close with a few local SEO tools you may find useful.
+
+### Google Business Manager
+
+[Google Business Manager](https://www.google.com/intl/en_uk/business/), formerly Google My Business, is how you manage your Google Business Profile. Signing up for it is completely free and is something every local business owner should use.
+
+### Google Search Console
+
+[Google Search Console](https://search.google.com/search-console/welcome) is a free tool for monitoring your website’s search performance. It tells you how much search traffic you’re getting, where it’s going, and what keywords it’s coming from.
+
+### Ahrefs’ Rank Tracker
+
+[Rank Tracker](https://ahrefs.com/rank-tracker) lets you track up to 10,000 keyword rankings for “regular” organic search by country, state, city, and even ZIP/postal code.
+
+### Ahrefs Link Intersect
+
+Our [Link Intersect tool](https://ahrefs.com/link-intersect) lets you find websites that link to multiple competitors. This is useful for finding relevant local and industry-specific citations.
+
+### Grid My Business
+
+[Grid My Business](https://gridmybusiness.com/) shows map pack ranking positions for a keyword in the area around your business. It’s freemium and is useful for understanding if and where local searchers are likely to see your business.
+
+### Yext
+
+[Yext](https://www.yext.com/solutions/marketing/location-listings) is a tool for syncing and managing business information across multiple listings. It’s useful for keeping citations consistent, although you can do this manually.
+
+### Google Keyword Planner
+
+[Google Keyword Planner](https://ads.google.com/intl/en_uk/home/tools/keyword-planner/) is a [free keyword research tool](https://ahrefs.com/blog/free-keyword-research-tools/) from Google. It’s a useful source of search volume ranges at the local level.
+
+## Keep learning
+
+Hopefully, you now have a pretty good understanding of how local SEO works. If you want to dig deeper and continue learning, check out these resources:
+
+*   [How to Do Local Keyword Research](https://ahrefs.com/blog/local-keyword-research/)
+*   [Local SEO Solutions: 8 Tips to Boost Local Rankings](https://ahrefs.com/blog/local-seo-solutions/)
+*   [How to Build Local Citations](https://ahrefs.com/blog/local-citations/)
+*   [9 Easy Local Link Building Tactics](https://ahrefs.com/blog/link-building-strategies/)
+*   [How to Optimize Your Google My Business Listing in 30 Minutes](https://ahrefs.com/blog/google-my-business/)

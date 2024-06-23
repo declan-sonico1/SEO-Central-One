@@ -1,0 +1,183 @@
+URL: https://ahrefs.com/blog/what-is-seo/
+
+# What is SEO? Search Engine Optimization Explained
+
+SEO stands for search engine optimization. It’s the process of improving a website’s visibility in search engines to get more traffic.
+
+For example, if you sell coffee, SEO can help your website show up in Google when people search for “buy coffee.”
+
+## Why is SEO important?
+
+Most clicks in Google go to the top few organic results. Unless you rank there, you’re hardly going to get any traffic.
+
+SEO is how you get there.
+
+For example, our blog ranks high for thousands of keywords and gets an estimated 654K monthly visits from organic search. Without SEO, we’d have to spend somewhere in the region of $728K _per month_ on ads for that same traffic.
+
+![Organic traffic to Ahrefs' blog](https://ahrefs.com/blog/wp-content/uploads/2023/12/word-image-170138-1.png)
+
+## How search engines work
+
+Understanding this is key to understanding how SEO works, so here’s a brief crash course.
+
+Search engines have an index that stores copies of web pages. When you search, they look through all the pages in the index for relevant results. They then rank them using a computer program called an algorithm to put the best results at the top and display a search engine result page (SERP) to the user.
+
+![How Search Engines Work](https://ahrefs.com/blog/wp-content/uploads/2023/12/how-search-works.png)
+
+## How SEO works
+
+Given how search engines work, a web page will only rank high if it’s [indexed](https://ahrefs.com/seo/glossary/indexability) and the search engine thinks it’s the best result for the search. It also needs to load fast and offer a good [user experience](https://developers.google.com/search/docs/appearance/page-experience).
+
+With that in mind, here’s the SEO process in a nutshell:
+
+1.  Find what people search for.
+2.  Create relevant, optimized content.
+3.  Get backlinks.
+
+### 1\. Find what people search for
+
+Ranking for terms nobody searches for is pointless. You won’t get traffic even if you rank #1.
+
+To find what people are searching for, you’ll need a keyword research tool like Ahrefs’ [Keywords Explorer](https://ahrefs.com/keywords-explorer). Here’s the process:
+
+1.  Enter a few broad “seed” terms
+2.  Go to the **Matching Terms** report
+
+For example, if you enter “coffee” you’ll see 3,740,238 keywords containing that term sorted by their monthly search volumes.
+
+![Matching terms report in Ahrefs' Keywords Explorer
+](https://ahrefs.com/blog/wp-content/uploads/2023/12/word-image-170138-3.png)
+
+It’s then simply a case of plucking out the keywords with the most value for you.
+
+For example, if you run a blog about coffee, you could get ideas for educational content by switching to the **Questions** tab to see only keywords posed as questions. Additionally, you could start with the low-hanging fruit by setting a low Keyword Difficulty (KD) score.
+
+![Questions tab in Ahrefs' Keywords Explorer](https://ahrefs.com/blog/wp-content/uploads/2023/12/word-image-170138-4.png)
+
+### 2\. Create relevant, optimized content
+
+Relevant content is whatever best matches what the searcher is looking for; the [search intent](https://ahrefs.com/blog/search-intent/).
+
+Understanding what this is and how to create it can get complicated, but half the battle is creating the right _type_ of content.
+
+Here are a few popular content types:
+
+*   Blog post
+*   Interactive tool
+*   Video
+*   Category page
+*   Product page
+
+There’s no exact science to figuring out which one searchers are looking for, but the top-ranking results are usually a good proxy.
+
+For example, interactive tools dominate the first page for “days between dates” whereas videos dominate for “excel for beginners.” This is a clear indication of what searchers want and the best type of content to create for each keyword.
+
+![Search intent varies depending on the search query](https://ahrefs.com/blog/wp-content/uploads/2023/12/search-intent.png)
+
+Relevant content is the foundation, but you also need to optimize your content by following [SEO best practices](https://ahrefs.com/blog/seo-best-practices/). And this starts with making sure you cover the topic in full to give searchers what they expect.
+
+You can do that manually by looking at commonalities between the top-ranking pages, such as headings, FAQs, visual aid, how deep they go into the subject, etc.
+
+You can also use SEO tools like Ahrefs to find the keywords that top-ranking pages rank for. Some of the keywords point to good subtopics or points to include in your content. Here’s the process:
+
+1.  Put your target keyword into Ahrefs’ [Keywords Explorer](https://ahrefs.com/keywords-explorer).
+2.  Scroll to the **SERP overview** and select a few top-ranking pages.
+3.  Click **Open in** and select **Content gap.**
+
+![SERP overview in Ahrefs' Keywords Explorer](https://ahrefs.com/blog/wp-content/uploads/2023/12/word-image-170138-6.png)
+
+Here’s an example for the query “content marketing.” It’s a hint that searchers may be looking for a definition and actionable advice for creating a strategy or a plan.
+
+![Example keywords based on a content gap analysis](https://ahrefs.com/blog/wp-content/uploads/2023/12/word-image-170138-7.png)
+
+Other best practices include:
+
+*   Structuring the text in a clear, logical way and using easy-to-digest language.
+*   Offering something unique, such as original research and expert quotes.
+*   Sprinkling in some “optimizations”: internal links, user-friendly URLs, alt text for images, etc. You’ll find the full list with actionable advice in our [guide to on-page SEO for beginners](https://ahrefs.com/blog/on-page-seo/).
+
+### 3\. Get backlinks
+
+Backlinks are links from one website to another. They act as votes, and pages with more of those “votes” tend to rank higher.
+
+![Pages with more backlinks tend to rank higher](https://ahrefs.com/blog/wp-content/uploads/2023/12/word-image-170138-8.png)
+
+How do we know? We [studied](https://ahrefs.com/blog/search-traffic-study/) almost one billion web pages and found a clear correlation between referring domains (links from unique websites) and [organic search traffic](https://ahrefs.com/blog/organic-search/).
+
+![Referring domains and organic search traffic correlation](https://ahrefs.com/blog/wp-content/uploads/2023/12/word-image-170138-9.png)
+
+Generally speaking, there are three ways to get backlinks:
+
+*   **Earn** backlinks by creating compelling content with [assets designed to attract backlinks](https://ahrefs.com/blog/link-bait/), such as original studies, free resources, infographics, or a unique view on a topic.
+*   **Create** backlinks by manually adding them to popular directories and resource pages.
+*   **Build** backlinks by [reaching out](https://ahrefs.com/blog/blogger-outreach/) to people who can include links to your pages on their website.
+
+Building backlinks is something that preoccupies the SEO industry. In fact, many SEOs and agencies specialize in that alone. To give you an idea of how this works, here’s a quick overview of a few popular backlink building techniques.
+
+*   [**Broken link building**](https://ahrefs.com/blog/haro-link-building/): Find a “dead page” and ask linkers to swap the links to a working page on your site.
+*   [**Guest blogging**](https://ahrefs.com/blog/guest-blogging/): Write a blog post for another website and earn a link back to your site in return.
+*   [**The Skyscraper Technique**](https://ahrefs.com/blog/skyscraper-technique/): Find content with lots of backlinks, create something better, then ask everyone linking to the content you improved to link to you instead.
+*   [**Resource page link building**](https://ahrefs.com/blog/resource-page-link-building/): Get backlinks from webpages that curate and link out to useful industry resources.
+*   [**HARO (and similar services)**](https://ahrefs.com/blog/haro-link-building/): Use services like HARO to find relevant journalist requests for quotes. You can usually earn a link to your site if your quote gets published.
+
+What you want, though, is not just any kind of backlinks. The consensus in the SEO community is that there are five factors that make up a backlink’s quality:
+
+![What makes a good backlink](https://ahrefs.com/blog/wp-content/uploads/2023/12/word-image-170138-11.png)
+
+We cover all of them in detail in our [link building guide for beginners](https://ahrefs.com/blog/link-building/). But here’s the takeaway to remember: the best links come from relevant, authoritative websites and are placed within the main content.
+
+Since these kinds of links are so valuable, they became sort of the currency of the web. That’s why it’s so challenging to get good quality links.
+
+## FAQ
+
+### What is the difference between SEO, SEM, and PPC?
+
+SEM (Search Engine Marketing) has the broadest scope of those three, encompassing generating traffic from organic search (SEO) and paying for traffic with PPC search ads. Learn more about the difference in [our guide to SEO vs. SEM](https://ahrefs.com/blog/seo-vs-sem/).
+
+### What are the types of SEO?
+
+There are 3 main types of SEO:
+
+*   [On-page SEO](https://ahrefs.com/blog/on-page-seo/) concentrates on ranking factors occurring on a page, such as aligning with search intent or improving content quality.
+*   [Off-page SEO](https://ahrefs.com/seo/glossary/off-page-seo) concentrates on ranking factors occurring outside of a page, such as building backlinks, or optimizing a Google Business Profile.
+*   [Technical SEO](https://ahrefs.com/blog/technical-seo/) is the process of optimizing a website to help search engines find, crawl, understand, and index your pages.
+
+There are also a few subtypes of SEO focusing on specific business conditions such as [local SEO](https://ahrefs.com/blog/local-seo/), [ecommerce SEO](https://ahrefs.com/blog/ecommerce-seo/), and [enterprise SEO](https://ahrefs.com/blog/enterprise-seo/).
+
+### What are the SEO ranking factors?
+
+There are many. Here are [7 ranking factors that have been confirmed](https://ahrefs.com/blog/google-ranking-factors/):
+
+1.  Backlinks
+2.  Relevance (search intent)
+3.  Freshness
+4.  HTTPS
+5.  Mobile-friendliness
+6.  Page speed
+7.  Intrusive interstitials
+
+### How can I learn SEO?
+
+There are many good resources you can find online, and a good portion of them are free. You can start with our guide on [SEO for beginners](https://ahrefs.com/seo) or take [free courses in Ahrefs’ Academy](https://ahrefs.com/academy).
+
+### Can I do SEO on my own?
+
+The short answer is yes if you run a small to medium-sized website. All you need is some time to learn and practice SEO, plus good SEO tools that offer vast and accurate [data](https://ahrefs.com/big-data).
+
+For bigger sites, more than one SEO specialist may be needed. You may need to hire someone or outsource to freelancers or an agency.
+
+### How much time does SEO take?
+
+SEO is usually a lengthy process. We [learned from over 4k respondents](https://ahrefs.com/blog/how-long-does-seo-take/) that it typically takes between 3-6 months to see results.
+
+### How much does SEO cost?
+
+If you’re looking to hire someone for SEO instead of doing it yourself, your options are:
+
+*   Hiring an agency. Probably the most expensive option, costing $134.66/hour (+ retainer) on average.
+*   Hiring freelancers/consultants. On average, SEO consultants cost $122.33/hour (+ retainer), and freelancers cost $68/hour (+ retainer).
+*   Building an in-house team. On average, an in-house SEO specialist costs $71K/year (in the U.S.). Naturally, the salary will largely depend on the experience of the employee.
+
+The cost estimates are based on our [study](https://ahrefs.com/blog/seo-pricing/).
+
+Got questions or comments? Ping me on [X](https://twitter.com/home).

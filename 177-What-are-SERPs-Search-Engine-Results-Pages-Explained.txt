@@ -1,0 +1,295 @@
+URL: https://ahrefs.com/blog/serps/
+
+# What are SERPs? Search Engine Results Pages Explained
+
+Contents
+
+*   [Why SERPs matter for SEO](#why-serps-matter-for-seo "Why SERPs matter for SEO")
+*   [How to get in the SERPs](#how-to-get-in-the-serps "How to get in the SERPs")
+*   [What SERP features are there?](#serp-features "What SERP features are there?")
+
+Search Engine Results Pages (SERPs) are the pages that Google and [other search engines](https://ahrefs.com/blog/alternative-search-engines/) show in response to a user’s search query.
+
+They’re made up of organic and paid search results.
+
+![organic vs paid results 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/organic-vs-paid-results-1.png)
+
+In this guide, you’ll learn:
+
+*   [Why SERPs matter for SEO](#why-serps-matter-for-seo)
+*   [How to get in the SERPs](#how-to-get-in-the-serps)
+*   [What SERP features there are (and how you can appear in them)](#serp-features)
+
+## Why SERPs matter for SEO
+
+Most people click organic results on the first page of the SERPs and [rarely visit page two](https://backlinko.com/google-ctr-stats).
+
+![pasted image 0 8](https://ahrefs.com/blog/wp-content/uploads/2020/04/pasted-image-0-8.png)
+
+This is why everyone wants to [rank on the first page of Google](https://ahrefs.com/blog/how-to-get-on-the-first-page-of-google/). If you’re on page two or beyond, you’re practically invisible.
+
+But ranking on the first page doesn’t always equate to lots of traffic for a few reasons.
+
+First, most of the organic clicks go to the first few positions.
+
+![pasted image 0 7](https://ahrefs.com/blog/wp-content/uploads/2020/04/pasted-image-0-7.png)
+
+Second, paid results often push the organic rankings down in the SERP.
+
+For example, Google shows four paid ads above the organic results for “buy eyeglasses online.” Because of this, 39% of all clicks go to paid results.
+
+![1 paid ads serp 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/1-paid-ads-serp-1.jpg)
+
+![2 paid clicks ahrefs 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/2-paid-clicks-ahrefs-1.png)
+
+Third, Google sometimes shows SERP features that answer the query in the search results.
+
+Just take a look at the results for “most searched thing on Google”:
+
+![3 most searched thing on google snippet 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/3-most-searched-thing-on-google-snippet-1.png)
+
+Because Google answers the question in the SERP, there’s no need for searchers to click on a result.
+
+## How to get in the SERPs
+
+SERPs may look different for each query, but they’re all made up of the same three building blocks. These are:
+
+*   Paid ads
+*   Organic results
+*   SERP features
+
+Below, we’ll walk through each of these in detail, and explain how you can show up there.
+
+### Paid ads
+
+Paid search results appear before, and sometimes also after the organic results.
+
+Both types of results are virtually indistinguishable, the only real difference being that paid ads are marked as such.
+
+![4 ads serp 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/4-ads-serp-1.png)
+
+Paid ads work on a [Pay-Per-Click (PPC)](https://ahrefs.com/blog/ppc-marketing/) basis, meaning that advertisers bid on keywords and pay Google for each click. The highest bidders generally receive prime placement, although Google also takes other factors like the relevance of the ad and CTR into account.
+
+Bottomline: If you want to appear in paid ads, you’ll have to dig into your piggy bank.
+
+### Organic results
+
+[Organic search results](https://ahrefs.com/blog/organic-search/) are pages from Google’s index.
+
+Because there are often thousands of matching results, Google sorts them using hundreds of [ranking factors](https://ahrefs.com/blog/google-ranking-factors/). As a result, the most relevant and high-quality pages generally end up on the first page of the SERPs.
+
+Nobody knows all of Google’s ranking factors, but we do know some of them.
+
+For example, we know that [the number of backlinks to a page is important](https://ahrefs.com/blog/search-traffic-study/).
+
+![03 referring domains vs search traffic 1 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/03-referring-domains-vs-search-traffic-1-1.png)
+
+In terms of how Google displays organic results, they usually show the title, URL, and a descriptive snippet.
+
+![5 lsi keywords 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/5-lsi-keywords-1.png)
+
+You can tell Google what to display in the SERP by setting the page’s [title tag](https://ahrefs.com/blog/title-tag-seo/), URL slug, and meta description.
+
+However, while Google almost always shows the hardcoded title tag in the SERP, it [often chooses something other than the meta description for the snippet](https://ahrefs.com/blog/meta-description-study/).
+
+![rewritten meta description in serp 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/rewritten-meta-description-in-serp-1.png)
+
+For pages with [structured data](https://ahrefs.com/blog/structured-data/), Google sometimes shows [rich snippets](https://ahrefs.com/blog/rich-snippets/) alongside the regular organic results too.
+
+![6 rich snippets 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/6-rich-snippets-1.png)
+
+Bottomline: if you want to appear in the organic search results, you need to focus on creating the best and most relevant result for the query. You also need to [make sure Google can index your pages](https://ahrefs.com/blog/google-index/), and that they’re [optimized](https://ahrefs.com/blog/on-page-seo/) for search.
+
+### SERP features
+
+SERP features are non-traditional results. They can be paid, organic, or pulled directly from [Google’s Knowledge Graph](https://ahrefs.com/blog/google-knowledge-graph/).
+
+![7 types of serp features 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/7-types-of-serp-features-1.jpg)
+
+While the purpose of SERP features is sometimes to directly generate revenue for Google (i.e., Shopping ads), the aim is most often to provide information in the search results without the need to click a result.
+
+For this reason, SERP features have a significant effect on SEO.
+
+Recent estimates suggest that [over 50% of searches](https://sparktoro.com/blog/less-than-half-of-google-searches-now-result-in-a-click/) now result in no clicks:
+
+![Paid Organic Zero Click June 2019 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/Paid-Organic-Zero-Click-June-2019-1.png)
+
+Sidenote.
+
+ Google hasn’t always shown SERP features in the results. They started to appear more frequently over the past few years as Google built their [Knowledge Graph](https://ahrefs.com/blog/google-knowledge-graph/), and their understanding of search intent improved.
+
+However, being featured in SERP features can also increase clicks to your website.
+
+Bottomline: It’s possible to show up in some SERP features, but the way you do that depends on the type of feature.
+
+## What SERP features are there?
+
+Google shows dozens of SERP features in the results, and they’re always testing new ones.
+
+Below, we’ll cover some of the most common, their sources of data, and whether it’s possible to appear in them to win more traffic to your site.
+
+*   [Featured snippets](#featured-snippets)
+*   [Knowledge card](#knowledge-card)
+*   [Knowledge Panel](#knowledge-panel)
+*   [Image Pack](#image-pack)
+*   [Top stories](#top-stories)
+*   [People Also Ask (PAA)](#people-also-ask)
+*   [Shopping results](#shopping-results)
+*   [Tweets boxes](#tweets-boxes)
+*   [Sitelinks](#sitelinks)
+*   [Videos](#videos)
+
+### Featured snippets
+
+Featured snippets show a snippet of content from one of the top-ranking web pages. They’re usually displayed at the top of the SERP, although other results sometimes appear above them.
+
+![8 featured snippet 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/8-featured-snippet-1.jpg)
+
+Common snippet formats include:
+
+*   Paragraph
+*   List
+*   Table
+
+Not all featured snippets are text. Google sometimes shows videos (often referred to as suggested clips):
+
+![9 featured vide snippet 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/9-featured-vide-snippet-1.jpg)
+
+#### Can you appear in Featured Snippets?
+
+Yes. [Most of the time](https://ahrefs.com/blog/featured-snippets-study/), Google pulls the snippet from one of the top five results.
+
+If you’re already ranking in the top five for a query, and Google shows a featured snippet, it may be worth [optimizing your page to try to appear there](https://ahrefs.com/blog/featured-snippets/).
+
+### Knowledge card
+
+Knowledge Cards appear at the top of the SERP and offer a short, definitive answer to the query. They come in various formats.
+
+![10 knowledge card 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/10-knowledge-card-1.png)
+
+![11 knowledge card currency 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/11-knowledge-card-currency-1.png)
+
+There are three main sources of data for Knowledge Cards: Google’s Knowledge Graph, data partners, and other highly-trusted sources like Wikipedia and official government bodies.
+
+#### Can you appear in Knowledge Cards?
+
+Unlikely. Since data is pulled exclusively from Google-owned and trusted third-party sources, appearing in a Knowledge Card isn’t possible for most websites.
+
+### Knowledge Panel
+
+Knowledge Panels provide information about the main subject of the query. They usually appear near the top of the SERP on mobile, and on the right-hand side on desktop.
+
+![12 apple knowledge panel 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/12-apple-knowledge-panel-1.jpg)
+
+Like Knowledge Cards, most of the data in Knowledge Panels comes from the Knowledge Graph, and trusted sources like Wikipedia and Wikidata.
+
+However, Google sometimes also links to social profiles and partners.
+
+![13 joji knowledge panel 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/13-joji-knowledge-panel-1.jpg)
+
+#### Can you appear in the Knowledge Panel?
+
+Yes. Google shows branded Knowledge Panels for companies in the Knowledge Graph. These usually include a direct link to the company’s website and links to social profiles.
+
+Your company logo can also show up in competitors’ Knowledge Panels, although it doesn’t link to your website. It performs a Google search for the company name when clicked.
+
+![14 microsoft knowledge panel 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/14-microsoft-knowledge-panel-1.jpg)
+
+### Image Pack
+
+Image Packs show a handful of thumbnails, and clicking on them takes you to Google Images. They often appear at the top of the SERP but can appear further down the page.
+
+![15 image pack 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/15-image-pack-1.jpg)
+
+#### Can you appear in Image Packs?
+
+Kind of. Images from your website can show up here, but the link will always take the searcher to Google Images—not your website. However, once they click through to Google Images, they’ll see a link to the image source.
+
+![16 image pack google images 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/16-image-pack-google-images-1.jpg)
+
+### Top stories
+
+Top stories carousels show recently-published articles, [live blogs](https://en.wikipedia.org/wiki/Liveblogging), and videos. Google displays a thumbnail, title, publisher name, and timestamp for each result, and they usually appear near the top of the SERP.
+
+![17 top stories 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/17-top-stories-1.jpg)
+
+#### Can you appear in Top Stories carousels?
+
+Yes. However, according to [research](https://newsdashboard.com/en/do-you-need-to-be-indexed-in-google-news-to-appear-in-the-news-boxes/) by News Dashboard, 99.31% of results on desktop come from sites that are indexed in Google News.
+
+It’s also worth noting that most rankings here are short-lived, as the purpose of the SERP feature is generally to show new results—and pages can’t be new for long.
+
+### People Also Ask (PAA)
+
+[People Also Ask](https://ahrefs.com/blog/people-also-ask/) boxes show related questions that searchers ask Google. Each question unfolds to reveal an answer pulled from a web page displayed in a similar way to Featured Snippets.
+
+![18 people also ask 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/18-people-also-ask-1.jpg)
+
+Google loads more related questions every time you click to reveal an answer.
+
+![paa more questions 1](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20674%20558%22%3E%3C/svg%3E)
+
+#### Can you appear in People Also Ask boxes?
+
+Yes. Like Featured Snippets, answers to the questions in PAA boxes come from third-parties. Having content that answers one or more of these questions means you have a chance of appearing in a PAA box.
+
+That said, it’s unlikely that showing up here will lead to a lot more traffic. PAA boxes are more useful for content research.
+
+**Recommended reading:** _[How to Rank in ‘People Also Ask’ Boxes and If You Should](https://ahrefs.com/blog/people-also-ask/)_
+
+### Shopping results
+
+Shopping results, officially known as Product Listing Ads (PLAs), showcase relevant products from paid advertisers. Every result features the product name, price, and retailer, and some show reviews and special offers.
+
+![19 shopping results 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/19-shopping-results-1.jpg)
+
+Most Shopping results show up for queries with transactional or commercial investigation [search intent](https://ahrefs.com/blog/search-intent/). For example, “buy protein powder” or “best protein powders.”
+
+#### Can you appear in Shopping results?
+
+Yes, but it costs money. There’s no way to show up here organically. Learn more [here](https://www.google.com/retail/solutions/shopping-campaigns/).
+
+### Tweets boxes
+
+Tweets boxes display recent popular tweets in a carousel. These are usually from an official Twitter account associated with the query, but they sometimes show tweets from multiple accounts.
+
+![20 branded tweets box 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/20-branded-tweets-box-1.jpg)
+
+![21 unbranded tweets box 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/21-unbranded-tweets-box-1.png)
+
+#### Can you appear in Tweets boxes?
+
+Yes. For brand searches (e.g., “Ahrefs”), Google usually shows recent tweets from the company’s official Twitter account. For non-branded searches, relevant tweets from your account can still show up in the Tweets box.
+
+### Sitelinks
+
+[Sitelinks](https://ahrefs.com/blog/sitelinks/) are links to other pages on the ranking website or other parts of the ranking page. They’re more of an enhancement to regular organic results than a SERP feature, as they appear as ‘extra’ links below a result.
+
+![22 sitelinks branded 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/22-sitelinks-branded-1.jpg)
+
+![23 sitelinks non branded 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/23-sitelinks-non-branded-1.png)
+
+The benefit of sitelinks are twofold:
+
+1.  People can find what they’re searching for faster.
+2.  People are more likely to click on your website in the SERP, which means more organic traffic.
+
+#### Can you appear in Sitelinks?
+
+Yes. Google usually shows sitelinks for branded queries, so it’s likely that people already see sitelinks when searching for your website.
+
+For non-branded queries, you’re more likely to ‘win’ sitelinks when your page is popular and has [internal links](https://ahrefs.com/blog/internal-links-for-seo/) to other relevant content—at least from my observations.
+
+### Videos
+
+Video results are organic results enhanced with a video thumbnail. Only pages with embedded videos are eligible, and Google also usually shows the upload date, duration, and the name of the uploader in the SERP.
+
+![24 video search result youtube 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/24-video-search-result-youtube-1.png)
+
+Most video results come from YouTube, but they can show up for other websites too.
+
+![25 video search result self hosted 1](https://ahrefs.com/blog/wp-content/uploads/2020/04/25-video-search-result-self-hosted-1.png)
+
+#### Can you appear in Video results?
+
+Yes. For embedded videos hosted on YouTube, Google sometimes shows thumbnails in the SERP. For embedded videos hosted elsewhere, the page needs [VideoObject schema markup](https://schema.org/VideoObject) to be eligible for this feature.
