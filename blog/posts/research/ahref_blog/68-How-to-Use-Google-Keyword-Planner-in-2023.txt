@@ -1,0 +1,283 @@
+URL: https://ahrefs.com/blog/google-keyword-planner/
+
+# How to Use Google Keyword Planner in 2023
+
+Google Keyword Planner is a keyword research tool for advertisers. But you can also use it to find keywords for SEO. It can even show you the keywords your competitors are targeting.
+
+In this guide, you’ll learn how to get some serious SEO value from Keyword Planner. 
+
+## Step 1. Get access to Google Keyword Planner
+
+Google Keyword Planner is free. All you need is a Google Ads account to use it. 
+
+To set one up, go to [ads.google.com](https://ads.google.com/home/), click “Start now,” and sign in to your Google account.
+
+Next, click the small blue “Create an account with a campaign” link.
+
+!["Create an account with a campaign" link](https://ahrefs.com/blog/wp-content/uploads/2024/02/2024-02-05_16-37-56.png)
+
+On the next screen, enter your billing country, time zone, currency, select “No” to the question “Want personalised campaign guidance from a Google Ads expert by phone?”, then click “Submit.”
+
+![Confirming business information](https://ahrefs.com/blog/wp-content/uploads/2024/02/2024-02-05_16-40-37.png)
+
+On the success screen that follows, click “Continue to your account”: 
+
+![Congratulations message](https://ahrefs.com/blog/wp-content/uploads/2024/02/Screenshot-2024-02-05-at-16.42.02.png)
+
+On the left menu bar, click “Tools” > “Planning” > “Keyword Planner.”
+
+![Keyword Planner in menu](https://ahrefs.com/blog/wp-content/uploads/2024/02/Screenshot-2024-02-05-at-16.43.09.png)
+
+## Step 2. Discover new keywords
+
+If you want to see search volumes and metrics for an existing list of keywords, click “Get search volume and forecasts.” Otherwise, click “Discover new keywords” to find new keyword ideas.
+
+![Keyword Planner has two options: discover new keywords, or get search volume and forecasts](https://ahrefs.com/blog/wp-content/uploads/2024/02/Screenshot-2024-02-05-at-16.45.01.png)
+
+There are two ways to discover new keywords:
+
+1.  **Start with ideas** – Enter up to 10 words or phrases related to your business. 
+2.  **Start with a website or webpage** – Enter a URL and choose whether you want keyword suggestions based on the whole site or just that page. 
+
+For example, if we enter a few keywords related to SEO, we get 3,377 keyword ideas.
+
+![Number of keyword ideas from SEO "seed" keywords in Google Keyword Planner = 3,377](https://ahrefs.com/blog/wp-content/uploads/2024/02/Screenshot-2024-02-05-at-16.46.39.png)
+
+This is pretty low compared to the number of keyword ideas you get from a third-party keyword research tool like Ahrefs’ [Keywords Explorer](https://ahrefs.com/keywords-explorer).
+
+![Number of keyword ideas from SEO "seed" keywords in Ahrefs' Keywords Explorer = 210K](https://ahrefs.com/blog/wp-content/uploads/2024/02/Screenshot-2024-02-05-at-16.47.55.png)
+
+But the neat thing about Keyword Planner is that it generates related ideas that don’t contain the terms you entered. 
+
+For example, here are some ideas we get if we enter “SEO” as our seed idea:
+
+![Keyword ideas in Google Keyword Planner from the seed keyword "SEO"](https://ahrefs.com/blog/wp-content/uploads/2023/01/9-seo-keyword-ideas.png)
+
+Typically, you’d need to enter more seed ideas to find keyword ideas like this in conventional keyword research tools.
+
+## Step 3. Look for the best keyword ideas
+
+There’s no point in trying to rank for irrelevant keywords, so the best starting point is to filter out keywords that don’t make sense to target.
+
+For example, say that you’re looking for keyword ideas related to T-shirts for an online clothing store. 
+
+If you enter “tshirt” as your seed idea, you’ll see a lot of brand-related keywords:
+
+![Keyword ideas in Google Keyword Planner from the seed keyword "tshirt"](https://ahrefs.com/blog/wp-content/uploads/2023/01/10-tshirt-keyword-ideas.png)
+
+This is fine if you sell T-shirts from these brands. Otherwise, they’re a distraction.
+
+Luckily, Keyword Planner makes it super easy to refine ideas. Just click “Refine keywords” in the upper right to quickly include or exclude keywords by attributes like brand, color, and style.
+
+![Refining keywords in Keyword Planner](https://ahrefs.com/blog/wp-content/uploads/2023/01/11-refine-keywords.png)
+
+For example, you can easily filter out keywords that mention brands you don’t sell. 
+
+![Refining keywords by brand in Keyword Planner](https://ahrefs.com/blog/wp-content/uploads/2023/01/12-filtering-keywords.png)
+
+Sidenote.
+
+This feature doesn’t work if you started keyword research with a website or URL.
+
+If you still see many irrelevant keywords after this, use the “does not contain” keyword filter to exclude them. 
+
+![Refining keyword ideas by "does not contain" in Keyword Planner](https://ahrefs.com/blog/wp-content/uploads/2023/01/13-near-me-filter.png)
+
+From here, it’s just a case of looking through the ideas for keywords that make sense. 
+
+Here are a few ideas and ways to do this:
+
+### Find low-competition long-tails
+
+Long-tail keywords are keywords that get a few monthly searches. Because of this, they tend to be easier to rank for than popular keywords.
+
+Keyword Planner doesn’t show the exact number of monthly searches for keywords, but it does show the average monthly range. So you can easily find long-tail keywords by sorting the ideas by average monthly searches from low to high.
+
+For example, if we do this for the seed keyword “ebike,” we see many ideas with 10–100 monthly searches, including “power e bike” and “genze e222b electric bike.”
+
+![Keyword ideas from the seed keyword "ebike" in Keyword Planner](https://ahrefs.com/blog/wp-content/uploads/2023/01/14-ebike-keywords.png)
+
+However, not all of these are necessarily easy to rank for.
+
+Unfortunately, Keyword Planner can’t help you figure that out because its “competition” metric has nothing to do with organic search competition. It’s the competition level in Google Ads. As such, you should pay absolutely no attention to it.
+
+Instead, we recommend plugging keyword ideas into a third-party tool like [our free Keyword Difficulty (KD) checker](https://ahrefs.com/keyword-difficulty). This estimates the difficulty of ranking on the first page of Google on a scale from 0 to 100.
+
+If we do this for “power e bike,” we see that it has quite a high KD score.
+
+![The Ahrefs Keyword Difficulty (KD) score for "power e bike" is high](https://ahrefs.com/blog/wp-content/uploads/2023/01/15-keyword-difficulty-ahrefs.png)
+
+On the other hand, “genze e222b electric bike” has a very low KD score.
+
+![The Ahrefs Keyword Difficulty (KD) score for "genze e222b electric bike" is low](https://ahrefs.com/blog/wp-content/uploads/2023/01/16-keyword-difficulty-ahrefs.png)
+
+Another consideration when choosing keyword ideas is their traffic potential. The easiest method for this is to plug the top-ranking page for the keyword into [our free traffic checker](https://ahrefs.com/traffic-checker). 
+
+If we do this for the top-ranking page for “genze e222b electric bike,” we see it gets an estimated 394 monthly search visits. So it clearly has traffic potential.
+
+![Estimated traffic potential for the top-ranking page for "genze e222b electric bike," via Ahrefs' free keyword generator](https://ahrefs.com/blog/wp-content/uploads/2023/01/17-traffic-potential-genze-ebike.png)
+
+### Find trending keywords
+
+Keyword Planner has a YoY change metric. This shows the change in search trends between the latest month and the same month from the previous year.
+
+You can find breakout topics if you sort keyword ideas by this column from highest to lowest.
+
+For example, if we enter “e bike” as our seed keyword, we see that “giant stance e+” has a +900% YoY increase.
+
+![Keyword Planner shows a +900% YoY increase for "giant stance e+" thanks to the company introducing them last year](https://ahrefs.com/blog/wp-content/uploads/2024/02/Screenshot-2024-02-05-at-17.16.31.png)
+
+This is likely because Giant announced released the bike last year.
+
+If you run an affiliate website, this is an excellent way to find products worth reviewing. 
+
+### Find seasonal keywords
+
+Keyword Planner also has a “three month change” metric. This shows the change in search trends between the latest month and the two months prior.
+
+You can find seasonal topics if you sort keyword ideas by this column from highest to lowest.
+
+For example, if we use “e bike” as our seed once again, we see that “ebike black friday” has a +900% three-month increase.
+
+![Keyword Planner shows a +900% three-month increase for "e bike" thanks to Black Friday](https://ahrefs.com/blog/wp-content/uploads/2023/01/19-ebike-black-friday-keyword.png)
+
+This is because Black Friday is just around the corner (at the time of writing).
+
+Let’s enter “sweater” as our seed. We see many terms related to ugly Christmas sweaters seeing a recent increase in searches. Again, this makes sense given the time of year (once more, at the time of writing).
+
+![Keyword Planner shows big three-month increases for sweater-related keywords in the run-up to Christmas](https://ahrefs.com/blog/wp-content/uploads/2023/01/20-sweater-keywords.png)
+
+### Find lucrative keywords
+
+Keyword Planner has a column for “top of page bid (high range).” As Google notes, this shows the “higher range of what advertisers have historically paid for a keyword’s top of page bid.” 
+
+Now, advertisers have nothing to do with SEO. But it’s logical to assume that if they’re willing to pay a lot for clicks from a keyword, it must have commercial value. In which case, it’s worth trying to rank organically. 
+
+For example, if we sort our ebike keyword ideas by “top of page bid” from high to low, one of the keywords that advertisers pay big bucks for clicks from is “zooz ebike.”
+
+![The estimated "top of page bid (high range)" for "zooz ebike" is high at $21.45](https://ahrefs.com/blog/wp-content/uploads/2023/01/21-zooz-ebike-keyword.png)
+
+This is hardly surprising given that these bikes cost $2K–$3K.
+
+## Bonus: Google Keyword Planner tips & tricks
+
+Now you know the basics of using Keyword Planner, let’s look at a few tricks and tips that most SEOs aren’t aware of.
+
+### 1\. Unlock exact search volumes
+
+Google’s reluctance to show exact search volumes is one of the most frustrating things about Keyword Planner. It’s why many SEOs no longer use the tool.
+
+For example, both of these keywords have a search volume range of 1K–10K:
+
+![Keyword Planner shows the same search volume range for "off page seo" and "seo specialist"](https://ahrefs.com/blog/wp-content/uploads/2023/01/22-same-search-volumes.png)
+
+But if we check these two keywords in Ahrefs’ [Keywords Explorer](https://ahrefs.com/keywords-explorer), we see that one of these keywords gets more than twice as many searches as the other. 
+
+![Ahrefs' Keywords Explorer shows specific and different search volumes for "off page seo" and "seo specialist"](https://ahrefs.com/blog/wp-content/uploads/2023/01/23-real-search-volumes-ahrefs.png)
+
+Luckily, there’s a trick to unlock more precise (but not perfect) search volumes in Keyword Planner.
+
+Here’s the process:
+
+1.  Enter your keyword in square brackets using the “Get search volume and forecasts” mode
+2.  Go to the **Forecast** tab
+3.  Click the arrow to reveal the graph
+4.  Click the maximum CPC on the graph
+
+![Adjusting daily budget for ads to get a better estimate search volume](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201036%20840%22%3E%3C/svg%3E)
+
+Now pay attention to the “Impressions” column. This tells you the estimated number of impressions your ad would get over the next month if you were to run it for the selected keywords. 
+
+![Impressions estimate for "seo specialist" with a maxed out ad budget](https://ahrefs.com/blog/wp-content/uploads/2024/02/Screenshot-2024-02-05-at-17.27.36.png)
+
+Because you set the bid value so high, these impressions should be close to the monthly search volume for that keyword. 
+
+Let’s use Ahrefs’ [Keywords Explorer](https://ahrefs.com/keywords-explorer) to check how close these numbers are.
+
+![Estimated monthly search volume for "seo specialist" via Ahrefs' Keywords Explorer](https://ahrefs.com/blog/wp-content/uploads/2023/01/26-seo-specialist-ahrefs-search-volume.png)
+
+It looks like it was pretty much dead on in this case.
+
+IMPORTANT
+
+Having played around with this trick for a while, it seems to be most accurate when investigating keywords with commercial intent. This is likely because Google is less likely to show ads for informational queries, so impression data is off. Keep in mind that third-party tools like [Keywords Explorer](https://ahrefs.com/keywords-explorer) tend to be more reliable.
+
+### 2\. See local search volumes 
+
+Most keyword research tools don’t tell you how many people search for a term in specific states or cities. They only show search volumes for the entire country, which could be better for [local SEO](https://ahrefs.com/blog/local-seo/). 
+
+In Google Keyword Planner, however, you can simply change your location to a different country, state, or city to see local volume ranges. 
+
+For example, there are an estimated 100K–1M monthly searches for “plumber” in the U.S.:
+
+![Estimated U.S. search volume for "plumber" via Keywords Explorer](https://ahrefs.com/blog/wp-content/uploads/2023/01/27-plumber-us-search-volume.png)
+
+But if we change the location to Birmingham, Alabama, the range changes to just 100–1K:
+
+![Estimated search volume for "plumber" in Birmingham, Alabama, via Keywords Explorer](https://ahrefs.com/blog/wp-content/uploads/2023/01/29-plumber-birmingham-alabama-search-volume.png)
+
+You can also combine this with the exact volume trick above to get more precise volume estimations for local areas. 
+
+For example, suppose we were to max out our bid for “plumber” in Birmingham, Alabama. In that case, we’d get an estimated 636 monthly impressions on our ad. 
+
+![Estimated impressions for "plumber" with a maxed out bid in Birmingham, Alabama, via Keywords Explorer](https://ahrefs.com/blog/wp-content/uploads/2023/01/30-plumber-impressions-birmingham.png)
+
+### 3\. See popular search locations
+
+Keyword Planner can also show you the most popular search locations for any term. Just scroll to the bottom of the **Forecasts** tab for your keywords.
+
+For example, 54% of impressions for “superbowl” come from the U.S. 
+
+![Top countries by impressions in Keyword Planner](https://ahrefs.com/blog/wp-content/uploads/2023/01/31-top-countries-impresions.png)
+
+But you can go even deeper. Knowing that most searches come from the U.S., you can set the U.S. as the location in the location filter. Now the Locations box will show the top states.
+
+![Top states by impressions in Keyword Planner](https://ahrefs.com/blog/wp-content/uploads/2023/01/32-top-states-impressions.png)
+
+Going even deeper and setting the location to a state will show you the top cities. 
+
+![Top cities by impressions in Keyword Planner](https://ahrefs.com/blog/wp-content/uploads/2023/01/33-top-cities-impressions.png)
+
+In fact, if you set your location to a city, it’ll even tell you the most popular ZIP/postal codes. 
+
+![Top postal codes by impressions in Keyword Planner](https://ahrefs.com/blog/wp-content/uploads/2023/01/34-top-postal-codes-impressions.png)
+
+important
+
+This is based on impressions forecasts for ads—so take the results with a pinch of salt. If you’re just looking for a country-level breakdown of search volumes, [Keywords Explorer](https://ahrefs.com/keywords-explorer) has you covered with more precise data. 
+
+![Keyword data for "superbowl," via Ahrefs' Keywords Explorer](https://ahrefs.com/blog/wp-content/uploads/2023/01/35-data-keywords-explorer.jpg)
+
+### 4\. See what devices searchers are using
+
+It’s always best practice to ensure your content is optimized for mobile, as mobile-friendliness has been a ranking factor on mobile for years. But it’s still more important for some topics than others. 
+
+After all, if few people are searching for your topic on mobile, then you don’t need to stress too much about perfectly optimizing your content for mobile users.
+
+For example, suppose we add the keyword “[free keyword research tool](https://ahrefs.com/blog/free-keyword-research-tools/)” to our keyword plan and check the “Forecasts” tab. We see that 81% of impressions happen on computers, not mobile phones or tablets. 
+
+![Computer impressions for "free keyword research tool" in Keyword Planner](https://ahrefs.com/blog/wp-content/uploads/2023/01/36-device-impressions.png)
+
+Given this information, it’s probably not worth stressing too much about making screenshots in the post easier to read on mobile—especially not if doing so detracts from the desktop user experience.
+
+![Example of a screenshot that's not particularly well optimized for mobile](https://ahrefs.com/blog/wp-content/uploads/2023/01/37-screenshots-device.png)
+
+However, for some keywords, it will be the other way around. 
+
+For example, 92.3% of impressions for “best restaurant near me” happen on mobile phones. 
+
+![Mobile impressions for "best restaurant near me" in Keyword Planner](https://ahrefs.com/blog/wp-content/uploads/2023/01/38-mobile-phone-impressions.png)
+
+This makes sense. People Googling this are most likely just looking for a good restaurant for lunch while out and about. So if you’re a local restaurant looking to rank for this and related keywords, optimizing your content for mobile is a top priority. 
+
+## Final thoughts
+
+Google Keyword Planner is a powerful tool worth incorporating into your keyword research workflow. It’s packed with valuable insights you can’t get from other tools. 
+
+But it does have its limitations—the lack of accurate search volumes being a big one.
+
+If that’s what you’re looking for, investing in a professional keyword research tool like Ahrefs’ [Keywords Explorer](https://ahrefs.com/keywords-explorer) is the way to go. This shows exact search volumes for all keywords and other useful metrics like [Keyword Difficulty (KD)](https://ahrefs.com/keyword-difficulty) and Traffic Potential (TP).
+
+![Keyword data in Ahrefs' Keywords Explorer](https://ahrefs.com/blog/wp-content/uploads/2023/01/39-search-volumes-keywords-explorer.png)
+
+Got questions? Ping me [on Twitter](https://twitter.com/joshuachardwick).

@@ -1,0 +1,368 @@
+URL: https://ahrefs.com/blog/repurposing-content/
+
+# 13 Smart Ways to Repurpose Content
+
+Content repurposing is the practice of reusing all or parts of your existing content. This usually involves changing up the format, e.g., from a blog post to a video.
+
+In this post, you’ll learn how to repurpose your existing content in different ways.
+
+## What are the benefits of repurposing content?
+
+Repurposing content allows you to reach more people without having to create new content from scratch.
+
+For example, our [SEO checklist](https://ahrefs.com/blog/seo-checklist/) currently gets an estimated 800 monthly search visits: 
+
+![Amount of organic traffic coming to Ahrefs' SEO checklist post, via Ahrefs' Site Explorer
+](https://ahrefs.com/blog/wp-content/uploads/2023/06/image10-2.png)
+
+But we repurposed it into a [video](https://www.youtube.com/watch?v=taU9P98zfjk) several years ago, and it has since generated over 230,000 views on YouTube:
+
+![Number of views of Ahrefs' YouTube video about SEO checklists
+](https://ahrefs.com/blog/wp-content/uploads/2023/06/image2-3.jpg)
+
+## Which content should you repurpose?
+
+Content repurposing requires work. It’s not a one-to-one conversion—you’ll likely have to do some rewriting or editing so that the content fits the new format and platform. 
+
+So when you see someone like Gary Vaynerchuk expertly repurposing his content across all platforms, remember that he has a team. If you’re doing it alone, you won’t be able to repurpose every single piece of content.
+
+You need to prioritize. 
+
+The best way to do this is to repurpose content that targets evergreen topics. 
+
+[Evergreen topics](https://ahrefs.com/blog/evergreen-content/) are topics with consistent interest and search demand over time. Here are some examples of evergreen topics:
+
+*   **How to lose weight** – Since time immemorial, people have always been interested in losing weight.
+*   **How to tie a tie** – So long as remote work is not the norm and formal attire is required, people will want to know how to tie a tie.
+*   **Football scores** – Fans will always be interested in knowing the scores of the latest game.
+
+How do you know if your content is targeting a topic that’s evergreen? To find out, enter the topic into Ahrefs’ [Keywords Explorer](https://ahrefs.com/keywords-explorer) and check the trends graph. 
+
+For example, you can see that “digital marketing” is on the rise:
+
+![Search trend for "digital marketing," via Ahrefs' Keywords Explorer
+](https://ahrefs.com/blog/wp-content/uploads/2023/06/image15-2.png)
+
+Whereas, due to the crypto winter, the topic “nft” is on the steep decline:
+
+![Search trend for "nft," via Ahrefs' Keywords Explorer
+](https://ahrefs.com/blog/wp-content/uploads/2023/06/image6-3.png)
+
+## 13 content repurposing tactics
+
+Try out these repurposing ideas for your existing content:
+
+### 1\. Turn your videos into blog posts
+
+Our video on affiliate marketing for beginners has received >290,000 views:
+
+[https://www.youtube.com/watch?v=W-nbsnXtSZI](https://www.youtube.com/watch?v=W-nbsnXtSZI)
+
+We then turned it into a [blog post](https://ahrefs.com/blog/affiliate-marketing/), and it currently receives an estimated 38,000 monthly search visits:
+
+![Search traffic coming to Ahrefs' blog post on affiliate marketing, via Ahrefs' Site Explorer
+](https://ahrefs.com/blog/wp-content/uploads/2023/06/image14-2.png)
+
+Here’s how to find topics you should repurpose:
+
+1.  Go to Ahrefs’ [Keywords Explorer](https://ahrefs.com/keywords-explorer)
+2.  Enter one or a few relevant keywords
+3.  Go to the **Matching terms** report
+
+![Matching terms report, via Ahrefs' Keywords Explorer
+](https://ahrefs.com/blog/wp-content/uploads/2023/06/image16-1-1.jpg)
+
+Eyeball the report and see if there are any topics that match an existing blog post you have.
+
+### 2\. Turn your blog posts into videos
+
+We do this often at Ahrefs. [SEO checklist](https://ahrefs.com/blog/seo-checklist/) is one example. We also repurposed our [blog post on influencer marketing](https://ahrefs.com/blog/influencer-marketing/) into a video:
+
+[https://www.youtube.com/watch?v=zEgOI1rNlyc](https://www.youtube.com/watch?v=zEgOI1rNlyc)
+
+To find out what you should repurpose, search for your topic on YouTube and see if the top-ranking videos have views. For example, if we search for “build backlinks,” we can see that they get tons of views:
+
+![Top results for "build backlinks" on YouTube
+](https://ahrefs.com/blog/wp-content/uploads/2023/06/image11-2.jpg)
+
+If we have an existing post on this topic, we can repurpose it into a video.
+
+### 3\. Repurpose your videos into a course
+
+Your content is likely published chronologically. Unfortunately, that’s not an ideal way to consume content.
+
+So why not organize content pieces in a logical order and turn them into a course?
+
+For example, our “[How to use Ahrefs](https://ahrefs.com/academy/how-to-use-ahrefs)” course is made up of in-app tutorials that already exist within our reports.
+
+![The course breakdown for "How to use Ahrefs"
+](https://ahrefs.com/blog/wp-content/uploads/2023/06/image17-2.png)
+
+How do you know what courses to create? Here’s how:
+
+1.  Go to Ahrefs’ [Keywords Explorer](https://ahrefs.com/keywords-explorer)
+2.  Enter a few relevant keywords (e.g., SEO, marketing, etc)
+3.  Go to the **Matching terms** report
+4.  In the **Include** box, enter terms like “course,” “academy,” “training,” etc
+5.  Choose **Any word**
+
+![How to find course-related keywords, via Ahrefs' Keywords Explorer
+](https://ahrefs.com/blog/wp-content/uploads/2023/06/image7-3.png)
+
+Look through the report and see if there are any courses you can create by repurposing your content.
+
+### 4\. Stitch the individual course videos into one long video
+
+A few years ago, we released each lesson from our [SEO training course](https://ahrefs.com/academy/seo-training-course) one by one. 
+
+![SEO training course on Ahrefs' YouTube channel
+](https://ahrefs.com/blog/wp-content/uploads/2023/06/image1-2.jpg)
+
+Later on, we stitched all of the videos into a long (~two hours) video:
+
+[https://www.youtube.com/watch?v=xsVTqzratPs](https://www.youtube.com/watch?v=xsVTqzratPs)
+
+As you can see, not only did we receive views for each individual video, but the combined video has also received ~1.8 million views!
+
+![Number of views on Ahrefs' two-hour course for SEO beginners
+](https://ahrefs.com/blog/wp-content/uploads/2023/06/image13-2.jpg)
+
+We’ve since done that for multiple other courses, and they’ve all done well.
+
+[https://www.youtube.com/watch?v=fNUxzKZE6K8](https://www.youtube.com/watch?v=fNUxzKZE6K8)
+
+### 5\. Turn your blog posts into a book
+
+What’s the written version of an online course? A book!
+
+You can compile and organize your blog posts and turn them into a book. This can live on your site as an ebook or you can go big and publish it as a hardback/paperback.
+
+This is exactly what we did. We turned the content from our [beginner’s guide to SEO](https://ahrefs.com/seo) into a [hardcover book](https://ahrefs.com/blog/seo-for-beginners-book/):
+
+![Ahrefs CMO Tim Soulo amid stacks of the company's book, "SEO Book for Beginners"
+](https://ahrefs.com/blog/wp-content/uploads/2023/06/image4-2.png)
+
+Publishing a book means you’ll have to promote it. One way is to run a giveaway, like what we did:
+
+> We’ve published an SEO book for beginners—and we’ve 100 hardcover copies to give away! 
+> 
+> To score a copy:
+> 
+> 1⃣ Like + RT this post
+> 
+> 2⃣ Leave a comment telling us when + why you started learning SEO
+> 
+> \*\*Note: This giveaway closes April 15, 12am EST. Good luck!\*\* [pic.twitter.com/COCfOFPdKi](https://t.co/COCfOFPdKi)
+> 
+> — Ahrefs (@ahrefs) [April 11, 2023](https://twitter.com/ahrefs/status/1645849220149309446?ref_src=twsrc%5Etfw)
+
+You can also find sites that collate lists of the best books in your niche and get your book mentioned. Here’s how to find these sites:
+
+1.  Go to Ahrefs’ [Content Explorer](https://ahrefs.com/content-explorer)
+2.  Search for “best \[topic\] books”
+3.  Set the **Live/Broken** filter to **Live only**
+4.  Check **One page per domain**
+5.  Sort the results by **Page traffic** to prioritize your efforts
+
+![How to find book lists to promote to, via Ahrefs' Content Explorer
+](https://ahrefs.com/blog/wp-content/uploads/2023/06/image21-1.png)
+
+Go through the list and see if your book is a good fit for any of these pages.
+
+### 6\. Turn your videos into multiple short-form videos
+
+Short-form videos are an in-demand format. So if you have an existing video, it makes sense to divide and turn it into multiple shorter ones. 
+
+You can then republish them on many different platforms: TikTok, Instagram Reels, YouTube Shorts, Twitter, and more. 
+
+For example, this [1½ minute video on Twitter](https://twitter.com/ahrefs/status/1201195604686311425) was originally part of a YouTube video:
+
+[https://www.youtube.com/watch?v=b7PzHO40bOU](https://www.youtube.com/watch?v=b7PzHO40bOU)
+
+### 7\. Turn your blog posts into guest posts
+
+Some of our blog posts are so comprehensive that they each span a few chapters:
+
+![Table of content for Ahrefs' link building guide
+](https://ahrefs.com/blog/wp-content/uploads/2023/06/image3-3.png)
+
+And each chapter can be a post on its own.
+
+So here’s an idea: Why not turn each of these chapters into a guest post? It’s efficient, plus you can get additional exposure, referral traffic, and a link back to your own site. 
+
+We call this the “Splintering Technique”:
+
+*   Write an incredible, detailed piece of content for your blog
+*   Break it into “splinters” and submit each one as a guest article to another blog
+
+![The Splintering Technique
+](https://ahrefs.com/blog/wp-content/uploads/2023/06/image5-3.jpg)
+
+When you’ve “splintered” your content, here’s how you can find sites to pitch to:
+
+1.  Go to Ahrefs’ [Content Explorer](https://ahrefs.com/content-explorer)
+2.  Search for terms relevant to your niche (e.g., keto)
+3.  Set **Language** filter to **English** (or language you write in)
+4.  Set **Live/Broken** filter to **Only live**
+5.  Toggle **Filter explicit results** on
+6.  Check **One page per domain, Exclude subdomains, Exclude homepages**
+
+![How to find guest blogging opportunities, via Ahrefs' Content Explorer
+](https://ahrefs.com/blog/wp-content/uploads/2023/06/image9-2.png)
+
+Since these sites cover topics similar to yours, they’re likely to accept your guest post pitch. [Find the website owner’s or editor’s email](https://ahrefs.com/blog/find-email-address/), reach out, and pitch them your topics.
+
+### 8\. Turn your blog post or newsletter into Twitter threads
+
+Every time we publish a post, we encourage each individual author to repurpose their content into a Twitter thread.
+
+> Does the Skyscraper Technique still work?
+> 
+> We asked our followers this question and received 1,242 votes. Here are the results: [pic.twitter.com/l8qadplDAF](https://t.co/l8qadplDAF)
+> 
+> — Si Quan Ong 王思权/思權 (@siquanong) [March 6, 2023](https://twitter.com/siquanong/status/1632892073807609857?ref_src=twsrc%5Etfw)
+
+You can turn the entire blog post or parts of it into a thread. For example, this thread is from a section of our blog post on [website structure](https://ahrefs.com/blog/website-structure/):
+
+> 2 ways to analyze your competitor’s site structure 
+> 
+> Option 1: The simpler method
+> 
+> 1⃣ In Ahrefs’ Site Explorer, plug your competitor’s domain
+> 
+> 2⃣ Study the Site structure report! [pic.twitter.com/2kEyElVWAw](https://t.co/2kEyElVWAw)
+> 
+> — Ahrefs (@ahrefs) [May 30, 2023](https://twitter.com/ahrefs/status/1663564685839577090?ref_src=twsrc%5Etfw)
+
+### 9\. Turn existing content into Quora answers
+
+A few years ago, I started actively answering questions on Quora. In the process, I’ve gained over 2 million views.
+
+![Number of views on Si Quan's Quora profile
+](https://ahrefs.com/blog/wp-content/uploads/2023/06/image18-3.png)
+
+Most of my answers weren’t generated from scratch. Instead, I repurposed them from our existing content.
+
+How do you find the right questions to answer? Here’s how:
+
+1.  Go to [Quora](https://www.quora.com/)
+2.  Click your profile and go to **Ads Manager**
+3.  Click **New campaign**
+4.  Ignore everything and click **Continue**
+5.  Under **Contextual,** click the **Questions** tab
+6.  Click **Bulk Add**
+
+![How to find questions to answer on Quora
+](https://ahrefs.com/blog/wp-content/uploads/2023/06/image19-1.png)
+
+Then, add your topic of choice (e.g., SEO) and click “Continue.” You’ll see a bunch of questions and their weekly views:
+
+![Weekly views of important SEO questions on Quora
+](https://ahrefs.com/blog/wp-content/uploads/2023/06/image12-2.png)
+
+Pick out those that you can repurpose content for and answer them.
+
+### 10\. Turn your content into Reddit posts
+
+Marketers tend to skip out on Reddit because of the community’s hatred for anything promotional. 
+
+But Reddit needs content to thrive. Which means marketers are welcome, so long as the content they post is helpful and valuable. 
+
+One way to do this is to publish a tl;dr version of your content and strip away all internal and external links. Only at the end of your post do you leave a link back to your original piece of content.
+
+This is what [Tim Soulo](https://twitter.com/timsoulo?lang=en), our chief marketing officer, [does](https://www.reddit.com/r/bigseo/comments/pkx9a6/the_beginners_guide_to_link_building_by_ahrefs/):
+
+![Tim Soulo's Reddit post on link building
+](https://ahrefs.com/blog/wp-content/uploads/2023/06/image8-1.png)
+
+With 77 upvotes and positive feedback, it was well received.
+
+### 11\. Reuse bits and pieces of your existing content as social media posts
+
+At Ahrefs, we create custom images to illustrate concepts for our written content. Not surprisingly, we also repurpose them on our social media accounts:
+
+> You can’t guarantee a first-page Google ranking. But you \*can\* improve your chances of getting there by following this logical process: [pic.twitter.com/TL2Pd9FWe9](https://t.co/TL2Pd9FWe9)
+> 
+> — Ahrefs (@ahrefs) [May 1, 2023](https://twitter.com/ahrefs/status/1653096973497688064?ref_src=twsrc%5Etfw)
+
+Go through your content. Each tip, idea, solution, lesson, custom image, or takeaway in your content can be extracted and reused as a standalone post on social media.
+
+### 12\. Turn your conference slide decks into SlideShare decks
+
+Creating slides for a conference is no walk in the park. So it’d be a pity if no one else could view your presentation anymore once your session was over.
+
+That’s why we upload all our slide decks on SlideShare:
+
+![Ahrefs' decks on SlideShare
+](https://ahrefs.com/blog/wp-content/uploads/2023/06/image20-1.jpg)
+
+Besides the conference attendees, we can get hundreds (or even thousands) more views on our conference slide decks. 
+
+### 13\. Upload podcast episodes as YouTube videos
+
+Your podcast may be in audio format, but that doesn’t mean it can’t work on YouTube. In fact, before he moved to video podcasts, [Tim Ferriss](https://en.wikipedia.org/wiki/Tim_Ferriss) used to upload his audio-only podcast episodes on YouTube:
+
+[https://www.youtube.com/watch?v=VLkjaTjJXLY](https://www.youtube.com/watch?v=VLkjaTjJXLY)
+
+It got him thousands of additional listens.
+
+## Content repurposing examples
+
+Looking for successful examples of how companies have done content repurposing? Here are three to be inspired by:
+
+### 1\. Ahrefs
+
+Throughout the post, I’ve included plenty of examples of how we’ve approached content repurposing at Ahrefs. And the reason why I shared so many examples is that content repurposing is part of our modus operandi. 
+
+We walk the talk.
+
+So even though we have separate content teams for our blog, YouTube channel, and socials, content repurposing is part of our process:
+
+1.  When [Sam Oh](https://twitter.com/samsgoh?lang=en), our head of video content, needs to write a script for a video, he checks our blog to see if there is content he can reuse.
+2.  When the blog team creates [outlines](https://ahrefs.com/blog/blog-post-outline/), we check the [YouTube channel](https://www.youtube.com/c/ahrefscom) for content to repurpose (for example, I created my [post on holiday SEO](https://ahrefs.com/blog/holiday-seo/) based on [Sam’s video](https://www.youtube.com/watch?v=OJJXxc-9pBs)).
+3.  Every Twitter thread or long-form LinkedIn post is repurposed from our videos and blog posts (read this [post on our Twitter strategy](https://ahrefs.com/blog/ahrefs-twitter-marketing-strategy/) to see how we do it).
+
+### 2\. Sahil Bloom
+
+[Sahil Bloom](https://twitter.com/SahilBloom) is a [content creator](https://ahrefs.com/blog/content-creator/) and investor. Here’s an example of how he repurposes his content:
+
+1.  He creates a [podcast episode](https://open.spotify.com/episode/2Gzrq8SqH9LmTWO60NFZCg?si=ipZ047NUSAmS2b6knOvuBw) for his chosen topic (“How to Get Out of a Rut”). This is distributed to the major podcast platforms (e.g., Apple Podcasts, Google Podcasts, Spotify).
+2.  He then turns the script into a [newsletter](https://www.sahilbloom.com/newsletter/how-to-get-out-of-a-rut) for his subscribers, and that’s also published on his website as a blog post.
+3.  This is later on turned into a [Twitter thread](https://twitter.com/SahilBloom/status/1664252554295779329).
+4.  He then turns it into a [long-form LinkedIn post](https://www.linkedin.com/posts/sahilbloom_weve-all-been-there-youre-firing-on-all-activity-7070012337297973249-3pEi/?utm_source=share&utm_medium=member_desktop).
+
+Another example: Sahil first got a lot of attention from his thread on the Feynman Technique. 
+
+> The Feynman Technique is a foundational mental model for unlocking growth in your career, startup, business, or writing.
+> 
+> A thread on how it works and how it can change your life… [pic.twitter.com/7MFj3luEIr](https://t.co/7MFj3luEIr)
+> 
+> — Sahil Bloom (@SahilBloom) [February 6, 2021](https://twitter.com/SahilBloom/status/1358108840198168576?ref_src=twsrc%5Etfw)
+
+Look at how he has made the most of that piece of content:
+
+1.  He republished the thread on [his Substack](https://sahilbloom.substack.com/p/the-feynman-technique).
+2.  He turned it into multiple [new](https://twitter.com/SahilBloom/status/1408401606463438856) [tweets](https://twitter.com/SahilBloom/status/1445817573430419462) [and](https://twitter.com/SahilBloom/status/1553717736932532224) [threads](https://twitter.com/SahilBloom/status/1475096936395026434), approaching them from slightly different angles.
+3.  He also republished them on his [LinkedIn](https://www.linkedin.com/posts/sahilbloom_the-feynman-technique-how-to-learn-anything-activity-6959485570393722880-aoho/?trk=public_profile_like_view&originalSubdomain=lk) and his [newsletter](https://www.sahilbloom.com/newsletter/the-feynman-technique).
+4.  He then added visual elements and turned that into a [new thread](https://twitter.com/SahilBloom/status/1662453471608446976).
+5.  This is then republished on [Instagram](https://www.instagram.com/p/Cs1B_Jaudxg/?igshid=MzRlODBiNWFlZA==).
+
+With just one piece of content, he has likely got 6X–7X of the value.
+
+### 3\. Red Bull
+
+Red Bull sells energy drinks. But it’s also a content marketing machine. It has an entire media arm—Red Bull Media House—dedicated to producing content for TV, YouTube, music, films, print, and more.
+
+These media properties are shared across all Red Bull verticals—Red Bull itself, Red Bull \[Country\], Red Bull BC One (breakdancing), Red Bull Skateboarding, Red Bull Gaming, Red Bull Racing, etc. 
+
+Because it owns the content and has teams behind it, its repurposing strategy is highly sophisticated. It’s not simply doing one-to-one reposting and republishing, like the examples above. Rather, it’s mixing footage in and out of different videos, compilations, reels, TikToks, and more. 
+
+For example, the event footage for Red Bull BC One—a prestigious event for breaking—culminates in multiple compilation videos like [this](https://www.youtube.com/watch?v=APnrbfFaF2E), [this](https://www.youtube.com/watch?v=X0tQFsZ3T1w), and [that](https://www.youtube.com/watch?v=QU91VeSqlSg). 
+
+## Final thoughts
+
+Repurposing should not be an afterthought—instead, it should be baked into the creation process. That means thinking about how you want to repurpose your content before you create it. 
+
+In that way, your repurposed content can be launched together with your published content and help distribute it further.
+
+Any questions or comments about content repurposing? Let me know [on Twitter](https://twitter.com/siquanong).

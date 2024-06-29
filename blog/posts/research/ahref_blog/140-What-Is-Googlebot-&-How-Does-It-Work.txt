@@ -1,0 +1,59 @@
+URL: https://ahrefs.com/blog/googlebot/
+
+# What Is Googlebot & How Does It Work?
+
+Googlebot is the web crawler used by Google to gather the information needed and build a searchable index of the web. Googlebot has mobile and desktop crawlers, as well as specialized crawlers for news, images, and videos.
+
+There are more [crawlers Google uses for specific tasks](https://developers.google.com/search/docs/advanced/crawling/overview-google-crawlers), and each crawler will identify itself with a different string of text called a “user agent.” Googlebot is evergreen, meaning it sees websites as users would in the latest Chrome browser.
+
+Googlebot runs on thousands of machines. They determine how fast and what to crawl on websites. But they will slow down their crawling so as to not overwhelm websites.
+
+Let’s look at their process for building an index of the web.
+
+## How Googlebot crawls and indexes the web
+
+Google has shared a few versions of its pipeline in the past. The below is the most recent.
+
+![Flowchart showing how Google builds its search index](https://ahrefs.com/blog/wp-content/uploads/2021/12/1-googlebot-pipeline.png)
+
+It processes this again and looks for any changes to the page or new links. The content of the rendered pages is what is stored and searchable in Google’s index. Any new links found go back to the bucket of URLs for it to crawl.
+
+We have more details on this process in our article on [how search engines work](https://ahrefs.com/blog/how-do-search-engines-work/).
+
+## How to control Googlebot
+
+Google gives you a few ways to control what gets crawled and indexed.
+
+### Ways to control crawling
+
+*   **[Robots.txt](https://ahrefs.com/blog/robots-txt/)** – This file on your website allows you to control what is crawled.
+*   **[Nofollow](https://ahrefs.com/blog/nofollow-links/)** – Nofollow is a link attribute or [meta robots tag](https://ahrefs.com/blog/meta-robots/) that suggests a link should not be followed. It is only considered a hint, so it may be ignored.
+*   **[Change your crawl rate](https://ahrefs.com/blog/crawl-budget/#crawl-slower)** – This tool within [Google Search Console](https://ahrefs.com/blog/google-search-console/) allows you to slow down Google’s crawling.
+
+### Ways to control indexing
+
+*   **Delete your content** – If you delete a page, then there’s nothing to index. The downside to this is no one else can access it either.
+*   **Restrict access to the content** – Google doesn’t log in to websites, so any kind of password protection or authentication will prevent it from seeing the content.
+*   **[Noindex](https://ahrefs.com/blog/meta-robots/)** – A noindex in the meta robots tag tells search engines not to index your page.
+*   **[URL removal tool](https://support.google.com/webmasters/answer/9689846?hl=en)** – The name for this tool from Google is slightly misleading, as the way it works is it will temporarily hide the content. Google will still see and crawl this content, but the pages won’t appear in search results.
+*   **Robots.txt (Images only)** – Blocking Googlebot Image from crawling means that your images will not be indexed.
+
+If you’re not sure which indexing control you should use, check out our flowchart in our post on [removing URLs from Google search](https://ahrefs.com/blog/remove-urls-from-google/).
+
+## Is it really Googlebot?
+
+Many SEO tools and some malicious bots will pretend to be Googlebot. This may allow them to access websites that try to block them.
+
+In the past, you needed to [run a DNS lookup to verify Googlebot](https://developers.google.com/search/docs/advanced/crawling/verifying-googlebot). But recently, Google made it even easier and provided a [list of public IPs](https://developers.google.com/search/apis/ipranges/googlebot.json) you can use to verify the requests are from Google. You can compare this to the data in your server logs.
+
+You also have access to a “Crawl stats” report in Google Search Console. If you go to _Settings > Crawl Stats_, the report contains a lot of information about how Google is crawling your website. You can see which Googlebot is crawling what files and when it accessed them.
+
+![Line graph showing crawl stats. Summary of key data is above](https://ahrefs.com/blog/wp-content/uploads/2021/12/2-googlebot-crawl-stats.png)
+
+## Final thoughts
+
+The web is a big and messy place. Googlebot has to navigate all the different setups, along with downtimes and restrictions, to gather the data Google needs for its search engine to work.
+
+A fun fact to wrap things up is that Googlebot is usually depicted as a robot and is aptly referred to as “Googlebot.” There’s also a spider mascot that is named “Crawley.”
+
+Still have questions? Let me know [on Twitter](https://twitter.com/patrickstox).

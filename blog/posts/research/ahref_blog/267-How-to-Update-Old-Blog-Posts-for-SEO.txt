@@ -1,0 +1,248 @@
+URL: https://ahrefs.com/blog/republishing-content/
+
+# How to Update Old Blog Posts for SEO
+
+Not every blog post you publish will rank in search engines. Even if you’ve done [keyword research](https://ahrefs.com/blog/keyword-research/) and written [great content](https://ahrefs.com/blog/how-to-write-great-content/), it’s not always possible to get things right on your first attempt.
+
+For example, we published a post about “[what is SEO](https://ahrefs.com/blog/what-is-seo/)” in late 2018. It wasn’t a complete failure, but it never ranked higher than the bottom of page one or got more than an estimated 500 organic visits per month.
+
+So, in August 2019, we rewrote and republished the post. Traffic pretty much doubled overnight and kept climbing.
+
+We’ve done this several times with positive results. If you look at the number of republished posts on the blog in Ahrefs’ [Content Explorer](https://ahrefs.com/content-explorer), you’ll see that we’ve republished 75 of our 200+ posts at least once.
+
+![2 content explorer republished ahrefs](https://ahrefs.com/blog/wp-content/uploads/2020/08/2-content-explorer-republished-ahrefs.png)
+
+In this guide, you’ll learn how to republish old blog posts for more organic traffic in three easy steps.
+
+1.  [Find underperforming pages with content issues](#find-underperforming-pages)
+2.  [Refresh the content](#refresh-content)
+3.  [Republish the post](#republish-post)
+
+[https://www.youtube.com/watch?v=9HWna4hK47c](https://www.youtube.com/watch?v=9HWna4hK47c)
+
+## Step 1. Find underperforming pages with content issues
+
+If you want to boost organic traffic, then republishing any old post isn’t going to work. You need to find those that are underperforming because of content issues.
+
+To do that, follow the steps in this flowchart:
+
+![republishing content](https://ahrefs.com/blog/wp-content/uploads/2020/08/republishing-content.png)
+
+Let’s go through each of these steps in more detail.
+
+1.  [Find underperforming pages](#underperforming-pages-1)
+2.  [Make sure it’s not a new page](#underperforming-pages-2)
+3.  [Rule out backlink factors](#underperforming-pages-3)
+4.  [Make sure it’s an ‘informational’ query](#underperforming-pages-4)
+
+### A. Find underperforming pages
+
+If your post ranks in the top three for its target keyword, then it’s probably not a great candidate for republishing because the risk outweighs the reward. It’s already performing well, so republishing might do more harm than good.
+
+For that reason, you need to look for posts that rank lower down for their main keyword.
+
+You can find those keywords in [Google Search Console](https://ahrefs.com/blog/google-search-console/). Just head to the **Search Results** report, toggle the average position selector, then filter the report for keywords with an average ranking position of four or higher.
+
+![google search console positions](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201166%201074%22%3E%3C/svg%3E)
+
+Sift through the list of keywords for topics that you’re targeting with blog posts.
+
+For example, we wrote a post about [guest blogging](https://ahrefs.com/blog/guest-blogging/), so I know this is a keyword we’re targeting.
+
+![3 guest blogging search console](https://ahrefs.com/blog/wp-content/uploads/2020/08/3-guest-blogging-search-console.png)
+
+Just know that Search Console only shows average ranking positions, so it’s usually not a particularly accurate representation of your actual ranking position. For more precise ranking data, paste your blog into Ahrefs’ [Site Explorer](https://ahrefs.com/site-explorer), then head to the **Top Pages** report to see the posts that generate the most search traffic.
+
+![4 ahrefs blog top pages](https://ahrefs.com/blog/wp-content/uploads/2020/08/4-ahrefs-blog-top-pages.png)
+
+It’s then just a case of sifting through the report for posts that aren’t ranking high for their **primary** target keyword. The best way to do this is to look at the _URL_, _Top keyword_, and _Position_ columns.
+
+For example, if we look through the report for our blog, we see our guide to guest blogging in position four for “guest blogged.”
+
+![5 guest blogging top keyword](https://ahrefs.com/blog/wp-content/uploads/2020/08/5-guest-blogging-top-keyword.png)
+
+It’s clear from the URL that our target keyword here is “guest blogging,” But as the _Top keyword_ is something else, it’s highly unlikely that we’re ranking in the top three positions for “guest blogging.”
+
+If we hit the “Keywords” caret, we can confirm this by looking for that keyword and checking the ranking position.
+
+![6 guest blogging keywords](https://ahrefs.com/blog/wp-content/uploads/2020/08/6-guest-blogging-keywords.jpg)
+
+Note that if your post isn’t targeting a ‘meaningful’ keyword with search traffic potential, it’s probably not the best candidate for republishing. For example, [our post](https://ahrefs.com/blog/fast-link-building/) about starting a link building campaign fast doesn’t target a specific keyword, so we wouldn’t republish that post to get more traffic from search engines.
+
+### B. Make sure it’s not a new page
+
+There’s no point republishing posts that were published recently. It takes time for posts to attract [backlinks](https://ahrefs.com/blog/what-are-backlinks/) and for Google to understand where they deserve to rank.
+
+For that reason, we don’t usually republish posts unless they’re at least twelve months old.
+
+You can quickly check a post’s age by looking at the publish date.
+
+![7 guest blogging publish date](https://ahrefs.com/blog/wp-content/uploads/2020/08/7-guest-blogging-publish-date.jpg)
+
+It seems that our guest blogging guide was published over two years ago, so this one is ripe for an update.
+
+### C. Rule out backlink factors
+
+Content isn’t always the reason your posts aren’t ranking. It’s sometimes because those that outrank you have more high-quality backlinks and ‘link authority.’
+
+To check if that’s the case, search for your keyword in [Keywords Explorer](https://ahrefs.com/keywords-explorer), scroll to the SERP overview, then look at the Domain Ratings (DR) and URL Ratings (UR) of the sites and pages that outrank you.
+
+If we do this for “guest blogging,” we see a few lower-authority pages from lower-authority sites outranking us.
+
+![8 serp guest blogging](https://ahrefs.com/blog/wp-content/uploads/2020/08/8-serp-guest-blogging.png)
+
+That tells us this is probably a content issue. If we were to refresh and republish the post, it’s highly likely that we could rank at least one or two positions higher.
+
+However, if we do the same thing for the keyword, “[how to improve SEO](https://ahrefs.com/blog/how-to-improve-seo/),” we see the opposite. All the posts that outrank us have higher UR scores, indicating higher page-level authority. So, in this case, it’s probably a link authority issue, not a content issue.
+
+![9 serp how to improve seo](https://ahrefs.com/blog/wp-content/uploads/2020/08/9-serp-how-to-improve-seo.png)
+
+### D. Make sure it’s an ‘informational’ query
+
+Just because there are pages that outrank you with fewer backlinks, that doesn’t always mean there’s an opportunity to get more traffic by republishing your post. If product, category, or landing pages are outranking you, then maybe searchers aren’t looking for blog posts.
+
+For example, it’s clear from the titles and URLs that the pages outranking us for “guest blogging” are blog posts. That’s a good sign. It tells us that the type of content searchers want to see is blog posts.
+
+However, it’s an entirely different story for “website traffic.” All the pages that outrank us are landing pages with free tools.
+
+![10 serp website traffic](https://ahrefs.com/blog/wp-content/uploads/2020/08/10-serp-website-traffic.png)
+
+It’s unlikely that we could outrank them just by refreshing our content. Most people are looking for tools here, not blog posts.
+
+## Step 2. Refresh the content
+
+If you’ve found a post that could use a refresh, you can’t just update it any old way and expect more organic traffic. You need to take a systematic approach.
+
+Here are the steps:
+
+1.  [Make sure your post aligns with search intent](#refresh-content-1)
+2.  [Analyze the top-ranking pages](#refresh-content-2)
+3.  [Analyze your backlink profile](#refresh-content-3)
+
+### A. Make sure your post aligns with search intent
+
+[Search intent](https://ahrefs.com/blog/search-intent/) is the reason behind a searcher’s query. We already assessed this to an extent in the previous step when checking whether the pages outranking us were blog posts or something else.
+
+But search intent goes deeper than the type of content. You also need to make sure your post aligns with the desired content format and angle.
+
+#### Content format
+
+This is the format of the pages most people are looking for. Common formats include:
+
+*   How-tos
+*   Tutorials
+*   List posts
+*   Guides
+*   Opinion editorials
+*   Expanded definitions (i.e., what is / what are type posts)
+
+If we check the SERP overview for “guest blogging,” we see two main formats: expanded definitions and guides. Ours is neither of those, which is probably part of the reason it isn’t ranking.
+
+![11 guest blogging content types](https://ahrefs.com/blog/wp-content/uploads/2020/08/11-guest-blogging-content-types.png)
+
+#### Content angle
+
+This is the selling point of your post. It’s basically the hook as to why someone should click and who it’s for. Common angles include:
+
+*   Beginners’ guides
+*   Complete guides
+*   Top \[Number\] lists
+
+If we check the top results for “guest blogging,” they’re all aimed at beginners. Yet our post targets a more advanced audience with the angle of building links at scale.
+
+![12 content angle guest blogging](https://ahrefs.com/blog/wp-content/uploads/2020/08/12-content-angle-guest-blogging.jpg)
+
+That probably isn’t very appealing or helpful for a beginner and might be preventing us from ranking higher.
+
+Of course, as there are a couple of formats and angles we could go with here, you might be wondering which should we choose? Should we republish our post as a complete guide or expanded definition? (i.e., “what is guest blogging?”) In this case, the most logical choice would be the expanded definition. Why? Because these types of posts seem to be ranking with fewer links than complete guides.
+
+![13 expanded definition backlinks](https://ahrefs.com/blog/wp-content/uploads/2020/08/13-expanded-definition-backlinks.png)
+
+That indicates that the expanded definition format may be a better match for search intent.
+
+However, if we were republishing our post, we’d probably still go for a complete guide. That’s because this angle has more business value for us. It presents more opportunities for us to showcase our product and allow us to go deeper into the topic than an expanded definition.
+
+### B. Analyze the top-ranking pages
+
+Now that you’ve decided on a format and angle, the next step is to analyze the top-ranking pages to see what they’re doing right. This involves manually visiting relevant pages and looking for key points.
+
+If we were doing this for our post about guest blogging, we’d open a few of the top-ranking complete guides as that’s the angle we settled on in the last step.
+
+![14 guides to open](https://ahrefs.com/blog/wp-content/uploads/2020/08/14-guides-to-open.png)
+
+The good news is that there’s no need to read through every post word for word. You just need to get an understanding of the structure and key talking points. The easiest way to do this is to look at the heading tags for commonalities.
+
+![guest blogging 2](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201600%201082%22%3E%3C/svg%3E)
+
+To speed up this process, install Ahrefs’ [SEO toolbar](https://ahrefs.com/seo-toolbar) and check the on-page report. Amongst other things, this pulls the heading tags from the page into a neat list.
+
+![15 h tags ahrefs toolbar](https://ahrefs.com/blog/wp-content/uploads/2020/08/15-h-tags-ahrefs-toolbar.jpg)
+
+Sidenote.
+
+The on-page report is completely free. You can use this feature of the toolbar even if you’re not an Ahrefs customer. 
+
+If we do this for the three guest blogging guides and paste the lists for each into a spreadsheet, we see plenty of commonalities.
+
+![16 content similarities](https://ahrefs.com/blog/wp-content/uploads/2020/08/16-content-similarities.png)
+
+All three guides talk about finding guest blogging opportunities and preparing a pitch, and two of the three also talk about writing posts, tracking results, and determining goals. These are all things that would make sense to mention in our updated post.
+
+Another way to find key talking points is to run a content gap analysis. To do this, paste the URLs of a few relevant top-ranking pages into Ahrefs’ [Content Gap tool](https://ahrefs.com/content-gap). Leave the bottom field blank, then hit “Show keywords.”
+
+![17 content gap](https://ahrefs.com/blog/wp-content/uploads/2020/08/17-content-gap.jpg)
+
+You should then see the keywords that one or more of these pages rank for. Many of these will often be different ways of searching for the same thing, but there are often subtopics amongst them too. For example, we see keywords like “what is guest blogging” and “does guest blogging work” above. These would be useful sections to include in our post.
+
+![18 content gap results](https://ahrefs.com/blog/wp-content/uploads/2020/08/18-content-gap-results.png)
+
+### C. Analyze your backlink profile
+
+One of the mistakes people often make when republishing posts is to remove important link-worthy points. For that reason, before rewriting your post, it’s best to check its backlink profile to see how it earned its existing links.
+
+Here’s how to do that:
+
+Paste the URL into Ahrefs’ [Site Explorer](https://ahrefs.com/site-explorer), head to the **Backlinks** report, then skim for common link reasons in the “Anchor and Backlink” column.
+
+For example, it looks like a few people have linked to our guest blogging guide because of a statistic that mentions “20%.”
+
+![19 statistic](https://ahrefs.com/blog/wp-content/uploads/2020/08/19-statistic.jpg)
+
+To find out just how many others have linked to us because of this statistic, let’s filter the report for backlinks mentioning “20” in the anchor or surrounding text.
+
+![backlinks report include filter](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201083%20654%22%3E%3C/svg%3E)
+
+It looks like 66 unique pages are linking because of this statistic, so it’s probably worth keeping that mention in the republished post.
+
+There are two reasons this is a good idea:
+
+1.  It ensures that existing links stay contextually relevant.
+2.  It may help you earn more links to the post in the future.
+
+That said, there’s no reason to keep everything you find in the **Backlinks** report. Just keep it in the post if it’s still relevant, valuable, and makes contextual sense. For example, if a few people are linking because of an outdated statistic, it would make more sense to replace it with an updated one or remove it altogether.
+
+## Step 3. Republish the post
+
+Republishing your post is the easy part. Just log in to your site’s CMS (e.g., WordPress), navigate to the old post, then delete the old content and replace it with the new. Keep the URL as is, but make sure to update the title and [OG tags](https://ahrefs.com/blog/open-graph-meta-tags/) to reflect the new content.
+
+![update post wordpress](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201206%20693%22%3E%3C/svg%3E)
+
+Finally, change the publish date to the current date and hit update.
+
+If you have your site set up in [Google Search Console](https://search.google.com/search-console/about), it’s also worth requesting reindexing after republishing. To do this, paste the full URL of the post into Google Search Console’s URL Inspection tool and hit “Request reindexing” on the next screen.
+
+![search console reindexing](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201211%20494%22%3E%3C/svg%3E)
+
+Note that this step is entirely optional. Google will eventually recrawl and reindex the post regardless, but we’ve found that it tends to be faster when you request reindexing.
+
+## Final thoughts
+
+Republishing blog posts is a smart way to get more traffic to your posts. It’s been part of our blog growth strategy for a while, and we’re not planning to stop anytime soon.
+
+However, it’s worth noting that more search traffic isn’t the only reason to update or republish a post. You should also refresh posts to keep them updated and accurate.
+
+Still not ranking higher despite republishing? Read [this](https://ahrefs.com/blog/how-to-rank-higher-on-google/) or watch the video below.
+
+[https://www.youtube.com/watch?v=Rm1MbJneLSI](https://www.youtube.com/watch?v=Rm1MbJneLSI)
+
+Got questions? Ping me [on Twitter](https://twitter.com/joshuachardwick?lang=en).

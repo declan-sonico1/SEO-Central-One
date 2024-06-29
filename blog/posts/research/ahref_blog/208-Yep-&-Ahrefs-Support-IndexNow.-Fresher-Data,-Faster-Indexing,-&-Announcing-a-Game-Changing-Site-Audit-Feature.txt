@@ -1,0 +1,95 @@
+URL: https://ahrefs.com/blog/indexnow-yep-ahrefs/
+
+# Yep & Ahrefs Support IndexNow. Fresher Data, Faster Indexing, & Announcing a Game-Changing Site Audit Feature
+
+I’m thrilled to announce that Yep, our search engine, and Ahrefs will support IndexNow along with Microsoft Bing, Yandex, Naver, & Seznam.cz.
+
+This puts us in a unique position. Not only are we an SEO tool who will be submitting data to IndexNow, we’re also a search engine and the first and only SEO tool that will be receiving data from IndexNow.
+
+Ahrefs is giving users a reason to use IndexNow besides faster crawling and indexing in search engines. We’ll be finding and alerting you to issues on your site faster than you ever thought possible. Keep reading to find out what we have planned.
+
+## What is IndexNow & what does it mean for Ahrefs users?
+
+[IndexNow](https://www.indexnow.org/) is a protocol that pings search engines when any changes are made to your website. If you add, update, remove, or redirect pages, participating search engines can pick up on the changes faster.
+
+> Instead of relying on periodic crawls or sitemaps, which can be slow or incomplete, IndexNow enables web publishers to send HTTP requests containing the URL or set of URLs they want to index or update.
+> 
+> The requests are sent directly to one of the IndexNow endpoints of participating search engines, which can then process them and reflect the changes in their indexes. Each search engine notifies other IndexNow search engines for each IndexNow notification.
+> 
+> ![Fabrice Canel](https://ahrefs.com/blog/wp-content/uploads/2024/02/fabrice-canel.jpeg)
+
+As Fabrice said, when one search partner is pinged, all the information is shared with the other partners. [Yep](https://yep.com/) & Ahrefs will have a fresher index of the web. Here’s how it works:
+
+![When websites ping IndexNow, the data gets shared with other search engines.](https://ahrefs.com/blog/wp-content/uploads/2024/03/1-indexnowyep.png)
+
+As of October 2023, there were [over 60 million websites](https://blogs.bing.com/webmaster/october-2023/IndexNow-Celebrating-two-years-of-growth) pinging 1.4 billion URLs a day to IndexNow. In March 2024 this number is now 2.5 billion URLs per day. This includes websites on Cloudflare, WordPress, Wix, Duda, and more. If you’re not already using it, ask your CMS about implementing IndexNow natively or check for a plugin that adds support.
+
+Botify, OnCrawl, ContentKing, and a few other SEO tools also ping IndexNow when they crawl and see changes on websites. This helps their clients’ pages be indexed and updated in search engines faster.
+
+We’ll also be pinging IndexNow with any changes we see in Ahrefs’ Site Audit. We currently crawl more pages than other cloud-based site audit tools at approximately 600-700 million pages per day, so we’ll be feeding a lot of information into IndexNow.
+
+Unlike the other SEO tools, we’ll also be receiving the data that’s submitted. This opened up some interesting capabilities for us and some nice features for you!
+
+Here’s a sneak peak at what we have planned.
+
+We’ve been hard at work building a constant crawl option for Site Audit. The idea is to switch from scheduled crawls, which users tend to schedule weekly or monthly, to a prioritized crawling system that’s always on and notifies users of issues faster.
+
+IndexNow is allowing us to add a real-time option, and at the same time we will be able to save resources for our users and ourselves. I’ll go into more details on the resources saved in a bit.
+
+For sites using IndexNow and the new real-time option in Site Audit, we’ll be able to notify users of issues shortly after they make updates to their pages. This is how that will look:
+
+![How Ahrefs' real-time site audit will work with IndexNow](https://ahrefs.com/blog/wp-content/uploads/2024/02/how-ahrefs-real-time-site-audit-will-work-with-in.png)
+
+I can’t think of a system that would be better than this. An actual real-time monitoring and alerting system. It’s a dream come true.
+
+We already have the best link data of any SEO tool, but IndexNow will mean we see changes even faster and have fresher data than we’ve ever had before. It will also make our Page Inspect tool even more useful. We’ll be able to see any website changes faster and always have copies of any changes that were made.
+
+## IndexNow saves resources
+
+IndexNow is good for website owners, it’s good for us, and it’s good for the planet. It will reduce the load on websites and save energy and resources.
+
+Bots make up a good chunk of web traffic, ~30% of overall traffic according to [Cloudflare Radar](https://radar.cloudflare.com/traffic). A lot of that traffic belongs to bad bots, but good bots like search engine crawlers still make up ~5% of global internet traffic.
+
+![Cloudflare Radar shows that bots make up ~30% of global web traffic.](https://ahrefs.com/blog/wp-content/uploads/2024/02/cloudflare-radar-shows-that-bots-make-up-30-of-g.png)
+
+Cloudflare has a verified list of good bots. You’ll notice a lot of the top bots are search engine crawlers, and Ahrefs of course.
+
+![Cloudflare good bots list shows AhrefsBot at number 6](https://ahrefs.com/blog/wp-content/uploads/2024/02/cloudflare-good-bots-list-shows-ahrefsbot-at-numbe.png)
+
+It’s estimated that [53% of crawler traffic is wasted effort](https://blog.cloudflare.com/crawler-hints-how-cloudflare-is-reducing-the-environmental-impact-of-web-searches/). This is due to what are called exploratory crawls. Bots crawl pages for two main purposes. They want to discover new pages, and refresh existing pages. Before IndexNow, there wasn’t a direct mechanism to tell crawlers about changes to your site.
+
+Have you ever made a change to a page and feel like it takes forever to be picked up by search engines or SEO tools? That’s because bots are basically guessing when a page should be re-crawled. This is how it currently works:
+
+![Bots guess when to re-crawl a page to see if changes have been made](https://ahrefs.com/blog/wp-content/uploads/2024/02/bots-guess-when-to-re-crawl-a-page-to-see-if-chang.png)
+
+From [Cloudflare](https://blog.cloudflare.com/crawler-hints-how-cloudflare-is-reducing-the-environmental-impact-of-web-searches/):
+
+> The Boston Consulting Group estimates that running the Internet generated 2% of all carbon output, or about 1 billion metric tonnes per year. If 5% of all Internet traffic is good bots, and 53% of that traffic is wasted by excessive crawl, then finding a solution to reduce excessive crawl could help save as much as 26 million tonnes of carbon cost per year. According to the U.S. Environmental Protection Agency, that’s the equivalent of planting 31 million acres of forest, shutting down 6 coal-fired power plants forever, or taking 5.5 million passenger vehicles off the road.
+
+That’s a crazy amount of wasted resources! If all sites adopted IndexNow, it would save so many resources. Please start using it if you aren’t already. Ask your CMS, ask your CDN, ask your web host!
+
+With IndexNow, this is how it works:
+
+![How crawling works with IndexNow to update the index](https://ahrefs.com/blog/wp-content/uploads/2024/02/how-crawling-works-with-indexnow-to-update-the-ind.png)
+
+Pages won’t be crawled again until the next time changes are made, or at least that is the ultimate goal. There will likely still be some exploratory re-crawling to make sure everything is working as intended and we’re getting the updates of all changes.
+
+## I view IndexNow as a better version of sitemaps
+
+Indexing APIs where you notify search engines of changes make a ton of sense. I remember I pitched them as the successor to [sitemaps](https://ahrefs.com/seo/glossary/sitemap) at a local meetup around 5 years ago. You don’t have to guess when pages are updated if websites tell you when they were updated.
+
+Here’s how IndexNow is better than sitemaps:
+
+1.  **It’s faster**. Search engines will typically check sitemaps every few days to every few weeks. A ping in IndexNow takes just seconds for the info to go through.
+2.  **It supports more than live pages**. With sitemaps, you’re only supposed to include live pages with [status code 200](https://ahrefs.com/blog/http-status-codes/). With IndexNow, you can ping 404 / 410 or redirected pages as well.
+3.  **It protects more of your data**. You might not know this, but many major sites hide their sitemaps because it provides competitive intelligence to competing companies. You might have heard of the SEO heist where the SEO used generative AI to re-create all the pages found in the sitemap of a competitor. With IndexNow, there’s nothing to copy. No roadmap to your content.
+4.  **<lastmod> in sitemaps is unreliable**. These are used as a hint when crawling because they can’t always be trusted. Sometimes there is no <lastmod>, sometimes it’s set as the creation date of the sitemap, or at the page build time. Only some sites update this when content is updated.
+5.  **Broader distribution**. Not everyone includes their sitemaps in their [robots.txt file](https://ahrefs.com/blog/robots-txt/), and while they may upload their sitemaps to one search engine, it’s unlikely they’ve uploaded it to all search engines. With IndexNow, any updates are submitted to multiple search engines.
+
+## Final thoughts
+
+Adopt IndexNow. Ask your CDNs, ask your CMSs, ask your web hosts, ask everyone to implement it if they haven’t. If anyone knows anyone who can help push this into WordPress Core, reach out to me, I’d be grateful. If any Googlers are reading this, this is a nudge for you as well.
+
+I’m excited to see what advancements IndexNow brings to SEO testing. Imagine being able to get near real-time feedback on the impact of your changes. You’ll be able to see what works faster and iterate on improvements. SEO is going to get even more interesting!
+
+If you have questions, message me on [X](https://twitter.com/patrickstox) or [LinkedIn](https://www.linkedin.com/in/patrickstox/).

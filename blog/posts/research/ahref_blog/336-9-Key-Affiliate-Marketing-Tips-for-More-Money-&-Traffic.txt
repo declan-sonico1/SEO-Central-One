@@ -1,0 +1,167 @@
+URL: https://ahrefs.com/blog/affiliate-marketing-tips/
+
+# 9 Key Affiliate Marketing Tips for More Money & Traffic
+
+Are you an affiliate marketer who wants to earn more money? Then read on—the following nine affiliate marketing tips were learned over my decade of experience creating and growing six-figure affiliate websites.
+
+[Affiliate marketing](https://ahrefs.com/blog/affiliate-marketing/) is one of the best ways to earn passive income online. But it requires constant learning to keep up with the competition.
+
+Here are my best tips for affiliate marketing to increase your traffic and, ultimately, your income:
+
+New to affiliate marketing?
+
+## 1\. Learn SEO
+
+[Search engine optimization (SEO)](https://ahrefs.com/seo) is the single most valuable skill I’ve ever learned as an affiliate marketer. Being able to get your content to show up in Google search results provides recurring, free, and high-quality traffic—which is exactly what you need to make more money.
+
+To prove my point, here’s a screenshot showing my Google Analytics traffic breakdown, with nearly 90% of my traffic coming from Google over the last month:
+
+![Google Analytics organic search traffic](https://ahrefs.com/blog/wp-content/uploads/2022/09/1-google-analytics-organic-traffic.jpg)
+
+SEO can be broken down into three main areas:
+
+1.  [On-page SEO](https://ahrefs.com/blog/on-page-seo/)
+2.  [Link building](https://ahrefs.com/blog/link-building/)
+3.  [Technical SEO](https://ahrefs.com/blog/technical-seo/)
+
+On-page SEO involves things like:
+
+*   Placing your target keyword in your title and URL.
+*   [Optimizing for featured snippets](https://ahrefs.com/blog/featured-snippets/).
+*   Signaling [E-A-T](https://ahrefs.com/blog/eat-seo/) (expertise, authoritativeness, and trustworthiness).
+*   And more.
+
+But optimized content targeting the right keywords isn’t enough to rank. One of the most important [Google ranking factors](https://ahrefs.com/blog/google-ranking-factors/) is backlinks from other websites pointing to your website. These links tell Google that your website is a trusted authority on the internet.
+
+There are many ways to build backlinks to your content. They often involve [email outreach](https://ahrefs.com/blog/email-outreach/) to other website owners, so you should get comfortable writing emails.
+
+Lastly, you’ll need to learn some basic technical SEO. Don’t worry—it’s not as hard as it sounds. You don’t need to know how to code or anything like that. These days, there are [WordPress plugins](https://ahrefs.com/blog/best-seo-plugins-for-wordpress/), such as Yoast SEO or Rank Math, for virtually any SEO task you need to do.
+
+In fact, Ahrefs has a [free SEO WordPress plugin](https://ahrefs.com/wordpress-seo-plugin) to help you audit the content on your website, monitor your backlinks, and see how much organic traffic your pages are getting.
+
+![Ahrefs' SEO WordPress plugin](https://ahrefs.com/blog/wp-content/uploads/2022/09/2-ahrefs-wordpress-seo-plugin.jpeg)
+
+In conclusion, learn SEO and you will get more traffic and make more money.
+
+## 2\. Start with keyword research
+
+[Keyword research](https://ahrefs.com/blog/keyword-research/) is arguably the most crucial skill you need to learn. You have to know what keywords people are typing into Google to find information about your affiliate products and how you can create content that matches the [search intent](https://ahrefs.com/blog/search-intent/) of those keywords.
+
+You can use [Ahrefs’ free keyword generator tool](https://ahrefs.com/keyword-generator) to come up with keyword ideas. Just type in a broad keyword related to your niche, and you’ll get back a list of related keywords:
+
+![Ahrefs' free keyword generator tool](https://ahrefs.com/blog/wp-content/uploads/2022/09/3-ahrefs-free-keyword-generator-tool.jpg)
+
+I never write a blog post without a target keyword for SEO. In fact, I always recommend focusing on [creating content hubs](https://ahrefs.com/blog/content-hub/) in order to fully cover a topic—and help improve your chances of ranking highly on Google.
+
+## 3\. Branch out from Amazon
+
+[Amazon Associates](https://affiliate-program.amazon.com/home) is usually the first affiliate program every affiliate marketer starts with. It’s great because Amazon has products in almost every niche imaginable… but its commission percentages are abysmal.
+
+At ~3% commission, you’ll need to sell approximately $3,333,333 to make a six-figure income. You read that right—over $3 million just to make $100K. Ouch.
+
+Starting with Amazon is fine. But once you figure out which products are making you the most money, it’s a good idea to go directly to the manufacturer or another retailer that will offer you a higher commission on those products.
+
+You can see what products are bringing you the most income by going to [your Amazon reporting dashboard](https://affiliate-program.amazon.com/home/reports), clicking on the “Earnings” tab, and sorting it by “Revenue.”
+
+![Amazon Associates Earnings report](https://ahrefs.com/blog/wp-content/uploads/2022/09/4-amazon-revenue-reporting.jpg)
+
+From there, you have to do some detective work to find another affiliate to promote that sells the same or similar products. It takes some Google searching and phone calls to find the best deals. But it’s worth it, as long as you’re making a significantly higher commission.
+
+Keep in mind that you’ll probably need to make at least double the commission to make it worth switching. In fact, **I aim for a minimum of 8% commission to make the switch.** 
+
+This is because Amazon’s 24-hour cookie policy means you earn on _anything_ someone buys within 24 hours of clicking on your link, even if it’s not the product you initially recommended. Additionally, Amazon has spent billions perfecting its conversion rate and brand reputation. So if you link elsewhere, you will almost certainly have a lower conversion rate.
+
+It’s a good idea to test other affiliates before you fully switch over. Change out a few links and monitor how they affect your income for at least a month. If it’s higher, change more links. If it’s lower, change it back and look for a different partner with a better website or a higher commission rate.
+
+## 4\. Negotiate with your affiliate partners often
+
+Speaking of higher commission rates. Never be afraid to ask your affiliate partners for a higher rate. Chances are, if you’ve been sending them sales, they’ll be happy to work with you.
+
+I suggest picking up the phone and building a real reputation with your partners. A video call is even better. Tell them that with the higher commission, you can spend more money on content to promote them and send them even more sales.
+
+In fact, you should make it a habit of discussing this with your partners once a quarter or, at the very least, once a year.
+
+This won’t work with giant brands like Amazon or Walmart, but it does work with most companies that aren’t giant corporations.
+
+## 5\. Diversify your income
+
+Don’t rely solely on one affiliate partner. 
+
+Amazon can change its affiliate terms at any time, like it did back in 2020 when it [lowered the commission rates](https://empireflippers.com/amazon-commission-changes-end-era-opportunity/) of most categories. Worse still, most of the other corporations tend to follow Amazon’s lead and change their commissions shortly after.
+
+But beyond expanding to work with multiple partners, you should also consider other income methods entirely. Display ads, drop shipping your own products, or making an online course are all great options to avoid keeping all your eggs in one basket.
+
+## 6\. Focus on email capture
+
+Speaking of sudden changes, even SEO has its limitations. Google, like Amazon, can change things at a moment’s notice that massively impact your business.
+
+I would know—I’ve been affected by a Google update to the tune of a 60% income drop almost overnight. It’s not a fun feeling.
+
+That’s why it’s important to focus on capturing your readers’ emails. Email is the one channel you can own that isn’t impacted by any company changing its policies.
+
+If you have an email list, you can reach out to that list any time you want—as long as you aren’t spamming.
+
+Luckily, email marketing goes hand in hand with SEO. You can create content upgrades on the pages already ranking on Google to turn visitors into subscribers.
+
+For example, I created a comparison sheet of 50 different small campers as an email opt-in for one of my guides to the best small campers.
+
+![Content upgrade example](https://ahrefs.com/blog/wp-content/uploads/2022/09/5-content-upgrade-example.jpg)
+
+You can create your own content upgrades with an email tool like ConvertKit or Mailchimp. Just come up with something that improves upon the content you wrote, such as a mini ebook, video series, spreadsheet, printable PDF, etc.
+
+## 7\. Do more than your competition
+
+Right now, if you look at the SERPs for highly competitive affiliate keywords, you’ll notice a trend: **Everyone is copying each other.**
+
+Most people are writing the same stuff about the same “10 best” products. They’re using generic Amazon product images and aren’t actually purchasing and using the products themselves.
+
+This is good news for you because it means with just a little extra effort, you can stand out from the competition and steal their rankings. If you want to make more money, consider:
+
+*   Buying the product and actually using it.
+*   Taking your own high-quality product photos. 
+*   Shooting a video review of the product.
+*   Diving deeper into the research using forums like Reddit and getting real users’ opinions.
+
+These extra steps may take you more time but will ultimately put you ahead of the crowd.
+
+## 8\. Keep your data organized
+
+This is a tip I wish someone had told me when I first started out in affiliate marketing. Organization is crucial as your website grows and you have multiple affiliate partners and hundreds or even thousands of blog posts.
+
+This can be as simple as keeping a spreadsheet with:
+
+*   A list of all the content you have published on your website, along with the publish dates, meta tags, and affiliate links used.
+*   A list of all your affiliate partners and their respective login URLs and commission percentages.
+*   A few [standard operating procedures](https://ahrefs.com/blog/seo-sops/) documenting how you write, upload, and publish your content.
+
+For example, here’s what one of my spreadsheets looks like:
+
+![Content organization spreadsheet](https://ahrefs.com/blog/wp-content/uploads/2022/09/6-content-organization-spreadsheet.jpg)
+
+I like to include basic data about each page, such as the keyword it’s targeting, the content hub it’s a part of, and what keywords it’s ranking for—which I pull from Ahrefs’ [Site Explorer](https://ahrefs.com/site-explorer).
+
+Just head to the **Organic keywords** tab and click **Export** in the top right to download a sheet with all of your rankings data.
+
+![Organic keywords report, via Ahrefs' Site Explorer](https://ahrefs.com/blog/wp-content/uploads/2022/09/7-ahrefs-organic-keywords-report.jpg)
+
+From there, you can upload the sheet into a Google Sheet and customize it to fit your particular needs and style.
+
+## 9\. Create more content and keep it updated
+
+Last but not least, as an affiliate marketer, you need to both create MORE content and focus on keeping that content up to date as your website ages.
+
+You can’t expect to only create a few dozen articles and turn your website into a six-figure earner. It takes hundreds—sometimes thousands—of articles to reach that point.
+
+And it often takes years to produce that much content. 
+
+If you’ve been creating content for years, it’s equally as important to [refresh your old content](https://ahrefs.com/blog/content-refresh/) to keep it relevant and to improve (or at least keep) your first-page Google rankings.
+
+## Final thoughts
+
+As an affiliate marketer, it’s important to continually learn and hone your craft. The tips outlined above were learned over a decade, and I’m still learning new things every day.
+
+Here are some other guides with more affiliate marketing tips and tricks to help you continue learning:
+
+*   [How to Start Affiliate Marketing With No Money](https://ahrefs.com/blog/start-affiliate-marketing-with-no-money/)
+*   [How to Do Keyword Research for Affiliate Sites](https://ahrefs.com/blog/affiliate-keyword-research/)
+*   [How to Build a Successful Amazon Affiliate Site (Step by Step)](https://ahrefs.com/blog/amazon-affiliate-marketing/)

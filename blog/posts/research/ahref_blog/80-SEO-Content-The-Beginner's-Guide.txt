@@ -1,0 +1,236 @@
+URL: https://ahrefs.com/blog/seo-content/
+
+# SEO Content: The Beginner's Guide
+
+### What is SEO content?
+
+SEO content is content designed to rank in search engines. It could be a blog post, product or landing page, interactive tool, or something else.
+
+### Why is SEO content important?
+
+Not all content ranks and gets traffic from organic search. Only content crafted for searchers about topics they’re searching for does (unless you get lucky).
+
+Crafting SEO content is about giving searchers what they want and making it “sticky.” If you can share unique insights and expertise on top of that, even better. Let’s go through the process in more detail.
+
+### 1\. Choose a proven topic
+
+You should already have a proven topic if you’ve done keyword research. This is something with traffic potential, business potential, and ranking potential:
+
+*   **Traffic potential**: can generate enough visits to make the effort of creating content worthwhile.
+*   **Business potential**: allows you to naturally mention your product or service
+*   **Ranking potential**: it’s possible for your website to rank for the target keyword.
+
+Here’s a proven topic for a baking supplies store:
+
+![Example of a proven topic with traffic, business and ranking potential](https://ahrefs.com/blog/wp-content/uploads/2022/09/1-proven-topic-keywords-explorer.png)
+
+It has good business and traffic potential and looks easy to rank for based on its Keyword Difficulty (KD) score.
+
+To find it, we:
+
+1.  Plugged the seed keyword “bakery” into Ahrefs’ [Keywords Explorer](https://ahrefs.com/keywords-explorer)
+2.  Checked the **Matching Terms** report.
+3.  Filtered for keywords with good traffic potential and low KD
+
+![Finding low-difficulty topics in Keywords Explorer](https://ahrefs.com/blog/wp-content/uploads/2022/09/2-how-to-find-proven-topics.png)
+
+DID YOU KNOW?
+
+Keyword Difficulty (KD) scores in Ahrefs are based on the number of backlinks to the top-ranking pages. It’s a helpful way to refine lists of keywords. Still, it’s always worth investigating ranking difficulty further before pursuing a topic. Learn more in [our Keyword Difficulty guide](https://ahrefs.com/blog/keyword-difficulty/).
+
+Finally, we checked the top-ranking pages and their stats in the SERP overview. As many have few or no backlinks and are from unknown brands, it seems quite a promising keyword.
+
+![SERP analysis for "paper bakery cups"](https://ahrefs.com/blog/wp-content/uploads/2022/09/3-serp-analysis.png)
+
+### 2\. Analyze search intent
+
+Understanding search intent means figuring out what the searcher is looking for. You need to do this because your chances of ranking are slim if your content doesn’t align with it.
+
+Here’s what happened to one of our blog posts after we did a better job of matching the searcher’s intent:    
+
+![](https://ahrefs.com/blog/wp-content/uploads/2024/03/word-image-173567-1.png)
+
+A keyword like _“how to make espresso at home without a machine”_ makes it easy to guess the intent behind the search. The information is right there, in the keyword: searchers want to learn how to make great coffee, at home, without an espresso machine.
+
+But the intent behind _“espresso”_ is harder to infer from the keyword alone:
+
+*   Does the searcher want to buy coffee?
+*   Do they want a simple definition or a detailed process for making it?
+*   Should we write about expensive espresso machines or DIY alternatives like a mocha pot?
+
+This information isn’t in the keyword, but it is in the search results. If an article is ranking well for a particular keyword, it’s probably giving searchers what they want. The existing search results can provide a roadmap to help you understand and match intent.
+
+![](https://ahrefs.com/blog/wp-content/uploads/2024/03/word-image-173567-2.png)
+
+Most of the top results for “espresso” focus on definitions and simple explainers.
+
+To identify search intent, look at the top-ranking results on Google and identify the three Cs of search intent:
+
+*   **Content type**: what is the dominant type of content? Is it a blog post, product page, video, or something else?
+*   **Content format**: are all the top results how-to guides? Or lists, or reviews, or comparisons?
+*   **Content angle**: what approach do the top-ranking articles take? Do they all talk about the “best”, or “cheapest,” or “for beginners”?
+
+For example, the top results for “neapolitan pizza dough” are all recipe blog posts. And authenticity is the dominant angle.
+
+![A SERP analysis of "neapolitan pizza dough" shows that authenticity is the dominant content angle](https://ahrefs.com/blog/wp-content/uploads/2022/09/4-serp-analysis-angle.png)
+
+In most situations, your content should take a similar approach to the content that already ranks well (similar, but not identical—more on that below). Once you’re happy that you’re giving searchers what they want, it’s time for the nitty-gritty of on-page SEO.
+
+TIP
+
+Some search results can contain several different types of intent (the SERP for “kiwi” includes the bird, the fruit, the airline company, and the Harry Styles song).
+
+If you want to use data to help you determine which intent to target, try the “Identify intents” feature in Ahrefs.
+
+Head to **Keywords explorer**, enter your keyword, scroll to the **SERP overview** and hit the **Identify intents** button:
+
+![](https://ahrefs.com/blog/wp-content/uploads/2024/03/word-image-173567-3.png)
+
+Here you can see that an estimated 49% of the traffic goes to basic information about kiwi fruits. But there’s another angle that might be worth taking: 19% of the estimated traffic cares specifically about the _health benefits_ of eating Kiwi fruit.
+
+Learn more in our guide to search intent: [Search Intent in SEO: What It Is & How to Optimize for It](https://ahrefs.com/blog/search-intent/).
+
+### 3\. Check your expertise
+
+Today more than ever, Google values content that shows first-person experience of the subject matter. Here’s what they said in a recent update to their [quality rater guidelines](https://developers.google.com/search/blog/2022/12/google-raters-guidelines-e-e-a-t):
+
+> _“Does content also demonstrate that it was produced with some degree of experience, such as with actual use of a product, having actually visited a place or communicating what a person experienced? There are some situations where really what you value most is content produced by someone who has first-hand, life experience on the topic at hand.”_
+
+[Google uses signals](https://www.google.com/search/howsearchworks/how-search-works/ranking-results/) that help determine content that demonstrates expertise. This is especially important for topics that could impact a reader’s happiness, health, or wealth. Google calls these Your Money or Your Life (YMYL) topics.
+
+As [Google explains](https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf):
+
+*   **Non-YMYL topics.** “Everyday expertise” is enough. If the writer has the type and amount of life experience to make them an expert on the topic, you’re good.
+*   **YMYL topics.** Formal expertise is important, but “everyday expertise” is enough for some topics. For example, someone with cancer can answer “what is it like to have cancer” better than a doctor.
+
+The easiest way to demonstrate first-person experience is to write about subjects you know well. For example, [Chris from our blog team](https://ahrefs.com/blog/author/chris-haines/) has years of experience running SEO at agencies at in-house companies, so he can write authoritatively on a topic like [A Beginner’s Guide to SEO Reporting](https://ahrefs.com/blog/seo-reporting/).
+
+![](https://ahrefs.com/blog/wp-content/uploads/2024/06/seo-content-expertise.jpg)
+
+Use the flowchart below to decide if and how to cover a topic.
+
+![How to decide whether to cover a topic for SEO purposes](https://ahrefs.com/blog/wp-content/uploads/2022/09/seo-topic-decision-chart.png)
+
+There are on-page elements that can help too:
+
+*   **Include expert quotes.** When your expertise isn’t enough to be authoritative on the subject, seek out quotes and feedback from people who _are_ experts (especially in fields that require specific certifications and qualifications, like healthcare or accountancy).
+*   **Get hands-on with your topic.** If you’re writing about brewing espresso, actually go and brew a few hundred shots. Reviewing free CRM software? Download, install, and spend a few hours with each option. If you aren’t willing to go to these lengths, there’s a good chance you’ll be beaten by someone who will.
+*   **Show evidence.** Prove to readers (and Google) that you did the thing you’re talking about: add experience to your author bio, and include photographs and videos of your experience.
+
+### 4\. Cover the topic in full
+
+If you’ve got expertise covered, it’s time to create the type of content searchers want to see. Analyzing search intent gives you a high-level idea of this, but it doesn’t reveal all. That’s a problem because the best result for a query covers everything searchers want to know.
+
+If a reader clicks on an article titled _How to brew perfect espresso_, it’s likely they’ll feel frustrated if the article misses out important steps, like _grinding beans_ or _dosing your basket_.
+
+Good search content is _exhaustive_: it covers all the steps of the process, lists all the resources the reader needs, and answers all the questions that need answering. It delivers on its promises and leaves no important gaps in its information.
+
+Exhaustive content is great for readers, but it also increases the likelihood that your article will rank for more keywords. In the image below, we can see an article called _How to brew espresso_ ranking for 712 keywords, including terms like _how to make espresso at home_ and _espresso shot:_
+
+![](https://ahrefs.com/blog/wp-content/uploads/2024/03/word-image-173567-4.png)
+
+Importantly, being _exhaustive_ doesn’t always mean _writing something very long._ Content can be thorough, helpful, and short—it depends on the topic. If the reader is looking for a quick definition or—dare I say it—a recipe, thousands of words of writing can sometimes get in the way.
+
+An important part of being exhaustive is covering relevant sub-topics. Keyword research can be a big help here: in Ahrefs, head to **Keywords explorer**, enter your target keyword, and you can quickly find hundreds of related keywords to consider covering, including:
+
+*   **Terms match:** keywords that contain all of the terms of your target keyword (“how to make espresso martini”).
+*   **Questions:** relevant keywords phrased as questions (“how to make espresso at home”)
+*   **Also rank for:** keywords that the top 10 ranking pages also rank for (“what is espresso”)
+*   **Also talk about:** keywords frequently mention by top-ranking articles (“coffee maker”)
+
+You can also read the top-ranking content for inspiration, like this section on _moka pot espresso_:
+
+![](https://ahrefs.com/blog/wp-content/uploads/2024/03/word-image-173567-5.png)
+
+Or you can use **Site explorer** to look at the different keywords each article already ranks for. From this selection, it might be worth covering _how to make espresso without an espresso machine_:
+
+![](https://ahrefs.com/blog/wp-content/uploads/2024/03/word-image-173567-6.png)
+
+You can run this process for multiple articles using the **Content Gap** report. In the screenshot below, I’m comparing our article (highlighted) with three competing articles:
+
+![](https://ahrefs.com/blog/wp-content/uploads/2024/03/word-image-173567-7.png)
+
+Hit “Show keywords” and you can immediately see keywords that you don’t rank for, but your competitors do. In this example, we should probably add a section talking about the type of coffee that works best in espresso machines:
+
+![](https://ahrefs.com/blog/wp-content/uploads/2024/03/word-image-173567-8.png)
+
+And perhaps most important of all: **use your common sense**.
+
+If you know from experience that a particular subtopic is crucial to mention, but can’t see any keywords or existing articles to justify it, go ahead and add it anyway. Information that helps the reader is information that helps search rankings.
+
+A NOTE ON ON-PAGE OPTIMIZATION TOOLS
+
+On-page SEO tools can be helpful for identifying sub-topics—with one important caveat.
+
+If you take all of their recommendations at face value, it’s very easy to create content that’s a nonsensical mish-mash of everyone else’s content, or worse—horribly and obviously keyword-stuffed.
+
+I like to use on-page optimization tools as an extra source of possible topics to include in my content outline. If my article is exhaustive, I don’t worry about whether it scores a B- or an A+.
+
+Learn why here: [Do Higher Content Scores Mean Higher Google Rankings? Our Data Says It’s Unlikely.](https://ahrefs.com/blog/seo-content-score-study/)
+
+### 5\. Make it unique
+
+If you base the entirety of your content on top-ranking pages, you’ll end up with copycat content. This content fails to stand out from the crowd or offer anything unique.
+
+![How SEO tools can lead to copycat content](https://ahrefs.com/blog/wp-content/uploads/2022/09/seo-tools-input-output.png)
+
+Copycat content is a problem for SEO because people have no incentive to link to it. And links are important because they’re a ranking factor.
+
+Whatever you want to call it—[information gain](https://www.animalz.co/blog/information-gain/), uniqueness, value-add—the answer is straightforward: offer something that can’t be found anywhere else:
+
+*   **Cover subtopics no one else has covered**: “The most overlooked factor in great espresso…”
+*   **Share an expert opinion or personal experience**: “Machine espresso is overrated because…”
+*   **Run an experiment**: “I brewed all my coffee with an Aeropress for a month…”
+*   **Provide original data through polls, surveys, and studies**: “I surveyed twenty baristas and found…”
+*   **Interview subject matter experts**: “I spoke to a World Brewer’s Cup champion…”
+
+If you use the **Best by links** report in Ahrefs’ [Site Explorer](https://ahrefs.com/site-explorer) to see our most linked blog posts, most of them are studies. This shows just how effective original research can be for earning backlinks in our industry.
+
+![Many of our most linked blog posts are research studies](https://ahrefs.com/blog/wp-content/uploads/2022/09/7-best-by-links.png)
+
+Another tip is to look at why people link to top-ranking pages.
+
+For example, we found links to a competing page about SEO copywriting thanks to a formula coined by the author. So we created our own called the ASMR formula for our post. It’s already earned us a few links.
+
+![Anchors related to ASMR for our SEO copywriting guide, via the Anchors report in Ahrefs' Site Explorer](https://ahrefs.com/blog/wp-content/uploads/2022/09/8-anchors-asmr.png)
+
+### 6\. Make it “sticky”
+
+People aren’t going to stick around for something they find confusing or hard to read. That’s bad because Google uses interaction data to assess relevance. If searchers abandon your content like the Titanic, that’s unlikely to help SEO.
+
+Here are a few tips for making content more “sticky”:
+
+*   **Keep it simple.** Avoid complex words and sentences.
+*   **Make it visual.** Break up walls of text with images and videos.
+*   **Speak your audience’s language.** Use terms and jargon that resonate with readers.
+*   **Boss your spelling.** Run a spell check; it makes all the difference.
+
+Tools like [Hemmingway](https://hemingwayapp.com/) and [Grammarly](https://www.grammarly.com/) can help with simplification and spell checks. If you’re curious what kind of language and terms your audience might use, try this:
+
+1.  Enter your keyword into Ahrefs’ [Keywords Explorer](https://ahrefs.com/keywords-explorer)
+2.  Go to the **Related terms** report
+3.  Click the “Also talk about” toggle
+
+![Terms related to "brain surgery" via Ahrefs' Keywords Explorer](https://ahrefs.com/blog/wp-content/uploads/2022/09/9-also-talk-about.png)
+
+### 7\. Keep it evergreen
+
+Content doesn’t stay fresh forever. That’s an issue if you’re targeting a fast-moving topic. It means you’ll have to work to keep your content updated to keep Google and searchers happy.
+
+For example, the estimated traffic trend for our list of top Google searches goes up and down.
+
+![Estimated organic search traffic to out list of top Google searches over time](https://ahrefs.com/blog/wp-content/uploads/2022/09/10-organic-search-traffic-estimate.png)
+
+This happens because the topic demands fresh content. Searchers don’t want a list of the top Google searches from yesteryear; they want something up to date. Each dip happened when our content became stale, and each rise happened when we updated the page.
+
+If you’re a WordPress user, you can keep an eye on declining rankings with [our free WordPress SEO plugin](https://ahrefs.com/seo-toolbar). Just set a target keyword for each page, and it’ll tell you if rankings start to tank. You can then investigate whether this is because the content needs refreshing.
+
+![No longer well-performing pages via our WordPress SEO plugin](https://ahrefs.com/blog/wp-content/uploads/2022/09/11-wordpress-plugin.png)
+
+![Advanced learning](https://ahrefs.com/blog/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)
+
+## Key takeaways
+
+*   SEO content is content designed to rank in search engines like Google.
+*   It’s all about giving searchers what they want, bringing new information to the discussion, and making it as “sticky” as possible.
+*   Unless you do this, your content probably won’t rank.

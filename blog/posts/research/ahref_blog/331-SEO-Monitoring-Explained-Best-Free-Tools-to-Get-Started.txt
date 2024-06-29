@@ -1,0 +1,163 @@
+URL: https://ahrefs.com/blog/seo-monitoring/
+
+# SEO Monitoring Explained: Best Free Tools to Get Started
+
+SEO monitoring is about regularly checking your SEO performance and making sure your website is free from major technical issues.
+
+Monitoring key aspects of SEO is important because it allows you to react to things that can impact your visibility in search engines, such as declining keyword rankings. 
+
+This article will help you understand what’s worth monitoring on your site regularly and how to do it using only free tools.
+
+## The only two free tools you need 
+
+The tools you will need are [Google Search Console (GSC)](https://search.google.com/search-console/about) and [Ahrefs Webmaster Tools (AWT)](https://ahrefs.com/webmaster-tools). Both tools are free for website owners. 
+
+Google Search Console is one of the essential tools in SEO. It features data straight from Google, so many SEOs believe it’s the most accurate source for some metrics, such as organic traffic.
+
+While being an indispensable tool for SEO, GSC is not perfect. It shows limited data for keywords, backlinks, and SEO issues. Fortunately, AWT is a great tool to fill GSC’s data gaps.
+
+## What to monitor in SEO (and how)
+
+To get started with monitoring your SEO, you’ll need to track these:
+
+*   Organic traffic 
+*   Keyword rankings 
+*   Backlinks 
+*   Selected technical issues 
+
+Here’s why and how. 
+
+### Organic search traffic
+
+Organic traffic refers to the clicks you get from search engine results pages (SERPs) when you rank for keywords searchers use. The higher you rank, the more traffic you can get. 
+
+It’s the most high-level metric in SEO; most SEO tactics aim to increase it.  You need to track organic search traffic to understand whether your SEO efforts are working. 
+
+#### How to check 
+
+Use Google Search Console. 
+
+Note that you need to open GSC (or create an account if you don’t have one).
+
+1.  Go to **Search results** report (“Performance” section) 
+2.  Set a time range and make sure your data is set to **Web** 
+3.  The **Clicks** metric is your organic search traffic 
+
+![Search results report in Google Search Console](https://ahrefs.com/blog/wp-content/uploads/2023/09/image3-1-2.jpg)
+
+You can also see the same traffic data in AWT if you [link your GSC account](https://help.ahrefs.com/en/articles/5311821-how-do-i-see-my-google-search-console-performance-in-ahrefs). The benefit here is that you will be able to see data past GSC’s 16-month limit. 
+
+![Google Search Console data in Ahrefs Webmaster Tools](https://ahrefs.com/blog/wp-content/uploads/2023/09/image10-3.png)
+
+Pro Tip
+
+Some SEOs and content marketers monitor conversions from organic traffic to see which pages have the biggest impact. It’s not something everyone does because the [buyer’s journey](https://ahrefs.com/blog/buyers-journey/) for content can be too complex to properly attribute to a single article or even a set of articles. 
+
+If you want to track conversions from organic traffic, you can do that for free using Google Analytics or its free alternatives like Matomo.
+
+### Keyword rankings
+
+Keyword ranking is the position a page ranks for a given keyword on the SERP.
+
+You need to track keyword positions because when they go down, you lose traffic. You don’t need to track rankings for _all_ of your keywords, though. You just need to track [target keywords](https://ahrefs.com/blog/how-many-seo-keywords/) for all important pages. 
+
+You also need to know when they go up because that probably means your SEO is working. 
+
+#### How to check
+
+You can use GSC or AWT. 
+
+*   Google Search Console will limit your data to 1,000 keywords (or 5,000 through API) and 16 months of data history. On the other hand, your keyword data is updated daily.
+*   [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) has no limits for keywords, backlinks, or data history. It’s easier to navigate and, on top of rankings, you get access to SEO metrics related to your keywords (for example, search volume or [Keyword Difficulty](https://ahrefs.com/seo/glossary/keyword-difficulty)). Data updates depend on the popularity of the keyword and your site. 
+
+If you’re using Google Search Console, you can: 
+
+1\. Go to the **Search results** report and set up a new filter for the exact query you want to check. You will be able to see only one query at a time. 
+
+![Adding a filter in Google Search Console](https://ahrefs.com/blog/wp-content/uploads/2023/09/image2-3.png)
+
+2\. Enable the **Average position** metric. 
+
+![Keyword ranking data in Google Search Console](https://ahrefs.com/blog/wp-content/uploads/2023/09/image6-3.png)
+
+If you’re using Ahrefs Webmaster Tools: 
+
+1\. Go to your **Dashboard** and click on the **Organic keywords** card.
+
+!["Organic keywords" card in Ahrefs Webmaster Tools](https://ahrefs.com/blog/wp-content/uploads/2023/09/image9-3.png)
+
+2\. The tool will take you to [**Site Explorer**](https://ahrefs.com/site-explorer) where you can see your keyword rankings (“Position” column), which pages rank (“URL” column), and how fresh the data is (“Updated” column). 
+
+![Organic keywords and their positions in Ahrefs Webmaster Tools](https://ahrefs.com/blog/wp-content/uploads/2023/09/image11-3.png)
+
+3\. To get a list of only your most important keywords, plug them into the **Keyword** filter. Make sure to set “is” and “any” modes.
+
+![Setting up a filter in Ahrefs Webmaster Tools](https://ahrefs.com/blog/wp-content/uploads/2023/09/image4-4.png)
+
+### Referring domains 
+
+Referring domains are the unique websites pointing to your site. Monitoring them is the best way to see whether your link profile is growing. 
+
+A growing link profile means that your site is gaining [authority](https://ahrefs.com/seo/glossary/website-authority), which can help your pages rank higher. 
+
+#### How to check 
+
+Use [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools). You can:
+
+1\. Go to your **Dashboard**.
+
+2\. Access the **Backlinks** card, which gives you a quick insight into backlinks growth. 
+
+3\. Click on the card to get more data (if you need it).
+
+![Referring domains overview in Ahrefs Webmaster Tools](https://ahrefs.com/blog/wp-content/uploads/2023/09/image1-6.png)
+
+4\. The tool will take you to [**Site Explorer**](https://ahrefs.com/site-explorer)**,** where you can see all [backlinks](https://ahrefs.com/seo/glossary/backlinks) from the domains, [Domain Rating (DR)](https://ahrefs.com/seo/glossary/domain-rating), and other related data. 
+
+![Referring domains report in Ahrefs Webmaster Tools](https://ahrefs.com/blog/wp-content/uploads/2023/09/image8-4.png)
+
+You should aim to build as many or more links than your competitors to increase your chances for ranking. Read our [Link Building for SEO: The Beginner’s Guide](https://ahrefs.com/blog/link-building/) to learn how.
+
+### Technical SEO issues 
+
+[Technical SEO](https://ahrefs.com/blog/technical-seo/) issues refer to possible problems Google may have with finding, [crawling](https://ahrefs.com/seo/glossary/crawlability), [indexing](https://ahrefs.com/seo/glossary/indexability), and understanding your site. 
+
+Monitoring for technical issues matters because it allows you to find and fix errors that can hurt your rankings.
+
+Note
+
+Some issues can have a bigger impact than others (especially [these nine issues](https://ahrefs.com/blog/seo-issues/)). Your site may have some lesser issues (such as missing image alt text) and still rank high.
+
+#### How to check 
+
+Use [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) to monitor for serious technical issues, i.e., errors. You can:
+
+1. Open AWT and go to **Site Audit.** 
+
+2\. Click on **Errors** in the “Issues distribution” card. 
+
+!["Issues distribution" card in Ahrefs' Site Audit](https://ahrefs.com/blog/wp-content/uploads/2023/09/image7-4.png)
+
+3\. Go to the issue list, then click on the question mark next to the error and follow the instructions. 
+
+![All issues report in Ahrefs Webmaster Tools](https://ahrefs.com/blog/wp-content/uploads/2023/09/image5-5.png)
+
+To keep your site in good technical health, schedule regular crawls in AWT and fix the most pressing issues. 
+
+## What NOT to monitor in SEO (and why) 
+
+Here are some popular metrics used in SEO that, in our opinion, are not worth regularly monitoring. That said, they may be useful in other situations. 
+
+*   **Domain rating** – Refers to the relative strength of your backlink profile. It’s a useful proxy for a quick assessment of other sites (for example, for link building) but not very useful for consistent monitoring on your own site. 
+*   **Click-through rate** – Refers to the proportion of page impressions on the SERPs that turned into clicks (available in GSC). It’s too confusing as a sitewide metric, but it can be helpful only when checked on the page level. Also, a low CTR doesn’t necessarily mean there’s something wrong with a given page (SERP features and ads can take away clicks). 
+*   **Engagement metrics** – Especially [bounce rate](https://ahrefs.com/blog/bounce-rate/), engagement rate, [dwell time](https://ahrefs.com/seo/glossary/dwell-time), time on page, and session duration. They are either irrelevant to SEO or unreliable for analyzing content.
+
+## Final thoughts 
+
+You can do a lot with [AWT](https://ahrefs.com/webmaster-tools) and GSC. But there are some aspects of SEO monitoring that only premium SEO tools can do.
+
+*   **Thorough rank tracking** – A premium [rank tracker](https://ahrefs.com/rank-tracker) unlocks ranking data for different locations and mobile devices. Monitoring progress is easier with access to ranking history and a special competitor report. You also get access to the [share of voice](https://ahrefs.com/blog/share-of-voice/) functionality, which can make a more useful KPI than particular keyword rankings. 
+*   **Competitive analysis** – With a tool like Ahrefs’ [Site Explorer](https://ahrefs.com/site-explorer), you can get an insight into your competitors’ [SEO strategy](https://ahrefs.com/blog/orchard-seo-strategy/) by seeing which keywords they rank for and how they earn backlinks. 
+*   **Email alerts** – A feature you can also find in tools like Ahrefs that lets you set up notifications when a competitor’s site ranks for new keywords or gets new backlinks ([watch short demo](https://ahrefs.com/alerts)). You can also get notified of mentions of your brand and products.
+
+Got questions or comments? Ping me [on X](https://twitter.com/m_makosiewicz).
