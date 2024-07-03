@@ -9,5 +9,19 @@
         "name": "Sonico1"
     },
     "items": [
+        {
+            "id": "https://seo.sonico1.com/test/index.html",
+            "url": "https://seo.sonico1.com/test/index.html",
+            "title": "Test",
+            "summary": "Test",
+            "content_html": "<p>Test</p>",
+            "author": {
+                "name": "Sonico1"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-03T23:21:42+01:00",
+            "date_modified": "2024-07-03T23:21:42+01:00"
+        }
     ]
 }
