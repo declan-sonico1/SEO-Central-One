@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://seo.sonico1.com/sitemap.xml

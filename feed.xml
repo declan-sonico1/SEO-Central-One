@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>SEO Central One</title>
+    <link href="https://seo.sonico1.com/feed.xml" rel="self" />
+    <link href="https://seo.sonico1.com" />
+    <updated>2024-07-03T23:21:42+01:00</updated>
+    <author>
+        <name>Sonico1</name>
+    </author>
+    <id>https://seo.sonico1.com</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Sonico1</name>
+        </author>
+        <link href="https://seo.sonico1.com/test/index.html"/>
+        <id>https://seo.sonico1.com/test/index.html</id>
+
+        <updated>2024-07-03T23:21:42+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
